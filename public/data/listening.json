@@ -1,42 +1,1027 @@
 [
-  {"id": "ls-001", "text": "The library is open until nine o'clock every evening.", "difficulty": "CET-4", "translation": "图书馆每天晚上开放到九点。"},
-  {"id": "ls-002", "text": "I'd like to book a single room for two nights, please.", "difficulty": "CET-4", "translation": "我想预订一间单人房，住两晚。"},
-  {"id": "ls-003", "text": "The train leaves from platform three in ten minutes.", "difficulty": "CET-4", "translation": "火车十分钟后从三号站台出发。"},
-  {"id": "ls-004", "text": "Could you tell me how to get to the nearest bank?", "difficulty": "CET-4", "translation": "你能告诉我去最近的银行怎么走吗？"},
-  {"id": "ls-005", "text": "She has been working on the project since last summer.", "difficulty": "CET-4", "translation": "她从去年夏天起就一直在做这个项目。"},
-  {"id": "ls-006", "text": "The weather forecast says it will rain tomorrow afternoon.", "difficulty": "CET-4", "translation": "天气预报说明天下午会下雨。"},
-  {"id": "ls-007", "text": "He decided to study abroad despite his parents' concerns.", "difficulty": "CET-4", "translation": "尽管父母担忧，他还是决定出国留学。"},
-  {"id": "ls-008", "text": "The museum is free for students on weekdays.", "difficulty": "CET-4", "translation": "博物馆在工作日对学生免费开放。"},
-  {"id": "ls-009", "text": "I forgot to bring my umbrella, so I got caught in the rain.", "difficulty": "CET-4", "translation": "我忘了带伞，所以被雨淋了。"},
-  {"id": "ls-010", "text": "The lecture has been postponed until next Thursday.", "difficulty": "CET-4", "translation": "讲座被推迟到下周四。"},
-  {"id": "ls-011", "text": "The government has introduced new measures to reduce pollution.", "difficulty": "CET-6", "translation": "政府已经出台了减少污染的新措施。"},
-  {"id": "ls-012", "text": "Researchers have found a link between sleep and memory.", "difficulty": "CET-6", "translation": "研究人员发现了睡眠与记忆之间的联系。"},
-  {"id": "ls-013", "text": "The company announced a significant increase in profits this quarter.", "difficulty": "CET-6", "translation": "公司宣布本季度利润大幅增长。"},
-  {"id": "ls-014", "text": "Despite the challenges, the team managed to complete the task on time.", "difficulty": "CET-6", "translation": "尽管困难重重，团队还是按时完成了任务。"},
-  {"id": "ls-015", "text": "The report highlights the importance of lifelong learning.", "difficulty": "CET-6", "translation": "报告强调了终身学习的重要性。"},
-  {"id": "ls-016", "text": "Many people are unaware of how much time they spend online.", "difficulty": "CET-6", "translation": "许多人没有意识到自己花了多少时间上网。"},
-  {"id": "ls-017", "text": "The professor emphasised that evidence should come before conclusions.", "difficulty": "CET-6", "translation": "教授强调，证据应当先于结论。"},
-  {"id": "ls-018", "text": "Volunteering not only helps others but also benefits the volunteer.", "difficulty": "CET-6", "translation": "志愿活动不仅帮助他人，也让志愿者自己受益。"},
-  {"id": "ls-019", "text": "The survey revealed that most students prefer to study in the morning.", "difficulty": "CET-6", "translation": "调查显示，大多数学生喜欢在早晨学习。"},
-  {"id": "ls-020", "text": "It is widely believed that regular exercise improves mental health.", "difficulty": "CET-6", "translation": "人们普遍认为，规律运动能改善心理健康。"},
-  {"id": "ls-021", "text": "The novel explores the tension between tradition and modernity.", "difficulty": "考研", "translation": "这部小说探讨了传统与现代之间的张力。"},
-  {"id": "ls-022", "text": "His argument rests on the assumption that human nature is fundamentally good.", "difficulty": "考研", "translation": "他的论点建立在人性本善这一假设之上。"},
-  {"id": "ls-023", "text": "The phenomenon can be attributed to a combination of economic and social factors.", "difficulty": "考研", "translation": "这一现象可归因于经济与社会因素的综合作用。"},
-  {"id": "ls-024", "text": "Critics argue that the policy fails to address the root cause of the problem.", "difficulty": "考研", "translation": "批评者认为，该政策未能解决问题的根本原因。"},
-  {"id": "ls-025", "text": "Language is not merely a tool for communication but a carrier of culture.", "difficulty": "考研", "translation": "语言不仅是交流的工具，更是文化的载体。"},
-  {"id": "ls-026", "text": "The distinction between correlation and causation is often overlooked.", "difficulty": "考研", "translation": "相关性与因果关系的区别常被忽视。"},
-  {"id": "ls-027", "text": "Education should cultivate the ability to think independently.", "difficulty": "考研", "translation": "教育应当培养独立思考的能力。"},
-  {"id": "ls-028", "text": "The author's use of imagery creates a vivid sense of place.", "difficulty": "考研", "translation": "作者对意象的运用营造出鲜明的地域感。"},
-  {"id": "ls-029", "text": "Technological progress has transformed the way we acquire knowledge.", "difficulty": "考研", "translation": "技术进步已经改变了我们获取知识的方式。"},
-  {"id": "ls-030", "text": "A balanced approach is essential when weighing tradition against innovation.", "difficulty": "考研", "translation": "在传统与创新之间权衡时，平衡的方法至关重要。"},
-  {"id": "ls-031", "text": "The meeting has been moved to the conference room on the second floor.", "difficulty": "CET-4", "translation": "会议改到二楼的会议室举行。"},
-  {"id": "ls-032", "text": "You should arrive at the airport at least two hours before departure.", "difficulty": "CET-4", "translation": "你应该至少在起飞前两小时到达机场。"},
-  {"id": "ls-033", "text": "The restaurant was so popular that we had to wait for a table.", "difficulty": "CET-4", "translation": "这家餐厅太火了，我们不得不等位。"},
-  {"id": "ls-034", "text": "I'm afraid the course has already been fully booked.", "difficulty": "CET-4", "translation": "恐怕这门课程已经报满了。"},
-  {"id": "ls-035", "text": "The results of the experiment were far beyond our expectations.", "difficulty": "CET-6", "translation": "实验结果远远超出了我们的预期。"},
-  {"id": "ls-036", "text": "There is growing concern about the impact of social media on teenagers.", "difficulty": "CET-6", "translation": "人们越来越担心社交媒体对青少年的影响。"},
-  {"id": "ls-037", "text": "The two theories, though seemingly contradictory, may in fact be complementary.", "difficulty": "考研", "translation": "这两种理论看似矛盾，实际上可能是互补的。"},
-  {"id": "ls-038", "text": "His speech was praised for its clarity, logic, and emotional depth.", "difficulty": "CET-6", "translation": "他的演讲因清晰、有逻辑且富有情感深度而受到称赞。"},
-  {"id": "ls-039", "text": "The essence of the poem lies in its contrast between light and shadow.", "difficulty": "考研", "translation": "这首诗的精髓在于光与影的对比。"},
-  {"id": "ls-040", "text": "Understanding another culture requires more than just learning its language.", "difficulty": "考研", "translation": "理解另一种文化，需要的不仅仅是学习它的语言。"}
+ {
+  "id": "listen-001",
+  "title": "Choosing a University",
+  "difficulty": "CET-4",
+  "passage": "Choosing a university is one of the most important decisions a young person makes. Many students focus only on academic rankings, but experts suggest considering other factors as well. The location of the campus, the cost of living, and the availability of internships can all shape a student's experience. One graduate said that the city where she studied offered her more opportunities than the university's reputation ever did.",
+  "questions": [
+   {
+    "question": "What is the main idea of the passage?",
+    "options": [
+     "Academic ranking is the only important factor",
+     "Students should consider many factors when choosing a university",
+     "Internships are more important than studying",
+     "University reputation guarantees success"
+    ],
+    "answer": 1,
+    "explanation": "文章强调选择大学不应只看排名，还要考虑位置、生活费、实习机会等因素。"
+   },
+   {
+    "question": "What factor does the graduate mention as most valuable?",
+    "options": [
+     "The university's reputation",
+     "The city where she studied",
+     "The cost of tuition",
+     "The size of the campus"
+    ],
+    "answer": 1,
+    "explanation": "毕业生说，她学习的城市带给她的机会比学校名声更多。"
+   },
+   {
+    "question": "Which factor is NOT mentioned in the passage?",
+    "options": [
+     "Campus location",
+     "Cost of living",
+     "Internship opportunities",
+     "Sports facilities"
+    ],
+    "answer": 3,
+    "explanation": "文中提到位置、生活费和实习机会，未提及体育设施。"
+   }
+  ]
+ },
+ {
+  "id": "listen-002",
+  "title": "The Benefits of Walking",
+  "difficulty": "CET-4",
+  "passage": "Walking is often overlooked as a form of exercise, yet it is one of the healthiest activities available. Doctors say that thirty minutes of brisk walking each day can reduce the risk of heart disease and improve mood. Unlike running, walking puts little pressure on the joints, making it suitable for people of all ages. Best of all, it requires no special equipment and can be done almost anywhere.",
+  "questions": [
+   {
+    "question": "How long should people walk each day according to the passage?",
+    "options": [
+     "Ten minutes",
+     "Twenty minutes",
+     "Thirty minutes",
+     "One hour"
+    ],
+    "answer": 2,
+    "explanation": "医生说每天快走三十分钟即可降低心脏病风险。"
+   },
+   {
+    "question": "Why is walking suitable for people of all ages?",
+    "options": [
+     "It is very cheap",
+     "It puts little pressure on the joints",
+     "It burns more calories than running",
+     "It requires special equipment"
+    ],
+    "answer": 1,
+    "explanation": "走路对关节压力小，因此适合各年龄段的人。"
+   },
+   {
+    "question": "What is one advantage of walking mentioned in the passage?",
+    "options": [
+     "It needs special equipment",
+     "It can be done almost anywhere",
+     "It is only for young people",
+     "It requires a gym membership"
+    ],
+    "answer": 1,
+    "explanation": "文中提到走路不需要特殊装备，几乎在任何地方都能进行。"
+   }
+  ]
+ },
+ {
+  "id": "listen-003",
+  "title": "The History of Tea",
+  "difficulty": "CET-4",
+  "passage": "Tea has been enjoyed for thousands of years and is now the second most popular drink in the world after water. According to legend, tea was discovered in China when leaves blew into a pot of boiling water. From China, the habit of drinking tea spread to Japan and then, through traders, to Europe. Today, tea is grown in dozens of countries and prepared in countless different ways.",
+  "questions": [
+   {
+    "question": "What is the second most popular drink in the world?",
+    "options": [
+     "Coffee",
+     "Milk",
+     "Tea",
+     "Juice"
+    ],
+    "answer": 2,
+    "explanation": "茶是世界上仅次于水的第二大饮品。"
+   },
+   {
+    "question": "How was tea discovered according to the legend?",
+    "options": [
+     "A farmer planted tea seeds",
+     "Leaves blew into boiling water",
+     "A trader brought it from Europe",
+     "Scientists created it in a lab"
+    ],
+    "answer": 1,
+    "explanation": "传说中，茶叶被风吹进煮沸的水里，从而发现了茶。"
+   },
+   {
+    "question": "Which country did tea spread to first after China?",
+    "options": [
+     "Europe",
+     "America",
+     "India",
+     "Japan"
+    ],
+    "answer": 3,
+    "explanation": "茶先从中国传到日本，再经商人传到欧洲。"
+   }
+  ]
+ },
+ {
+  "id": "listen-004",
+  "title": "Why We Dream",
+  "difficulty": "CET-4",
+  "passage": "Scientists still do not fully understand why we dream, but they have several theories. One theory suggests that dreams help us process emotions and memories from the day. Another proposes that dreaming is simply the brain's way of staying active during sleep. What is certain is that everyone dreams, even people who claim they never remember their dreams. On average, a person dreams for about two hours every night.",
+  "questions": [
+   {
+    "question": "What is one theory about why we dream?",
+    "options": [
+     "Dreams help process emotions and memories",
+     "Dreams predict the future",
+     "Dreams are caused by hunger",
+     "Dreams only happen to some people"
+    ],
+    "answer": 0,
+    "explanation": "一种理论认为梦帮助我们处理白天的情绪和记忆。"
+   },
+   {
+    "question": "How long does a person dream each night on average?",
+    "options": [
+     "Thirty minutes",
+     "One hour",
+     "Two hours",
+     "Five hours"
+    ],
+    "answer": 2,
+    "explanation": "人们平均每晚做梦约两小时。"
+   },
+   {
+    "question": "What is certain about dreaming?",
+    "options": [
+     "Only adults dream",
+     "Everyone dreams",
+     "Dreams are always remembered",
+     "Dreaming is harmful"
+    ],
+    "answer": 1,
+    "explanation": "可以确定的是每个人都会做梦，即使有些人声称从不记得。"
+   }
+  ]
+ },
+ {
+  "id": "listen-005",
+  "title": "The Rise of Online Shopping",
+  "difficulty": "CET-4",
+  "passage": "Online shopping has grown rapidly over the past two decades, transforming the way people buy goods. Consumers now enjoy the convenience of ordering almost anything from home and having it delivered to their door. However, this convenience has come at a cost for traditional stores, many of which have closed. Economists note that while prices online are often lower, shoppers should still compare products carefully and be aware of delivery fees.",
+  "questions": [
+   {
+    "question": "What has online shopping transformed?",
+    "options": [
+     "The weather",
+     "The way people buy goods",
+     "The education system",
+     "The airline industry"
+    ],
+    "answer": 1,
+    "explanation": "网上购物改变了人们购买商品的方式。"
+   },
+   {
+    "question": "What happened to many traditional stores?",
+    "options": [
+     "They became more popular",
+     "They moved online successfully",
+     "Many of them closed",
+     "They lowered their prices"
+    ],
+    "answer": 2,
+    "explanation": "网购的便利让许多传统商店关门了。"
+   },
+   {
+    "question": "What do economists advise shoppers to do?",
+    "options": [
+     "Always buy online",
+     "Compare products and watch for delivery fees",
+     "Avoid online shopping",
+     "Only shop at malls"
+    ],
+    "answer": 1,
+    "explanation": "经济学家提醒消费者要仔细比较商品，并注意运费。"
+   }
+  ]
+ },
+ {
+  "id": "listen-006",
+  "title": "The Importance of Breakfast",
+  "difficulty": "CET-4",
+  "passage": "Breakfast is often called the most important meal of the day, and research appears to support this. Studies show that people who eat breakfast tend to concentrate better at work and school. Skipping breakfast, on the other hand, can lead to low energy and overeating later in the day. Nutritionists recommend a breakfast that includes protein, whole grains, and fruit for a balanced start to the morning.",
+  "questions": [
+   {
+    "question": "What do studies show about people who eat breakfast?",
+    "options": [
+     "They concentrate better",
+     "They gain more weight",
+     "They sleep longer",
+     "They eat less fruit"
+    ],
+    "answer": 0,
+    "explanation": "研究表明吃早餐的人在工作学习中注意力更集中。"
+   },
+   {
+    "question": "What can skipping breakfast lead to?",
+    "options": [
+     "Better concentration",
+     "Low energy and overeating",
+     "Weight loss only",
+     "Improved memory"
+    ],
+    "answer": 1,
+    "explanation": "不吃早餐可能导致精力不足和之后暴饮暴食。"
+   },
+   {
+    "question": "What do nutritionists recommend for breakfast?",
+    "options": [
+     "Only coffee",
+     "Protein, whole grains and fruit",
+     "A large dinner",
+     "Sweets and pastries"
+    ],
+    "answer": 1,
+    "explanation": "营养师建议早餐包含蛋白质、全谷物和水果。"
+   }
+  ]
+ },
+ {
+  "id": "listen-007",
+  "title": "Learning a Musical Instrument",
+  "difficulty": "CET-4",
+  "passage": "Learning to play a musical instrument offers benefits that go far beyond the ability to perform. Children who study music often develop better memory and discipline. Playing an instrument also teaches patience, because progress comes slowly and through regular practice. Even adults who begin late in life report that music brings them joy and relaxation. Many schools, however, have cut music programmes due to budget pressures, which experts describe as shortsighted.",
+  "questions": [
+   {
+    "question": "What is one benefit of learning music mentioned in the passage?",
+    "options": [
+     "Better memory",
+     "Higher income",
+     "Faster running",
+     "Better eyesight"
+    ],
+    "answer": 0,
+    "explanation": "学习音乐的孩子往往记忆力更好、更有纪律。"
+   },
+   {
+    "question": "What does playing an instrument teach?",
+    "options": [
+     "Speed and competition",
+     "Patience",
+     "How to save money",
+     "Public speaking"
+    ],
+    "answer": 1,
+    "explanation": "演奏乐器教会人耐心，因为进步是缓慢的。"
+   },
+   {
+    "question": "Why have many schools cut music programmes?",
+    "options": [
+     "Students do not like music",
+     "Budget pressures",
+     "Teachers are unavailable",
+     "Instruments are too loud"
+    ],
+    "answer": 1,
+    "explanation": "由于预算压力，许多学校削减了音乐课程。"
+   }
+  ]
+ },
+ {
+  "id": "listen-008",
+  "title": "The Sharing Economy",
+  "difficulty": "CET-6",
+  "passage": "The sharing economy has grown from a niche idea into a global industry worth billions of dollars. Services that allow people to rent homes, cars, and tools from one another have made better use of resources that would otherwise sit idle. Supporters argue that this model reduces waste and creates flexible income. Critics, however, point out that it has disrupted traditional industries and raised concerns about regulation and worker protection.",
+  "questions": [
+   {
+    "question": "What does the sharing economy allow people to do?",
+    "options": [
+     "Buy new homes",
+     "Rent goods from one another",
+     "Start banks",
+     "Avoid paying taxes"
+    ],
+    "answer": 1,
+    "explanation": "共享经济让人们互相租用房屋、汽车和工具。"
+   },
+   {
+    "question": "What do supporters say about the sharing economy?",
+    "options": [
+     "It wastes resources",
+     "It reduces waste and creates income",
+     "It only benefits large companies",
+     "It has no benefits"
+    ],
+    "answer": 1,
+    "explanation": "支持者认为它减少浪费并创造灵活收入。"
+   },
+   {
+    "question": "What concern do critics raise?",
+    "options": [
+     "It is too cheap",
+     "Regulation and worker protection",
+     "It uses too much energy",
+     "It is unpopular"
+    ],
+    "answer": 1,
+    "explanation": "批评者担心监管和工人保护问题。"
+   }
+  ]
+ },
+ {
+  "id": "listen-009",
+  "title": "The Effects of Sleep Deprivation",
+  "difficulty": "CET-6",
+  "passage": "Sleep deprivation has become a widespread problem in modern society, where long working hours and constant screen time push sleep to the bottom of the priority list. The effects are more serious than many realise. Lack of sleep impairs attention and memory, weakens the immune system, and increases the risk of serious illness. Researchers stress that consistently sleeping fewer than seven hours a night is linked to long-term health problems, and they urge people to treat sleep as a necessity rather than a luxury.",
+  "questions": [
+   {
+    "question": "What is a major cause of sleep deprivation mentioned in the passage?",
+    "options": [
+     "Too much exercise",
+     "Long working hours and screen time",
+     "Eating too late",
+     "Cold weather"
+    ],
+    "answer": 1,
+    "explanation": "长时间工作和持续的屏幕使用把睡眠挤到了优先级的最后。"
+   },
+   {
+    "question": "What is one effect of lack of sleep?",
+    "options": [
+     "Improved memory",
+     "Weakened immune system",
+     "Increased energy",
+     "Better attention"
+    ],
+    "answer": 1,
+    "explanation": "睡眠不足会削弱免疫系统。"
+   },
+   {
+    "question": "How many hours of sleep is linked to long-term health problems?",
+    "options": [
+     "More than ten",
+     "Eight hours",
+     "Fewer than seven",
+     "Exactly six"
+    ],
+    "answer": 2,
+    "explanation": "研究人员指出，长期每晚睡不到七小时与健康问题相关。"
+   }
+  ]
+ },
+ {
+  "id": "listen-010",
+  "title": "Urban Green Spaces",
+  "difficulty": "CET-6",
+  "passage": "As cities grow denser, the value of urban green spaces becomes increasingly clear. Parks and tree-lined streets do more than beautify a neighbourhood; they cool the surrounding air, absorb rainwater, and provide habitats for wildlife. Studies also link access to green space with lower levels of stress and better mental health. Despite these benefits, green space is often the first thing to be sacrificed when land is scarce, a decision planners increasingly regret.",
+  "questions": [
+   {
+    "question": "What is one physical benefit of urban green spaces?",
+    "options": [
+     "They cool the air",
+     "They increase traffic",
+     "They raise property taxes",
+     "They create noise"
+    ],
+    "answer": 0,
+    "explanation": "绿地和林荫道能降低周围空气温度。"
+   },
+   {
+    "question": "What do studies link green space to?",
+    "options": [
+     "Higher stress",
+     "Better mental health",
+     "More illness",
+     "Shorter life"
+    ],
+    "answer": 1,
+    "explanation": "研究把接触绿地与压力降低和更好的心理健康联系起来。"
+   },
+   {
+    "question": "What happens when land is scarce?",
+    "options": [
+     "More parks are built",
+     "Green space is often sacrificed",
+     "Trees grow faster",
+     "Nothing changes"
+    ],
+    "answer": 1,
+    "explanation": "土地稀缺时，绿地往往首先被牺牲。"
+   }
+  ]
+ },
+ {
+  "id": "listen-011",
+  "title": "The Digital Divide",
+  "difficulty": "CET-6",
+  "passage": "The digital divide refers to the gap between those who have access to modern technology and those who do not. This divide exists not only between rich and poor countries but also within them, affecting the elderly, rural residents, and low-income families. During the pandemic, when education and work moved online, the divide became painfully visible, as students without reliable internet struggled to keep up. Closing this gap, experts argue, is essential for building a fair society.",
+  "questions": [
+   {
+    "question": "What does the digital divide refer to?",
+    "options": [
+     "The gap in technology access",
+     "The difference between computers",
+     "The speed of the internet",
+     "The price of phones"
+    ],
+    "answer": 0,
+    "explanation": "数字鸿沟指能接触现代技术的人与不能的人之间的差距。"
+   },
+   {
+    "question": "Who is affected by the digital divide?",
+    "options": [
+     "Only poor countries",
+     "The elderly, rural residents and low-income families",
+     "Only students",
+     "Only large companies"
+    ],
+    "answer": 1,
+    "explanation": "鸿沟影响老年人、农村居民和低收入家庭。"
+   },
+   {
+    "question": "When did the divide become painfully visible?",
+    "options": [
+     "During the pandemic",
+     "During a holiday",
+     "During an election",
+     "During a sports event"
+    ],
+    "answer": 0,
+    "explanation": "疫情期间教育和办公转为线上，数字鸿沟变得显而易见。"
+   }
+  ]
+ },
+ {
+  "id": "listen-012",
+  "title": "The Psychology of Gratitude",
+  "difficulty": "CET-6",
+  "passage": "Psychologists have found that gratitude is one of the simplest and most effective ways to improve well-being. People who regularly write down things they are thankful for report higher life satisfaction and fewer symptoms of depression. The practice works by shifting attention away from what is missing and toward what is already present. Experts recommend making gratitude a daily habit, such as noting three good things before going to bed.",
+  "questions": [
+   {
+    "question": "What is gratitude according to the passage?",
+    "options": [
+     "A difficult habit",
+     "An effective way to improve well-being",
+     "A form of exercise",
+     "A type of medicine"
+    ],
+    "answer": 1,
+    "explanation": "感恩是改善幸福感最简单有效的方法之一。"
+   },
+   {
+    "question": "How does gratitude work?",
+    "options": [
+     "By shifting attention to what is present",
+     "By increasing wealth",
+     "By reducing sleep",
+     "By ignoring problems entirely"
+    ],
+    "answer": 0,
+    "explanation": "感恩通过把注意力从缺失转移到已有而发挥作用。"
+   },
+   {
+    "question": "What do experts recommend before bed?",
+    "options": [
+     "Exercising",
+     "Noting three good things",
+     "Watching television",
+     "Eating a snack"
+    ],
+    "answer": 1,
+    "explanation": "专家建议睡前记下三件好事。"
+   }
+  ]
+ },
+ {
+  "id": "listen-013",
+  "title": "The Decline of Handwriting",
+  "difficulty": "考研",
+  "passage": "As keyboards and touchscreens replace pens, handwriting is quietly disappearing from daily life. This change carries unexpected consequences. Research shows that writing by hand activates areas of the brain involved in memory and learning in ways that typing does not. Students who take notes by hand tend to understand and retain material better than those who type. Some educators therefore argue that handwriting should remain part of the curriculum, not out of nostalgia, but for its genuine cognitive benefits.",
+  "questions": [
+   {
+    "question": "What is quietly disappearing from daily life?",
+    "options": [
+     "Keyboards",
+     "Handwriting",
+     "Computers",
+     "Books"
+    ],
+    "answer": 1,
+    "explanation": "随着键盘和触屏取代笔，手写正从日常生活中消失。"
+   },
+   {
+    "question": "What does writing by hand activate?",
+    "options": [
+     "Areas of the brain involved in memory",
+     "The muscles only",
+     "The eyes",
+     "Nothing special"
+    ],
+    "answer": 0,
+    "explanation": "手写能激活大脑中与记忆和学习相关的区域。"
+   },
+   {
+    "question": "Why do some educators want to keep handwriting in the curriculum?",
+    "options": [
+     "Out of nostalgia",
+     "For its cognitive benefits",
+     "Because it is cheap",
+     "Because parents demand it"
+    ],
+    "answer": 1,
+    "explanation": "教育者认为应保留手写，是因为它真正的认知益处而非怀旧。"
+   }
+  ]
+ },
+ {
+  "id": "listen-014",
+  "title": "The Economics of Happiness",
+  "difficulty": "考研",
+  "passage": "The relationship between money and happiness is more complicated than most people assume. Research shows that rising income does improve well-being, but only up to a point. Once basic needs are met, additional wealth produces smaller and smaller gains in satisfaction. What predicts happiness far more reliably are relationships, health, and a sense of purpose. This finding has led some governments to look beyond economic growth and to measure the well-being of their citizens directly.",
+  "questions": [
+   {
+    "question": "According to the passage, rising income improves well-being only until what point?",
+    "options": [
+     "Forever",
+     "Until basic needs are met",
+     "Until retirement",
+     "Never"
+    ],
+    "answer": 1,
+    "explanation": "收入增长只在基本需求满足之前显著提升幸福感。"
+   },
+   {
+    "question": "What predicts happiness more reliably than money?",
+    "options": [
+     "Relationships, health and purpose",
+     "A large house",
+     "Luxury cars",
+     "Frequent travel"
+    ],
+    "answer": 0,
+    "explanation": "关系、健康和目标感比金钱更能预测幸福。"
+   },
+   {
+    "question": "What have some governments begun to measure?",
+    "options": [
+     "Only GDP",
+     "The well-being of citizens",
+     "The stock market",
+     "Population only"
+    ],
+    "answer": 1,
+    "explanation": "一些政府开始直接衡量公民的幸福感。"
+   }
+  ]
+ },
+ {
+  "id": "listen-015",
+  "title": "The Rise of Remote Work",
+  "difficulty": "CET-6",
+  "passage": "Remote work, once a rare perk, has become a permanent feature of many industries. Employees value the flexibility it offers, saving hours previously spent commuting and gaining more control over their schedules. Employers have also noticed benefits, including access to a wider talent pool and lower office costs. However, remote work is not without challenges. Some workers report feelings of isolation, and managers struggle to build team culture across a screen.",
+  "questions": [
+   {
+    "question": "What do employees value about remote work?",
+    "options": [
+     "Longer commutes",
+     "Flexibility",
+     "Higher rent",
+     "More meetings"
+    ],
+    "answer": 1,
+    "explanation": "员工看重远程工作的灵活性，节省通勤时间。"
+   },
+   {
+    "question": "What benefit do employers notice?",
+    "options": [
+     "Access to a wider talent pool",
+     "More office space needed",
+     "Higher costs",
+     "Less productivity"
+    ],
+    "answer": 0,
+    "explanation": "雇主发现远程工作能接触到更广泛的人才库并降低办公成本。"
+   },
+   {
+    "question": "What challenge is mentioned in the passage?",
+    "options": [
+     "Too much socialising",
+     "Feelings of isolation",
+     "Too many holidays",
+     "Higher salaries"
+    ],
+    "answer": 1,
+    "explanation": "一些员工报告感到孤立，管理者难以隔着屏幕建立团队文化。"
+   }
+  ]
+ },
+ {
+  "id": "listen-016",
+  "title": "Why We Procrastinate",
+  "difficulty": "CET-6",
+  "passage": "Procrastination is often mistaken for laziness, but psychologists see it differently. They describe it as an emotional problem rather than a time-management problem. When a task triggers anxiety or boredom, the brain seeks relief by turning to something more pleasant, and this short-term escape only makes the task loom larger. Breaking the cycle, experts say, begins with forgiving yourself for past delays and starting with a task so small that beginning feels easy.",
+  "questions": [
+   {
+    "question": "How do psychologists describe procrastination?",
+    "options": [
+     "As laziness",
+     "As an emotional problem",
+     "As a physical illness",
+     "As a sign of intelligence"
+    ],
+    "answer": 1,
+    "explanation": "心理学家把拖延描述为情绪问题而非时间管理问题。"
+   },
+   {
+    "question": "Why does the brain turn to something more pleasant?",
+    "options": [
+     "To seek relief from anxiety",
+     "To waste time",
+     "To learn new skills",
+     "To please others"
+    ],
+    "answer": 0,
+    "explanation": "当任务引发焦虑或无聊时，大脑通过转向更愉快的事来寻求缓解。"
+   },
+   {
+    "question": "What is the first step to breaking the cycle?",
+    "options": [
+     "Punishing yourself",
+     "Forgiving yourself for past delays",
+     "Quitting the task",
+     "Working all night"
+    ],
+    "answer": 1,
+    "explanation": "专家说打破循环始于原谅自己过去的拖延。"
+   }
+  ]
+ },
+ {
+  "id": "listen-017",
+  "title": "The Benefits of Bilingualism",
+  "difficulty": "考研",
+  "passage": "Bilingualism was once viewed with suspicion, but research has turned that view on its head. Far from confusing the mind, speaking two languages appears to strengthen it. Bilingual individuals constantly manage two linguistic systems, which exercises the brain's executive control and improves attention. Some studies even suggest that lifelong bilingualism may delay the onset of dementia by several years, building a cognitive reserve that protects the ageing brain.",
+  "questions": [
+   {
+    "question": "How was bilingualism once viewed?",
+    "options": [
+     "With admiration",
+     "With suspicion",
+     "With indifference",
+     "As essential"
+    ],
+    "answer": 1,
+    "explanation": "双语能力曾被怀疑地看待。"
+   },
+   {
+    "question": "What does speaking two languages strengthen?",
+    "options": [
+     "The body's muscles",
+     "The brain's executive control",
+     "The immune system",
+     "Nothing"
+    ],
+    "answer": 1,
+    "explanation": "双语者不断管理两套语言系统，锻炼了大脑的执行控制能力。"
+   },
+   {
+    "question": "What may lifelong bilingualism delay?",
+    "options": [
+     "Retirement",
+     "The onset of dementia",
+     "Graduation",
+     "Marriage"
+    ],
+    "answer": 1,
+    "explanation": "研究表明终身双语可能将痴呆症发病推迟数年。"
+   }
+  ]
+ },
+ {
+  "id": "listen-018",
+  "title": "Food Waste",
+  "difficulty": "CET-6",
+  "passage": "About a third of all food produced worldwide is never eaten. This waste occurs at every stage, from farms where crops are rejected for cosmetic flaws, to homes where leftovers are thrown away. The environmental cost is enormous, since wasted food consumes land, water, and energy, and its decomposition releases greenhouse gases. Reducing food waste, experts argue, is one of the most effective actions individuals can take to fight climate change, starting with simple habits like planning meals and using leftovers.",
+  "questions": [
+   {
+    "question": "How much of the world's food is never eaten?",
+    "options": [
+     "One tenth",
+     "One quarter",
+     "One third",
+     "One half"
+    ],
+    "answer": 2,
+    "explanation": "全球约三分之一的食物从未被食用。"
+   },
+   {
+    "question": "Why are crops rejected on farms?",
+    "options": [
+     "For cosmetic flaws",
+     "For being too expensive",
+     "For being too small to pick",
+     "For legal reasons"
+    ],
+    "answer": 0,
+    "explanation": "农作物因外观瑕疵而被丢弃。"
+   },
+   {
+    "question": "What is a simple habit to reduce food waste?",
+    "options": [
+     "Buying more food",
+     "Planning meals and using leftovers",
+     "Eating out more",
+     "Throwing away leftovers"
+    ],
+    "answer": 1,
+    "explanation": "规划膳食和利用剩菜是减少浪费的简单习惯。"
+   }
+  ]
+ },
+ {
+  "id": "listen-019",
+  "title": "The Growth Mindset",
+  "difficulty": "考研",
+  "passage": "The growth mindset is the belief that abilities can be developed through effort and learning. People with this mindset tend to see challenges as opportunities rather than threats, and they persist longer when facing difficulty. In contrast, those with a fixed mindset believe that intelligence is innate and unchangeable, which can lead them to avoid challenges for fear of failure. The key insight, educators say, is that praising effort rather than talent encourages the kind of persistence that leads to genuine improvement.",
+  "questions": [
+   {
+    "question": "What is the growth mindset?",
+    "options": [
+     "The belief that abilities can be developed",
+     "The belief that intelligence is fixed",
+     "A type of exercise",
+     "A teaching method only"
+    ],
+    "answer": 0,
+    "explanation": "成长型思维是相信能力可以通过努力和学习发展。"
+   },
+   {
+    "question": "What do people with a fixed mindset tend to do?",
+    "options": [
+     "Embrace challenges",
+     "Avoid challenges for fear of failure",
+     "Learn faster",
+     "Ask for help"
+    ],
+    "answer": 1,
+    "explanation": "固定型思维的人认为智力天生不变，可能因害怕失败而回避挑战。"
+   },
+   {
+    "question": "What should educators praise to encourage persistence?",
+    "options": [
+     "Talent",
+     "Effort",
+     "Appearance",
+     "Wealth"
+    ],
+    "answer": 1,
+    "explanation": "教育者应表扬努力而非天赋，以鼓励坚持。"
+   }
+  ]
+ },
+ {
+  "id": "listen-020",
+  "title": "The History of the Internet",
+  "difficulty": "CET-6",
+  "passage": "The internet began as a research project in the 1960s, designed to allow computers at different locations to share information. At the time, few imagined it would become the global network it is today. Over the following decades, it expanded from universities and research centres to homes and businesses around the world. The arrival of the World Wide Web in the early 1990s made the internet accessible to ordinary people, and it has since transformed communication, commerce, and culture.",
+  "questions": [
+   {
+    "question": "When did the internet begin?",
+    "options": [
+     "In the 1920s",
+     "In the 1960s",
+     "In the 1990s",
+     "In the 2000s"
+    ],
+    "answer": 1,
+    "explanation": "互联网始于 20 世纪 60 年代的研究项目。"
+   },
+   {
+    "question": "What was the original purpose of the internet?",
+    "options": [
+     "Online shopping",
+     "Sharing information between computers",
+     "Social networking",
+     "Playing games"
+    ],
+    "answer": 1,
+    "explanation": "互联网最初是为了让不同地点的计算机共享信息。"
+   },
+   {
+    "question": "What made the internet accessible to ordinary people?",
+    "options": [
+     "Email",
+     "The World Wide Web",
+     "Smartphones",
+     "Social media"
+    ],
+    "answer": 1,
+    "explanation": "20 世纪 90 年代初万维网的出现让普通人也能使用互联网。"
+   }
+  ]
+ },
+ {
+  "id": "listen-021",
+  "title": "The Power of Reading Aloud",
+  "difficulty": "CET-4",
+  "passage": "Reading aloud is often considered an activity for children, but it benefits people of all ages. When we read aloud, we engage both the visual and auditory parts of the brain, which deepens comprehension and memory. Language learners, in particular, benefit from hearing the rhythm and pronunciation of words. Teachers recommend reading aloud for just a few minutes each day, noting that the practice improves fluency and builds confidence over time.",
+  "questions": [
+   {
+    "question": "Who benefits from reading aloud?",
+    "options": [
+     "Only children",
+     "People of all ages",
+     "Only teachers",
+     "Only the elderly"
+    ],
+    "answer": 1,
+    "explanation": "朗读对所有年龄段的人都有益。"
+   },
+   {
+    "question": "Why does reading aloud deepen comprehension?",
+    "options": [
+     "It engages visual and auditory parts of the brain",
+     "It is faster",
+     "It is quieter",
+     "It uses less energy"
+    ],
+    "answer": 0,
+    "explanation": "朗读同时调动大脑的视觉和听觉部分，加深理解和记忆。"
+   },
+   {
+    "question": "How long do teachers recommend reading aloud?",
+    "options": [
+     "One hour",
+     "A few minutes each day",
+     "Once a week",
+     "Never"
+    ],
+    "answer": 1,
+    "explanation": "教师建议每天朗读几分钟即可。"
+   }
+  ]
+ },
+ {
+  "id": "listen-022",
+  "title": "The Science of Smell",
+  "difficulty": "CET-6",
+  "passage": "Of all the senses, smell is perhaps the most closely linked to memory. A single scent can instantly recall a childhood kitchen or a long-forgotten holiday. Scientists explain that this is because the brain region that processes smell sits directly next to the areas responsible for emotion and memory. This close connection is why certain smells trigger vivid recollections that other senses cannot match, a phenomenon sometimes called the Proust effect.",
+  "questions": [
+   {
+    "question": "Which sense is most closely linked to memory?",
+    "options": [
+     "Sight",
+     "Hearing",
+     "Smell",
+     "Touch"
+    ],
+    "answer": 2,
+    "explanation": "嗅觉是与记忆联系最紧密的感官。"
+   },
+   {
+    "question": "Why do smells trigger vivid memories?",
+    "options": [
+     "The smell region is next to emotion and memory areas",
+     "Smells are stronger than sights",
+     "People prefer smells",
+     "It is a cultural habit"
+    ],
+    "answer": 0,
+    "explanation": "处理嗅觉的大脑区域紧邻负责情绪和记忆的区域。"
+   },
+   {
+    "question": "What is this phenomenon sometimes called?",
+    "options": [
+     "The Mozart effect",
+     "The Proust effect",
+     "The butterfly effect",
+     "The placebo effect"
+    ],
+    "answer": 1,
+    "explanation": "这一现象有时被称为普鲁斯特效应。"
+   }
+  ]
+ },
+ {
+  "id": "listen-023",
+  "title": "Volunteering and Well-being",
+  "difficulty": "CET-6",
+  "passage": "Volunteering is usually described in terms of what it gives to others, but research shows that volunteers themselves gain a great deal. Studies find that people who volunteer regularly report better mental health, lower stress, and a stronger sense of belonging. Helping others appears to activate the same reward systems in the brain that respond to other pleasures, leading some researchers to call volunteering a natural mood enhancer.",
+  "questions": [
+   {
+    "question": "How is volunteering usually described?",
+    "options": [
+     "In terms of what it gives to others",
+     "As a form of work",
+     "As a hobby",
+     "As expensive"
+    ],
+    "answer": 0,
+    "explanation": "志愿服务通常被描述为给予他人。"
+   },
+   {
+    "question": "What do regular volunteers report?",
+    "options": [
+     "Higher stress",
+     "Better mental health",
+     "More isolation",
+     "Less sleep"
+    ],
+    "answer": 1,
+    "explanation": "定期做志愿者的人报告更好的心理健康、更低的压力和更强的归属感。"
+   },
+   {
+    "question": "What do some researchers call volunteering?",
+    "options": [
+     "A waste of time",
+     "A natural mood enhancer",
+     "A social burden",
+     "An obligation"
+    ],
+    "answer": 1,
+    "explanation": "帮助他人激活大脑的奖赏系统，研究者称之为天然的情绪提升剂。"
+   }
+  ]
+ },
+ {
+  "id": "listen-024",
+  "title": "The Importance of Critical Thinking",
+  "difficulty": "考研",
+  "passage": "In an age of information overload, critical thinking has become an essential skill. It is the ability to evaluate evidence, question assumptions, and distinguish fact from opinion. Schools have traditionally focused on delivering knowledge, but educators increasingly argue that teaching students how to think is more important than teaching them what to think. A person who can think critically is less easily misled and better equipped to make sound decisions in a complex world.",
+  "questions": [
+   {
+    "question": "What is critical thinking?",
+    "options": [
+     "Memorising facts",
+     "Evaluating evidence and questioning assumptions",
+     "Following authority",
+     "Guessing quickly"
+    ],
+    "answer": 1,
+    "explanation": "批判性思维是评估证据、质疑假设和区分事实与观点的能力。"
+   },
+   {
+    "question": "What do educators increasingly argue?",
+    "options": [
+     "Teaching how to think is more important than what to think",
+     "Memorisation is most important",
+     "Students should not question",
+     "Thinking is unnecessary"
+    ],
+    "answer": 0,
+    "explanation": "教育者认为教学生如何思考比教他们思考什么更重要。"
+   },
+   {
+    "question": "What is a benefit of critical thinking?",
+    "options": [
+     "Being easily misled",
+     "Making sound decisions",
+     "Avoiding all challenges",
+     "Following the crowd"
+    ],
+    "answer": 1,
+    "explanation": "能批判性思考的人不易被误导，更能做出明智的决定。"
+   }
+  ]
+ },
+ {
+  "id": "listen-025",
+  "title": "The Value of Failure",
+  "difficulty": "考研",
+  "passage": "Failure is rarely welcome, yet it is one of the most effective teachers. Many of history's greatest achievements were built on repeated setbacks, from scientific discoveries to entrepreneurial success. The key difference between those who grow from failure and those who are defeated by it lies in how they respond. People who examine their mistakes, learn from them, and try again tend to build the resilience that eventually leads to success. In this sense, failure is not the opposite of success but a necessary step on the road to it.",
+  "questions": [
+   {
+    "question": "What is one of the most effective teachers according to the passage?",
+    "options": [
+     "Failure",
+     "Wealth",
+     "Praise",
+     "Luck"
+    ],
+    "answer": 0,
+    "explanation": "失败是最有效的老师之一。"
+   },
+   {
+    "question": "What is the key difference between those who grow and those who are defeated?",
+    "options": [
+     "Their intelligence",
+     "How they respond to failure",
+     "Their wealth",
+     "Their education"
+    ],
+    "answer": 1,
+    "explanation": "关键区别在于人们如何回应失败。"
+   },
+   {
+    "question": "What does failure eventually lead to for those who learn from it?",
+    "options": [
+     "More failure only",
+     "Resilience and success",
+     "Giving up",
+     "Isolation"
+    ],
+    "answer": 1,
+    "explanation": "从失败中学习的人会培养出最终通向成功的韧性。"
+   }
+  ]
+ }
 ]
