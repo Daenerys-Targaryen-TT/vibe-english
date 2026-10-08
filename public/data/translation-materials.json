@@ -1,0 +1,74 @@
+[
+  {
+    "id": "trans-001",
+    "title": "背影（节选）",
+    "author": "朱自清",
+    "source": "张培基《英译中国现代散文选》",
+    "difficulty": "advanced",
+    "sentences": [
+      {
+        "id": "s1",
+        "chinese": "我与父亲不相见已二年余了，我最不能忘记的是他的背影。",
+        "reference": "It is more than two years since I last saw father, and what I can never forget is the sight of his back."
+      },
+      {
+        "id": "s2",
+        "chinese": "那年冬天，祖母死了，父亲的差使也交卸了，正是祸不单行的日子。",
+        "reference": "In the winter of that year, grandmother died, and father lost his job. Misfortunes never come singly."
+      },
+      {
+        "id": "s3",
+        "chinese": "我从北京到徐州，打算跟着父亲奔丧回家。",
+        "reference": "I left Beijing for Xuzhou to join father in hastening home to attend grandmother's funeral."
+      }
+    ]
+  },
+  {
+    "id": "trans-002",
+    "title": "匆匆（节选）",
+    "author": "朱自清",
+    "source": "张培基《英译中国现代散文选》",
+    "difficulty": "intermediate",
+    "sentences": [
+      {
+        "id": "s1",
+        "chinese": "燕子去了，有再来的时候；杨柳枯了，有再青的时候；桃花谢了，有再开的时候。",
+        "reference": "Swallows may have gone, but there is a time of return; willow trees may have died back, but there is a time of regreening; peach blossoms may have fallen, but they will bloom again."
+      },
+      {
+        "id": "s2",
+        "chinese": "但是，聪明的，你告诉我，我们的日子为什么一去不复返呢？",
+        "reference": "But, tell me, you the wise, why should our days leave us, never to return?"
+      },
+      {
+        "id": "s3",
+        "chinese": "在逃去如飞的日子里，在千门万户的世界里的我能做些什么呢？",
+        "reference": "What can I do, in this bustling world, with my days flying in their escape?"
+      }
+    ]
+  },
+  {
+    "id": "trans-003",
+    "title": "荷塘月色（节选）",
+    "author": "朱自清",
+    "source": "张培基《英译中国现代散文选》",
+    "difficulty": "advanced",
+    "sentences": [
+      {
+        "id": "s1",
+        "chinese": "这几天心里颇不宁静。",
+        "reference": "The last few days have found me very restless."
+      },
+      {
+        "id": "s2",
+        "chinese": "今晚在院子里坐着乘凉，忽然想起日日走过的荷塘。",
+        "reference": "Tonight, as I sat in the yard enjoying the cool, it occurred to me to visit the lotus pond, which I pass by every day."
+      },
+      {
+        "id": "s3",
+        "chinese": "月光如流水一般，静静地泻在这一片叶子和花上。",
+        "reference": "The moonlight was streaming down like water, quietly pouring over the leaves and flowers."
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "article-003",
+  "title": "The Quiet Power of Reading Slowly",
+  "source": "The Atlantic",
+  "date": "2025-04-10",
+  "difficulty": "CET-6",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In an age of endless scrolling, the ability to read a single long article from beginning to end has become something of a rare skill. Attention, it turns out, is not merely a fixed resource but a muscle that strengthens or withers with use."
+    },
+    {
+      "id": "p2",
+      "text": "Slow reading—the deliberate, unhurried engagement with a text—confers benefits that skimming cannot. It allows the reader to trace an argument's architecture, to notice the rhythm of a sentence, and to weigh evidence rather than merely absorb conclusions."
+    },
+    {
+      "id": "p3",
+      "text": "For language learners, this habit is doubly valuable. Encountering unfamiliar words in rich context fixes them in memory far more effectively than isolated memorisation. Each re-reading of a difficult passage quietly expands the boundaries of comprehension."
+    },
+    {
+      "id": "p4",
+      "text": "The challenge is not intellectual but habitual. Set a timer for twenty minutes, silence your phone, and read without interruption. The reward is a mind that can hold a thought long enough to truly understand it."
+    }
+  ],
+  "glossary": [
+    { "word": "withers", "translation": "枯萎，衰退" },
+    { "word": "confers", "translation": "赋予，给予" },
+    { "word": "architecture", "translation": "结构，架构" },
+    { "word": "deliberate", "translation": "从容不迫的，故意的" }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "writing-001",
+    "type": "argumentative",
+    "title": "Some people believe that AI will replace human translators. To what extent do you agree or disagree?",
+    "prompt": "Some people believe that AI will replace human translators. To what extent do you agree or disagree?",
+    "wordLimit": 500,
+    "timeLimit": 60,
+    "category": "technology"
+  },
+  {
+    "id": "writing-002",
+    "type": "commentary",
+    "title": "Commentary on Wittgenstein",
+    "prompt": "\"The limits of my language mean the limits of my world.\" — Ludwig Wittgenstein. Write a commentary on this statement.",
+    "wordLimit": 400,
+    "timeLimit": 45,
+    "category": "philosophy"
+  },
+  {
+    "id": "writing-003",
+    "type": "argumentative",
+    "title": "Education and Society",
+    "prompt": "Education should aim to cultivate the mind rather than prepare students for a specific career. Discuss both views and give your own opinion.",
+    "wordLimit": 500,
+    "timeLimit": 60,
+    "category": "education"
+  },
+  {
+    "id": "writing-004",
+    "type": "argumentative",
+    "title": "Internet and Interpersonal Communication",
+    "prompt": "The widespread use of the Internet has made people less willing to communicate with each other in person. Do you agree or disagree?",
+    "wordLimit": 500,
+    "timeLimit": 60,
+    "category": "society"
+  },
+  {
+    "id": "writing-005",
+    "type": "commentary",
+    "title": "Commentary on Emerson",
+    "prompt": "\"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.\" — Ralph Waldo Emerson. Write a commentary on this statement.",
+    "wordLimit": 400,
+    "timeLimit": 45,
+    "category": "philosophy"
+  }
+]
