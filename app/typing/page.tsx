@@ -8,6 +8,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { assetPath } from "@/lib/paths";
 import { useMounted } from "@/lib/hooks";
+import { setSpeechAccent, setSpeechRate, type SpeechAccent } from "@/lib/tts";
 import { buildSessionWords, type SessionWordSource, type PracticeMode } from "@/lib/selectWords";
 import type { WordEntry } from "@/lib/types";
 
@@ -36,6 +37,16 @@ export default function TypingPage() {
   const [started, setStarted] = React.useState(false);
   const [loading, setLoading] = React.useState(false);
   const [emptyMsg, setEmptyMsg] = React.useState<string | null>(null);
+  const [accent, setAccent] = React.useState<SpeechAccent>("british");
+  const [speechRate, setLocalRate] = React.useState(0.85);
+
+  React.useEffect(() => {
+    setSpeechAccent(accent);
+  }, [accent]);
+
+  React.useEffect(() => {
+    setSpeechRate(speechRate);
+  }, [speechRate]);
 
   React.useEffect(() => {
     const params = new URLSearchParams(window.location.search);
@@ -138,6 +149,36 @@ export default function TypingPage() {
                       <div className="text-xs text-muted-foreground">{m.desc}</div>
                     </button>
                   ))}
+                </div>
+              </div>
+
+              <div>
+                <div className="mb-2 text-sm font-medium">发音设置</div>
+                <div className="flex flex-wrap items-center gap-3">
+                  <div className="flex gap-1">
+                    {(["british", "american"] as SpeechAccent[]).map((a) => (
+                      <Button
+                        key={a}
+                        size="sm"
+                        variant={accent === a ? "default" : "outline"}
+                        onClick={() => setAccent(a)}
+                      >
+                        {a === "british" ? "英式发音" : "美式发音"}
+                      </Button>
+                    ))}
+                  </div>
+                  <div className="flex items-center gap-1">
+                    {[0.6, 0.75, 0.85, 1.0].map((r) => (
+                      <Button
+                        key={r}
+                        size="sm"
+                        variant={speechRate === r ? "default" : "outline"}
+                        onClick={() => setLocalRate(r)}
+                      >
+                        {r === 0.6 ? "慢" : r === 0.75 ? "中" : r === 0.85 ? "常" : "快"}
+                      </Button>
+                    ))}
+                  </div>
                 </div>
               </div>
 

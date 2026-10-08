@@ -1,47 +1,202 @@
 [
-  {
-    "id": "writing-001",
-    "type": "argumentative",
-    "title": "Some people believe that AI will replace human translators. To what extent do you agree or disagree?",
-    "prompt": "Some people believe that AI will replace human translators. To what extent do you agree or disagree?",
-    "wordLimit": 500,
-    "timeLimit": 60,
-    "category": "technology"
-  },
-  {
-    "id": "writing-002",
-    "type": "commentary",
-    "title": "Commentary on Wittgenstein",
-    "prompt": "\"The limits of my language mean the limits of my world.\" — Ludwig Wittgenstein. Write a commentary on this statement.",
-    "wordLimit": 400,
-    "timeLimit": 45,
-    "category": "philosophy"
-  },
-  {
-    "id": "writing-003",
-    "type": "argumentative",
-    "title": "Education and Society",
-    "prompt": "Education should aim to cultivate the mind rather than prepare students for a specific career. Discuss both views and give your own opinion.",
-    "wordLimit": 500,
-    "timeLimit": 60,
-    "category": "education"
-  },
-  {
-    "id": "writing-004",
-    "type": "argumentative",
-    "title": "Internet and Interpersonal Communication",
-    "prompt": "The widespread use of the Internet has made people less willing to communicate with each other in person. Do you agree or disagree?",
-    "wordLimit": 500,
-    "timeLimit": 60,
-    "category": "society"
-  },
-  {
-    "id": "writing-005",
-    "type": "commentary",
-    "title": "Commentary on Emerson",
-    "prompt": "\"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.\" — Ralph Waldo Emerson. Write a commentary on this statement.",
-    "wordLimit": 400,
-    "timeLimit": 45,
-    "category": "philosophy"
-  }
+ {
+  "id": "writing-001",
+  "type": "argumentative",
+  "title": "Some people believe that AI will replace human translators. To what extent do you agree or disagree?",
+  "prompt": "Some people believe that AI will replace human translators. To what extent do you agree or disagree?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "technology",
+  "sample": "The rapid advancement of artificial intelligence has transformed the field of translation, leading some to predict the imminent obsolescence of human translators. While I acknowledge that machines have made remarkable progress, I firmly believe that human translators will remain indispensable, though their role will inevitably evolve.\n\nOn the one hand, AI translation tools offer undeniable advantages. They are fast, cheap, and available around the clock. For routine documents such as user manuals or simple emails, machine translation is often perfectly adequate. Google Translate and similar tools now handle dozens of languages instantly, and neural networks have dramatically improved the fluency of their output. For this reason, translators who merely convert words from one language to another may indeed find their work increasingly automated.\n\nOn the other hand, language is far more than a mechanical code. Translation frequently requires interpreting cultural nuances, literary style, and emotional tone — qualities that machines, which operate on statistical patterns, cannot fully grasp. A poem, a diplomatic statement, or an advertising slogan often depends on ambiguity and connotation that a literal rendering would destroy. Furthermore, in high-stakes fields such as law, medicine, and international negotiation, a single mistranslated term can have serious consequences, and accountability demands human judgment.\n\nIn conclusion, rather than replacing human translators entirely, AI will more likely redefine their profession. Routine tasks will be automated, freeing translators to focus on creative, cultural, and high-stakes work where human insight remains essential. The future, I believe, belongs not to machines alone but to translators who learn to work alongside them."
+ },
+ {
+  "id": "writing-002",
+  "type": "commentary",
+  "title": "Commentary on Wittgenstein",
+  "prompt": "\"The limits of my language mean the limits of my world.\" — Ludwig Wittgenstein. Write a commentary on this statement.",
+  "wordLimit": 400,
+  "timeLimit": 45,
+  "category": "philosophy",
+  "sample": "Ludwig Wittgenstein's assertion that the limits of language are the limits of the world is one of the most thought-provoking claims in modern philosophy. At its heart lies the idea that our understanding of reality is shaped, and in some sense constrained, by the language available to us.\n\nThe statement first invites us to consider how language structures thought. The words we possess are the tools with which we carve experience into comprehensible pieces. A person with a rich vocabulary can articulate fine distinctions — between, say, envy and jealousy, or between sadness and melancholy — that a person with a smaller vocabulary can barely perceive. In this sense, expanding one's language is genuinely a form of expanding one's world, for new words open up new categories of experience.\n\nYet the claim also carries a warning. If we cannot name something, we may struggle even to think it. Whole traditions of feeling and thought can remain invisible to those whose language lacks the terms for them. This is precisely why learning another language is so liberating: it grants access to worlds of meaning that one's native tongue cannot reach.\n\nI find Wittgenstein's remark both humbling and inspiring. It humbles us by revealing the boundaries of our current understanding; it inspires us by showing that those boundaries can be pushed outward through the patient, lifelong work of learning words. The limits of our language are not fixed walls but horizons — and horizons exist to be crossed."
+ },
+ {
+  "id": "writing-003",
+  "type": "argumentative",
+  "title": "Education and Society",
+  "prompt": "Education should aim to cultivate the mind rather than prepare students for a specific career. Discuss both views and give your own opinion.",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "education",
+  "sample": "The purpose of education has been debated for centuries, and two broad visions continue to compete. One holds that education should cultivate the mind — developing critical thinking, moral character, and a love of learning. The other insists that its primary task is practical: to prepare students for a specific career. In my view, a truly valuable education must ultimately serve both ends, but the cultivation of the mind deserves priority.\n\nAdvocates of a career-focused education have compelling arguments. In an increasingly competitive job market, students and parents understandably demand qualifications that lead to employment. Vocational training equips young people with concrete, marketable skills and shortens the path from classroom to workplace. For many families, education is a necessary investment, and its return is measured in income and opportunity.\n\nHowever, an education aimed solely at employment is ultimately self-defeating. Careers change rapidly in the modern economy, and skills that are in demand today may be obsolete in a decade. A student trained only to perform a narrow set of tasks is poorly equipped to adapt. Moreover, education is not merely instrumental; it should also help individuals think independently, question received wisdom, and live meaningful lives. These qualities are the product of a broad education in literature, history, science, and philosophy.\n\nI believe the two goals need not conflict. A mind that has been trained to think clearly, to read critically, and to express itself well will acquire vocational skills more easily and adapt more readily to change. The most successful education systems, therefore, do not choose between cultivation and career but build practical competence on the solid foundation of a well-furnished mind."
+ },
+ {
+  "id": "writing-004",
+  "type": "argumentative",
+  "title": "Internet and Interpersonal Communication",
+  "prompt": "The widespread use of the Internet has made people less willing to communicate with each other in person. Do you agree or disagree?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "society",
+  "sample": "It is often claimed that the Internet, by making remote communication effortless, has eroded our willingness to meet face to face. I partly agree with this view, but I believe the truth is more subtle: the Internet has changed, rather than simply diminished, the nature of our communication.\n\nThere is no denying that online communication can substitute for personal contact. Messages, video calls, and social media allow us to maintain relationships without the effort of physical meetings. It is easier to send a quick text than to arrange a coffee, and for many, this convenience has quietly reduced the frequency of in-person encounters. Families sitting together at dinner, each absorbed in a phone, have become a familiar and troubling image.\n\nYet the Internet has also enabled forms of communication that would otherwise be impossible. It connects friends separated by distance, allows the housebound to participate in society, and creates communities around shared interests that geography could never support. Far from making people unwilling to communicate, the Internet often reveals a deep human appetite for connection — an appetite that was always there, merely waiting for the means to express itself.\n\nI would argue that the real issue is not the Internet itself but how we use it. Used as a substitute for face-to-face contact, it can indeed isolate us. Used as a supplement, it enriches our lives. The challenge for individuals and families, therefore, is to strike a balance: to enjoy the convenience of digital communication without surrendering the irreplaceable warmth of presence."
+ },
+ {
+  "id": "writing-005",
+  "type": "commentary",
+  "title": "Commentary on Emerson",
+  "prompt": "\"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.\" — Ralph Waldo Emerson. Write a commentary on this statement.",
+  "wordLimit": 400,
+  "timeLimit": 45,
+  "category": "philosophy",
+  "sample": "Ralph Waldo Emerson's words capture a tension that lies at the centre of modern life: the pressure to conform versus the effort to remain true to oneself. His claim that self-fidelity is 'the greatest accomplishment' is, on reflection, both strikingly accurate and remarkably demanding.\n\nFrom the moment we are born, the world begins to shape us. Parents, schools, employers, and advertisers each offer a version of who we should be, and the cumulative weight of these expectations can be enormous. Social media intensifies the pressure, presenting curated images of success against which we are constantly invited to measure ourselves. In such a world, conformity is not so much a choice as a default.\n\nTo resist this current requires courage of an uncommon kind. It means tolerating the disapproval of others, risking failure on one's own terms, and accepting that the path of authenticity is often a lonely one. Emerson calls this an accomplishment rather than a state precisely because it is never achieved once and for all. It must be won again, in countless small decisions, every single day.\n\nWhat makes the accomplishment so great, I think, is that it alone makes all other achievements meaningful. A success that belongs to someone else's definition of us is hollow. Only when our lives reflect our own values can we speak of living at all. Emerson's sentence is thus not a piece of advice but a standard — a reminder that the hardest and most important work is the work of becoming oneself."
+ },
+ {
+  "id": "writing-006",
+  "type": "argumentative",
+  "title": "Technology and Children",
+  "prompt": "Some people think that children should be allowed to use electronic devices as early as possible, while others believe children should be kept away from screens. Discuss both views and give your opinion.",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "technology",
+  "sample": "The question of when children should be introduced to electronic devices divides parents and educators sharply. Some argue that early exposure prepares children for a technological world; others insist that screens do more harm than good in the early years. I believe the answer lies not in banning devices but in regulating their use thoughtfully.\n\nSupporters of early exposure point out that technology is now woven into every aspect of life, and children who learn to use devices early gain a head start. Educational apps can teach reading, mathematics, and foreign languages in engaging ways. Moreover, to keep children entirely away from screens is to risk leaving them behind their peers in digital literacy — a skill now as fundamental as reading.\n\nOpponents raise equally serious concerns. Research links excessive screen time in young children to delayed language development, reduced attention span, and disrupted sleep. The early years are critical for developing imagination, social skills, and physical coordination, all of which require real-world play rather than passive consumption. A child absorbed in a tablet is a child not running, talking, or exploring.\n\nIn my opinion, the key is balance and parental involvement. Devices should be treated as tools, not babysitters, with clear limits on time and content. Parents should watch and discuss with children rather than leave them alone with screens. When technology is used deliberately and in moderation, its benefits can be secured while its harms are minimised. The goal is not to shield children from the digital world but to teach them to inhabit it wisely."
+ },
+ {
+  "id": "writing-007",
+  "type": "argumentative",
+  "title": "University Education for Everyone",
+  "prompt": "Some people believe that university education should be available to everyone, regardless of academic ability. Others think it should be reserved for the most capable students. Discuss both views.",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "education",
+  "sample": "As higher education has expanded across the world, a fierce debate has arisen over who should have access to it. Some argue that university should be open to everyone; others maintain that it should be reserved for those with genuine academic ability. Both positions contain important truths.\n\nThose who favour open access emphasise fairness. In many societies, a degree has become the gateway to stable employment, and denying it to any group entrenches inequality. Furthermore, academic potential is not always visible in exam results, and a rigid selection process may exclude late bloomers or students from disadvantaged backgrounds. Opening the doors of the university, they argue, gives everyone a chance to rise.\n\nCritics of this view respond that mass access dilutes the value of a degree. When universities admit students who lack the foundation to succeed, standards decline, classes become overcrowded, and the degree itself loses meaning in the job market. They argue that a degree should signal genuine achievement, and that vocational and technical education offers a better path for many students than a university that does not suit them.\n\nI lean toward a middle position. Access to higher education should be broad, but it need not mean that everyone follows the same path. A society is best served by a variety of institutions — universities, polytechnics, and vocational colleges — each suited to different talents. The goal should be not to send everyone to the same kind of university, but to ensure that every capable and willing person finds the education that matches their abilities."
+ },
+ {
+  "id": "writing-008",
+  "type": "argumentative",
+  "title": "Living in Big Cities vs Countryside",
+  "prompt": "Some people prefer to live in big cities, while others prefer the countryside. What are the advantages of each, and which do you think is better for young people?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "society",
+  "sample": "The choice between city and countryside is one of the most personal decisions a person can make, and each environment offers distinct rewards. For young people in particular, the balance of advantages deserves careful thought.\n\nThe city is, above all, a place of opportunity. It concentrates jobs, universities, cultural institutions, and social networks within a few square kilometres. For a young person beginning a career, the city offers internships, mentors, and peers in abundance. It is also a place of freedom and anonymity, where one can explore different identities and meet people from every walk of life. The sheer energy of urban life is, for many, exhilarating.\n\nThe countryside offers a very different set of goods. It provides space, quiet, and a slower rhythm that many find conducive to reflection and well-being. The cost of living is lower, the air cleaner, and the connection to nature immediate. For those who value community, small towns offer relationships that endure, neighbours who know one another by name, and a sense of belonging that cities often struggle to provide.\n\nFor most young people, I believe the city is the better starting point. The early years of a career are a time for exploring possibilities, and the city is where possibilities are most numerous. The countryside can always be returned to later; the reverse is harder. That said, the best answer depends on one's temperament and ambitions. What matters most is not where one lives, but whether the place one chooses supports the life one wishes to lead."
+ },
+ {
+  "id": "writing-009",
+  "type": "argumentative",
+  "title": "Advertising and Consumerism",
+  "prompt": "Advertising encourages people to buy things they do not really need. To what extent do you agree or disagree?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "economy",
+  "sample": "Advertising is one of the most pervasive forces in modern life, surrounding us on every screen, street, and page. The claim that it drives people to buy things they do not need is widely made, and while I largely agree, I would add that advertising's role is more complex than simple manipulation.\n\nThere is no doubt that advertising creates wants where none existed. Through repetition, emotional appeal, and the careful association of products with happiness, status, and beauty, advertisers persuade consumers that their lives are incomplete without a particular item. The result is a culture of consumption in which we accumulate far more than we require, often at the expense of savings, the environment, and even our own contentment.\n\nHowever, it would be unfair to dismiss advertising entirely. It also performs a genuinely useful function, informing consumers about products that may genuinely improve their lives — a medicine that treats an illness, a tool that saves time, a book that enriches the mind. Without advertising, many useful innovations would never reach the people who need them. The boundary between informing and manipulating is often blurry, but it does exist.\n\nIn conclusion, I agree that advertising frequently encourages unnecessary consumption, but I do not accept that this is its only or inevitable function. The real problem is not advertising itself but a culture that has learned to measure happiness in possessions. The remedy lies less in banning advertisements than in teaching consumers — especially the young — to think critically about the messages they are sold."
+ },
+ {
+  "id": "writing-010",
+  "type": "argumentative",
+  "title": "The Importance of Learning a Foreign Language",
+  "prompt": "In an age of machine translation, is it still worth learning a foreign language? Discuss the reasons for and against, and give your own view.",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "education",
+  "sample": "With machine translation improving year by year, some now question whether the effort of learning a foreign language is still worthwhile. After all, why spend years mastering French or Chinese when a pocket-sized device can translate instantly? I believe the question rests on a misunderstanding of what language learning truly is.\n\nThe case against learning languages is straightforward. It is time-consuming, difficult, and, for practical communication, increasingly unnecessary. Tourists, business travellers, and even diplomats can now rely on technology to bridge the gap. For those whose goal is merely to order a meal or read a sign, a translation app is indeed more efficient than a course of study.\n\nYet this argument confuses translation with understanding. Learning a language is not merely acquiring a tool for converting words; it is acquiring a new way of seeing the world. Each language embodies a particular culture's history, values, and habits of thought. To speak another language is to gain access to its literature, its humour, and its friendships in a form no machine can deliver. Moreover, the cognitive benefits of bilingualism — sharper memory, greater mental flexibility — are well documented.\n\nIn my view, machine translation and language learning are not rivals but complements. Technology can handle the routine, freeing us to pursue the profound. Those who learn languages will still find themselves enriched in ways that no algorithm can replicate. The effort, far from being obsolete, remains one of the most rewarding investments a person can make."
+ },
+ {
+  "id": "writing-011",
+  "type": "argumentative",
+  "title": "Social Media and Friendship",
+  "prompt": "Some people believe that social media has made friendship more superficial. To what extent do you agree or disagree?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "society",
+  "sample": "Social media has redefined friendship in ways that were unimaginable a generation ago. The claim that it has made friendship superficial is common, and there is considerable evidence to support it, yet the full picture is more balanced than the critics allow.\n\nIt is hard to deny that social media encourages a shallow form of connection. We accumulate 'friends' in the hundreds, most of whom we never meet, and reduce rich relationships to likes, comments, and emoji. The ease of online contact can substitute for the effort of genuine friendship, which requires time, attention, and sometimes uncomfortable honesty. A relationship maintained entirely through a feed is, in a real sense, a thin imitation of friendship.\n\nYet social media has also sustained friendships that distance would otherwise have destroyed. It allows us to follow the lives of old friends, to reach out in moments of crisis, and to find companionship when we are lonely. For those who are isolated by geography, illness, or circumstance, online friendship is not superficial at all — it is a lifeline.\n\nI would argue that social media is a tool, and like any tool it reflects the hands that use it. It can dilute friendship when used carelessly, and deepen it when used thoughtfully. The responsibility, as so often, lies not with the technology but with us: to remember that behind every profile is a person, and that real friendship, whether begun online or off, must ultimately be built face to face."
+ },
+ {
+  "id": "writing-012",
+  "type": "commentary",
+  "title": "Commentary on Thoreau",
+  "prompt": "\"The mass of men lead lives of quiet desperation.\" — Henry David Thoreau. Write a commentary on this statement.",
+  "wordLimit": 400,
+  "timeLimit": 45,
+  "category": "philosophy",
+  "sample": "Henry David Thoreau's declaration that most people 'lead lives of quiet desperation' is one of the most quoted — and most contested — sentences in American literature. Written in the nineteenth century, it speaks with undiminished force to our own age of stress, burnout, and restless dissatisfaction.\n\nThoreau's insight is that unhappiness often takes a silent, resigned form. It is not the loud misery of tragedy but the dull ache of a life spent pursuing goals one has never truly chosen. Men and women work jobs they dislike, maintain appearances they do not believe in, and defer their dreams to a future that never arrives — and they do so quietly, because society has taught them that this is simply what life is.\n\nThe phrase is bracing because it names a truth we prefer not to face. Many of us recognise ourselves in it, if only for a season. The question it forces upon us is whether such desperation is inevitable or chosen. Thoreau's own answer, lived out by the pond at Walden, was that it is chosen — that we surrender our freedom, not to fate, but to convention and fear.\n\nI read Thoreau's words not as a condemnation but as an invitation. They ask us to examine our lives honestly and to ask whether the quiet desperation we sometimes feel is a summons to change. The sentence stings, but it also stirs; and perhaps that is precisely why, more than a century later, it refuses to be forgotten."
+ },
+ {
+  "id": "writing-013",
+  "type": "argumentative",
+  "title": "Work-Life Balance",
+  "prompt": "In today's competitive society, is it possible to achieve a healthy work-life balance? Discuss the obstacles and propose solutions.",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "society",
+  "sample": "The phrase 'work-life balance' has become a familiar aspiration, yet for many it remains frustratingly out of reach. In a competitive society that rewards constant availability, achieving genuine balance is difficult — but I believe it is not impossible, provided we understand the obstacles and are willing to address them.\n\nThe obstacles are formidable. Technology has erased the boundary between office and home, so that work follows us into evenings and weekends. Economic pressure makes employees reluctant to refuse extra tasks, lest they fall behind ambitious rivals. And a culture that equates long hours with commitment punishes those who leave on time. Under such conditions, the scales tip almost inevitably toward work.\n\nYet the situation is not hopeless. At the individual level, the first step is the recognition that balance is a choice as much as a condition. Setting firm boundaries — turning off notifications after hours, declining unnecessary meetings, protecting time for family and rest — requires courage but is entirely within our power. At the organisational level, employers are discovering that overworked staff are neither productive nor loyal, and a growing number now offer flexible hours and remote options.\n\nIn my view, the key is to stop treating balance as a luxury and to regard it as essential to sustainable performance. A life consumed by work is ultimately a life diminished. The healthiest organisations and individuals are those that understand that rest, relationships, and recreation are not the enemies of achievement but its necessary foundations."
+ },
+ {
+  "id": "writing-014",
+  "type": "argumentative",
+  "title": "Homework for Young Children",
+  "prompt": "Some people think that primary school children should not be given homework. To what extent do you agree or disagree?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "education",
+  "sample": "The question of homework for young children divides teachers and parents alike. Some argue that homework is essential to learning; others contend that for primary school children it does more harm than good. I am inclined to agree with the second view, though with an important qualification.\n\nOpponents of homework point first to its questionable educational value. Studies of young children have found little correlation between homework and academic achievement, largely because at this age children learn best through play, exploration, and conversation. Homework also eats into time that might be spent on physical activity, reading for pleasure, and simply being a child. Worse, it can become a source of family conflict and early anxiety about school.\n\nDefenders of homework respond that it teaches valuable habits — responsibility, time management, and the discipline of completing a task. They worry that abolishing homework would leave children unprepared for the demands of secondary school, where independent study becomes essential.\n\nI believe the truth lies in a middle path. Primary school children should not be burdened with hours of worksheets, but a small amount of purposeful homework — reading a book, practising a musical instrument, or discussing a topic with parents — can be beneficial. The emphasis should shift from quantity to quality, and above all from compliance to curiosity. Homework, if it is given at all, should cultivate a love of learning rather than extinguish it."
+ },
+ {
+  "id": "writing-015",
+  "type": "argumentative",
+  "title": "The Influence of Celebrities",
+  "prompt": "Celebrities have too much influence on young people today. To what extent do you agree or disagree?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "society",
+  "sample": "In an age of social media, celebrities command attention on an unprecedented scale, and their influence on young people has become a subject of growing concern. I agree that this influence is often excessive, though I would not place all the blame on the celebrities themselves.\n\nThere is no doubt that celebrities shape the values and aspirations of the young. Adolescents, in particular, are highly impressionable, and the glamorous lives portrayed by influencers — the wealth, beauty, and fame — can distort their sense of what matters. The endless parade of sponsored products encourages materialism, while unrealistic body images contribute to insecurity and dissatisfaction. When fame is presented as the summit of success, other, more meaningful paths can seem dull by comparison.\n\nHowever, it would be unfair to condemn celebrity influence as entirely negative. Many public figures use their platform responsibly, championing education, environmental causes, and mental-health awareness. For young people, a celebrated athlete or artist can be a source of inspiration and ambition. The problem, then, is not influence itself but the kind of influence that dominates.\n\nThe real responsibility, I believe, lies with society as a whole. Parents and schools must teach young people to view celebrity culture critically, to distinguish between image and substance, and to find role models closer to home. Celebrities will always hold a mirror to their times; the task is to ensure that the reflection young people see is one worth aspiring to."
+ },
+ {
+  "id": "writing-016",
+  "type": "argumentative",
+  "title": "The Importance of Failure",
+  "prompt": "Some people believe that failure is a necessary part of success. To what extent do you agree?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "psychology",
+  "sample": "Failure is generally regarded as something to be avoided, yet a growing body of opinion insists that it is not merely an obstacle but a necessary ingredient of success. I strongly agree with this view, though I would add that not all failure is equally valuable.\n\nThe first reason failure is essential is that it is the most honest form of feedback. Success can be achieved by luck, but failure almost always teaches us something precise about what does not work. Scientists, inventors, and entrepreneurs understand this instinctively: every experiment that fails narrows the field of possibility and points toward what might succeed. Thomas Edison's thousands of failed filaments were not wasted effort but the cost of discovery.\n\nFailure also builds the qualities that success demands. Resilience, humility, and perseverance cannot be learned from triumph; they are forged only in setback. The person who has never failed has never truly been tested, and their success, when it comes, may be fragile precisely because it was never earned through adversity.\n\nThe important qualification is that failure must be examined, not merely endured. A failure that is reflected upon and understood becomes wisdom; a failure that is repeated thoughtlessly becomes a habit. The goal, therefore, is not to fail for its own sake but to fail intelligently — to treat each setback as tuition in the school of experience. Success, in the end, is not the absence of failure but the capacity to use it."
+ },
+ {
+  "id": "writing-017",
+  "type": "argumentative",
+  "title": "Traditional Culture in the Modern World",
+  "prompt": "In the modern world, traditional cultures are gradually disappearing. Do you think it is important to preserve them, and how can this be done?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "culture",
+  "sample": "As globalisation accelerates, traditional cultures around the world are under unprecedented pressure, and many are disappearing within a generation. I believe their preservation matters deeply, and that it requires a thoughtful combination of education, technology, and policy.\n\nTraditional cultures are worth preserving for reasons both moral and practical. A culture is not merely a collection of customs but a community's accumulated wisdom — its language, crafts, festivals, and values, built up over centuries. When a culture dies, something irreplaceable is lost, and with it a distinct way of understanding the world. Diversity of cultures, like diversity of species, is a form of wealth, and its erosion impoverishes us all.\n\nThe question is how to preserve cultures without turning them into lifeless museum pieces. Education is the foundation: children should learn their own traditions, languages, and histories, not as relics but as living resources. Technology, often blamed for cultural erosion, can also be a powerful ally — recording oral histories, teaching endangered languages online, and sharing crafts with a global audience. Governments, too, have a role in protecting intangible heritage through funding and legislation.\n\nUltimately, however, a culture survives only if people choose to carry it forward. The most effective preservation is not defensive but creative — finding ways for traditions to evolve and remain relevant to modern lives. A culture that is loved, practised, and adapted will endure; one that is merely preserved will fade. The goal is not to freeze the past but to give it a future."
+ },
+ {
+  "id": "writing-018",
+  "type": "argumentative",
+  "title": "Reading Books vs Watching Films",
+  "prompt": "Films based on books are becoming increasingly popular. Some people prefer reading the book, while others prefer watching the film. Which do you prefer?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "culture",
+  "sample": "The long rivalry between book and film is as old as cinema itself, and each medium has passionate champions. While I enjoy both, I find that the book is almost always the richer experience, for reasons that have less to do with nostalgia than with the nature of the two forms.\n\nThe greatest advantage of a book is its depth. A novel can spend pages exploring a character's inner world — thoughts, memories, and motives that no camera can fully capture. It invites the reader to become a collaborator, constructing the world in the imagination, so that no two readers see quite the same story. This act of imaginative participation is, for me, the deepest pleasure reading offers.\n\nA film, by contrast, offers immediacy and spectacle. In two hours, it delivers a complete emotional experience, complete with music, performance, and visual beauty that prose can only suggest. For those with limited time, or for stories whose power lies in action and image, film is a superb medium. A great adaptation can also send viewers back to the source, introducing books to readers who might never have found them.\n\nIn the end, I do not think the two are truly rivals. They are different languages for telling a story, each with its own grammar. My preference is simple: when I have time and a wish to think, I read; when I want to be moved and swept away, I watch. The richest lives, I suspect, contain room for both."
+ },
+ {
+  "id": "writing-019",
+  "type": "argumentative",
+  "title": "The Value of Volunteering",
+  "prompt": "Some people believe that young people should be required to do voluntary work. To what extent do you agree or disagree?",
+  "wordLimit": 500,
+  "timeLimit": 60,
+  "category": "society",
+  "sample": "Volunteering is widely praised as a force for good, and in recent years the idea of making it compulsory for young people has gained ground. While I strongly believe in the value of voluntary work, I have reservations about compelling people to do it.\n\nThe benefits of volunteering are beyond dispute. For the community, volunteers provide services that might otherwise go unprovided, from caring for the elderly to cleaning rivers and tutoring children. For the volunteer, the rewards are equally real: the development of empathy, responsibility, and practical skills, as well as a broadening of perspective that no classroom can provide. Young people who volunteer learn that society is not something they merely inhabit but something they help to build.\n\nThe difficulty arises when volunteering becomes compulsory. The very word 'voluntary' implies freedom, and forced service risks breeding resentment rather than generosity. A young person ordered to volunteer may perform the hours while learning nothing, or worse, learn to associate helping others with coercion. The spirit of service cannot be mandated; it must be cultivated.\n\nI would therefore prefer encouragement over compulsion. Schools can offer structured opportunities, recognise service, and model its value, but the decision to give should ultimately be free. When young people choose to serve, they discover generosity for themselves — and that discovery, freely made, is worth far more than any number of required hours."
+ },
+ {
+  "id": "writing-020",
+  "type": "commentary",
+  "title": "Commentary on Confucius",
+  "prompt": "\"It does not matter how slowly you go as long as you do not stop.\" — Confucius. Write a commentary on this statement.",
+  "wordLimit": 400,
+  "timeLimit": 45,
+  "category": "philosophy",
+  "sample": "The saying attributed to Confucius — that it does not matter how slowly one goes so long as one does not stop — expresses a wisdom that is at once simple and profound. In an age obsessed with speed, its message is a quiet rebuke to our impatience.\n\nThe statement first reminds us that progress is cumulative. A person who advances a little every day, however slowly, will eventually travel an immense distance; the person who stops, however fast they once moved, goes nowhere. This is the logic of compound effort, visible in the musician who practises daily, the student who reviews a little each night, and the writer who produces a page a day. What matters is not the size of the step but its persistence.\n\nIt also speaks to the psychology of achievement. The fear of moving slowly — of not being brilliant, not being quick — deters more people than any external obstacle. Confucius dissolves this fear by redirecting our attention from the speed of our progress to the simple fact of its continuity. The tortoise, in the old fable, beats the hare not by speed but by constancy.\n\nI find the saying especially relevant to learning, where impatience is the enemy of mastery. A language, a skill, or a discipline is not acquired in a burst but in the patient accumulation of small, unglamorous efforts. Confucius invites us to stop measuring ourselves against others and to ask only whether we are still moving. So long as we have not stopped, we have not failed."
+ }
 ]

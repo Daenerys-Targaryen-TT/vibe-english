@@ -10,6 +10,7 @@ import {
   Flame,
   Clock,
   AlertCircle,
+  Headphones,
 } from "lucide-react";
 import { AppShell } from "@/components/Layout/AppShell";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -20,9 +21,10 @@ import { db, todayKey } from "@/lib/db";
 import { computeStreak } from "@/lib/stats";
 
 const MODULES = [
-  { href: "/typing", label: "单词打字", desc: "拼写 + 发音强化", icon: Keyboard, color: "text-blue-500" },
+  { href: "/typing", label: "单词打字", desc: "拼写 + 默写 + 发音强化", icon: Keyboard, color: "text-blue-500" },
+  { href: "/listening", label: "听力听写", desc: "英音朗读 · 逐词听写", icon: Headphones, color: "text-cyan-500" },
   { href: "/reading", label: "外刊精读", desc: "划词查词 + 生词高亮", icon: BookOpen, color: "text-emerald-500" },
-  { href: "/writing", label: "写作训练", desc: "限时写作 + 语法检查", icon: PenLine, color: "text-amber-500" },
+  { href: "/writing", label: "写作训练", desc: "限时写作 + 批改 + 范文", icon: PenLine, color: "text-amber-500" },
   { href: "/translation", label: "翻译训练", desc: "散文逐句对照", icon: Languages, color: "text-violet-500" },
 ];
 

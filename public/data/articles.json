@@ -1,0 +1,2344 @@
+[
+ {
+  "id": "article-001",
+  "title": "The Future of Language Learning",
+  "source": "The Economist",
+  "date": "2025-06-15",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "For centuries, learning a foreign language meant memorising vocabulary lists and grammar rules under the watchful eye of a teacher. Today, that paradigm is being upended by technology. Mobile applications now allow learners to practise anywhere, while artificial intelligence offers instant feedback on pronunciation and writing."
+   },
+   {
+    "id": "p2",
+    "text": "The most significant shift, however, is not the tool itself but the learner's relationship with it. Where once students were passive recipients of instruction, they are now active curators of their own progress. Spaced repetition systems, which schedule reviews at precisely timed intervals, have proven remarkably effective at consolidating long-term memory."
+   },
+   {
+    "id": "p3",
+    "text": "Sceptics argue that no application can replace the immersive experience of living abroad. They have a point: fluency is ultimately forged through genuine human interaction. Yet the evidence suggests that technology, used wisely, can dramatically lower the barrier to entry and make disciplined practice ubiquitous."
+   },
+   {
+    "id": "p4",
+    "text": "The learners who thrive in this new landscape tend to share a common trait: they treat language as a daily habit rather than a course to be finished. Ten focused minutes each morning, sustained over a year, will reliably outperform sporadic bursts of enthusiasm. The future of language learning, in other words, belongs to the persistent."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "paradigm",
+    "translation": "范式，模式"
+   },
+   {
+    "word": "upended",
+    "translation": "颠覆，推翻"
+   },
+   {
+    "word": "consolidating",
+    "translation": "巩固，强化"
+   },
+   {
+    "word": "immersive",
+    "translation": "沉浸式的"
+   },
+   {
+    "word": "sporadic",
+    "translation": "零星的，偶发的"
+   }
+  ]
+ },
+ {
+  "id": "article-002",
+  "title": "Why Sleep Is the Brain's Best Friend",
+  "source": "Scientific American",
+  "date": "2025-05-28",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The human brain performs its most important maintenance work while the body rests. During deep sleep, the brain clears away metabolic waste products that accumulate during waking hours, a process scientists liken to a nightly street-sweeping service."
+   },
+   {
+    "id": "p2",
+    "text": "Memory consolidation also depends heavily on sleep. Researchers have shown that information learned during the day is replayed and strengthened during the night. Students who sleep well after studying consistently outperform those who sacrifice rest for extra revision."
+   },
+   {
+    "id": "p3",
+    "text": "Yet modern life conspires against adequate rest. Blue light from screens suppresses melatonin, the hormone that signals sleepiness. The resulting sleep deficit has been linked to impaired attention, weakened immunity, and even long-term cognitive decline."
+   },
+   {
+    "id": "p4",
+    "text": "The remedy is disarmingly simple: protect your sleep schedule as rigorously as you would a deadline. Keep consistent hours, dim the lights in the evening, and keep screens out of the bedroom. Your brain, quite literally, will thank you."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "metabolic",
+    "translation": "新陈代谢的"
+   },
+   {
+    "word": "consolidation",
+    "translation": "巩固，强化"
+   },
+   {
+    "word": "melatonin",
+    "translation": "褪黑素"
+   },
+   {
+    "word": "impaired",
+    "translation": "受损的，削弱的"
+   },
+   {
+    "word": "disarmingly",
+    "translation": "令人难以抗拒地，简单得出奇地"
+   }
+  ]
+ },
+ {
+  "id": "article-003",
+  "title": "The Quiet Power of Reading Slowly",
+  "source": "The Atlantic",
+  "date": "2025-04-10",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "In an age of endless scrolling, the ability to read a single long article from beginning to end has become something of a rare skill. Attention, it turns out, is not merely a fixed resource but a muscle that strengthens or withers with use."
+   },
+   {
+    "id": "p2",
+    "text": "Slow reading — the deliberate, unhurried engagement with a text — confers benefits that skimming cannot. It allows the reader to trace an argument's architecture, to notice the rhythm of a sentence, and to weigh evidence rather than merely absorb conclusions."
+   },
+   {
+    "id": "p3",
+    "text": "For language learners, this habit is doubly valuable. Encountering unfamiliar words in rich context fixes them in memory far more effectively than isolated memorisation. Each re-reading of a difficult passage quietly expands the boundaries of comprehension."
+   },
+   {
+    "id": "p4",
+    "text": "The challenge is not intellectual but habitual. Set a timer for twenty minutes, silence your phone, and read without interruption. The reward is a mind that can hold a thought long enough to truly understand it."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "withers",
+    "translation": "枯萎，衰退"
+   },
+   {
+    "word": "confers",
+    "translation": "赋予，给予"
+   },
+   {
+    "word": "architecture",
+    "translation": "结构，架构"
+   },
+   {
+    "word": "deliberate",
+    "translation": "从容不迫的，故意的"
+   }
+  ]
+ },
+ {
+  "id": "article-004",
+  "title": "Artificial Intelligence and the Future of Work",
+  "source": "Harvard Business Review",
+  "date": "2025-07-02",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Every new wave of technology has provoked the same anxious question: will machines take our jobs? The steam engine, the assembly line, and the personal computer each triggered dire predictions of mass unemployment, and each time the economy adapted in ways few anticipated."
+   },
+   {
+    "id": "p2",
+    "text": "Artificial intelligence is different in one crucial respect. Unlike earlier tools, which replaced muscle power and routine calculation, AI now encroaches on tasks that require judgment, creativity, and even empathy. The boundary between human and machine competence keeps shifting."
+   },
+   {
+    "id": "p3",
+    "text": "Yet history also suggests a more hopeful reading. Automation tends to eliminate specific tasks rather than entire occupations, freeing people to focus on work that machines perform poorly: building relationships, exercising discretion, and asking questions no one has thought to ask."
+   },
+   {
+    "id": "p4",
+    "text": "The workers who flourish will not be those who resist change, but those who learn to collaborate with it. The essential skill of the coming decade is not mastery of any single tool, but the willingness to keep acquiring new ones."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "provoked",
+    "translation": "引发，激起"
+   },
+   {
+    "word": "dire",
+    "translation": "可怕的，糟糕的"
+   },
+   {
+    "word": "encroaches",
+    "translation": "侵占，蚕食"
+   },
+   {
+    "word": "discretion",
+    "translation": "判断力，酌情权"
+   },
+   {
+    "word": "flourish",
+    "translation": "繁荣，兴旺"
+   }
+  ]
+ },
+ {
+  "id": "article-005",
+  "title": "The Science of Habit Formation",
+  "source": "Nature",
+  "date": "2025-03-19",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "It is often said that it takes twenty-one days to form a habit. The claim, endlessly repeated in self-help literature, is a comforting simplification. Recent research paints a more nuanced picture: the time required varies dramatically, from a few weeks to several months, depending on the behaviour."
+   },
+   {
+    "id": "p2",
+    "text": "What matters far more than the calendar is consistency. A habit is essentially a neurological loop: a cue triggers a routine, which delivers a reward. Repeated often enough, the loop becomes automatic, requiring less and less conscious effort to initiate."
+   },
+   {
+    "id": "p3",
+    "text": "The most robust finding in the field is disarmingly practical: missing a single day does not break a habit, but missing two days in succession often does. The goal, therefore, is not perfection but resilience — designing a routine that can survive the inevitable interruptions of life."
+   },
+   {
+    "id": "p4",
+    "text": "The wise habit-builder starts small. Rather than vowing to run an hour daily, commit to ten minutes. A tiny habit, repeated without exception, is worth more than an ambitious one abandoned after a week."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "nuanced",
+    "translation": "微妙细致的"
+   },
+   {
+    "word": "neurological",
+    "translation": "神经系统的"
+   },
+   {
+    "word": "robust",
+    "translation": "稳健的，强健的"
+   },
+   {
+    "word": "disarmingly",
+    "translation": "简单得出奇地"
+   },
+   {
+    "word": "resilience",
+    "translation": "韧性，恢复力"
+   }
+  ]
+ },
+ {
+  "id": "article-006",
+  "title": "The Attention Economy and Its Victims",
+  "source": "The Guardian",
+  "date": "2025-02-08",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The currency of the digital age is not money but attention. Every free app, every endless feed, and every autoplaying video is designed with a single purpose: to hold your gaze for as long as possible. Your attention, harvested in seconds, is sold to advertisers in bulk."
+   },
+   {
+    "id": "p2",
+    "text": "The costs are now well documented. Constant interruptions fracture concentration, making sustained thought increasingly difficult. Studies link heavy social-media use to rising rates of anxiety, especially among the young, who have never known a world without the infinite scroll."
+   },
+   {
+    "id": "p3",
+    "text": "The designers of these systems are not evil; they are simply optimising for engagement, and engagement is easier to manufacture through novelty and outrage than through calm and reflection. The machine does not hate your focus — it simply does not value it."
+   },
+   {
+    "id": "p4",
+    "text": "Reclaiming attention is a personal project with no app to automate it. It means turning off notifications, reading on paper, and tolerating the brief discomfort of boredom. In an economy built on distraction, the ability to focus is a quiet act of rebellion."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "harvested",
+    "translation": "收割，采集"
+   },
+   {
+    "word": "fracture",
+    "translation": "使破裂，断裂"
+   },
+   {
+    "word": "outrage",
+    "translation": "愤怒，愤慨"
+   },
+   {
+    "word": "reclaiming",
+    "translation": "夺回，重新获得"
+   },
+   {
+    "word": "rebellion",
+    "translation": "反抗，叛逆"
+   }
+  ]
+ },
+ {
+  "id": "article-007",
+  "title": "Why Cities Are Getting Older",
+  "source": "The Economist",
+  "date": "2025-01-21",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The world is growing grey. By 2050, one in six people on the planet will be over sixty-five, a demographic shift unprecedented in human history. Once considered a concern of rich nations alone, ageing is now reshaping societies from Shanghai to São Paulo."
+   },
+   {
+    "id": "p2",
+    "text": "The causes are well understood: falling birth rates, rising life expectancy, and the steady migration of the young from countryside to city. Together they have inverted the age pyramid that sustained social-security systems for generations."
+   },
+   {
+    "id": "p3",
+    "text": "The consequences ripple through every institution. Hospitals strain under chronic illness, pension funds face shortfalls, and housing stock designed for young families no longer fits. Yet ageing also brings quieter gifts: experienced workers, engaged grandparents, and communities rooted in memory."
+   },
+   {
+    "id": "p4",
+    "text": "Societies that thrive will be those that treat longevity not as a burden but as an achievement. That means redesigning work, care, and urban space so that a longer life is also, for most people, a better one."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "demographic",
+    "translation": "人口统计的"
+   },
+   {
+    "word": "unprecedented",
+    "translation": "史无前例的"
+   },
+   {
+    "word": "inverted",
+    "translation": "颠倒，反转"
+   },
+   {
+    "word": "ripple",
+    "translation": "泛起涟漪，波及"
+   },
+   {
+    "word": "longevity",
+    "translation": "长寿"
+   }
+  ]
+ },
+ {
+  "id": "article-008",
+  "title": "The Rediscovery of Boredom",
+  "source": "The New Yorker",
+  "date": "2025-05-05",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Boredom has acquired a bad reputation. We reach for our phones at the first hint of it, treating the empty moment as a problem to be solved rather than a condition to be experienced. But researchers are beginning to argue that boredom is not a failure of stimulation — it is a signal."
+   },
+   {
+    "id": "p2",
+    "text": "Neuroscientists have found that the wandering mind, far from idle, is highly active. In the absence of external demands, the brain turns inward, forging connections between disparate ideas. It is precisely in these unfilled intervals that creativity and self-reflection take root."
+   },
+   {
+    "id": "p3",
+    "text": "The modern allergy to boredom carries a cost. Children raised on constant entertainment struggle to entertain themselves; adults reach for distraction at the faintest pang of restlessness. We have built a world that never asks us to simply be."
+   },
+   {
+    "id": "p4",
+    "text": "The cure is not more stimulation but less. Leave the phone in another room, wait in line without a screen, and let the mind drift. What feels like emptiness at first is often, upon closer inspection, a space where genuine thought can grow."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "stimulation",
+    "translation": "刺激，激励"
+   },
+   {
+    "word": "disparate",
+    "translation": "迥然不同的"
+   },
+   {
+    "word": "allergy",
+    "translation": "过敏，排斥"
+   },
+   {
+    "word": "restlessness",
+    "translation": "焦躁不安"
+   },
+   {
+    "word": "drift",
+    "translation": "漂流，游离"
+   }
+  ]
+ },
+ {
+  "id": "article-009",
+  "title": "The Case for Lifelong Learning",
+  "source": "Financial Times",
+  "date": "2025-04-22",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "For most of the twentieth century, education followed a predictable arc: two decades of schooling, then forty years of work, then retirement. That model assumed that knowledge, once acquired, would remain serviceable for a lifetime. It no longer does."
+   },
+   {
+    "id": "p2",
+    "text": "The shelf life of skills is shrinking. A programmer's tools may be obsolete within years, a doctor's protocols within months. In such a world, the most valuable educational asset is not a body of facts but the capacity to keep learning."
+   },
+   {
+    "id": "p3",
+    "text": "Lifelong learning, however, is easier to praise than to practise. Adults must juggle jobs, families, and fatigue, and the institutions built to teach them — universities, training centres — are still organised around the young. The mismatch is widening by the day."
+   },
+   {
+    "id": "p4",
+    "text": "Closing it will require more than new courses. It will demand a cultural shift, one that treats learning as a lifelong entitlement rather than a youthful chore. The societies that manage this transition will reap a remarkable dividend: a workforce that ages without becoming obsolete."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "arc",
+    "translation": "弧线，轨迹"
+   },
+   {
+    "word": "serviceable",
+    "translation": "可用的，耐用的"
+   },
+   {
+    "word": "obsolete",
+    "translation": "过时的，废弃的"
+   },
+   {
+    "word": "juggle",
+    "translation": "尽力兼顾，平衡"
+   },
+   {
+    "word": "dividend",
+    "translation": "红利，回报"
+   }
+  ]
+ },
+ {
+  "id": "article-010",
+  "title": "Remote Work: The Great Experiment Continues",
+  "source": "The Wall Street Journal",
+  "date": "2025-06-30",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "When offices emptied in 2020, remote work was widely dismissed as a temporary emergency measure. Five years on, it has proved remarkably sticky. Millions of workers now split their time between home and office, and the debate over productivity has barely settled."
+   },
+   {
+    "id": "p2",
+    "text": "The evidence cuts both ways. Some studies find that remote workers complete individual tasks faster, freed from interruptions and commutes. Others warn that the casual conversations of the office — the source of so much innovation and mentorship — cannot be replicated over video calls."
+   },
+   {
+    "id": "p3",
+    "text": "The real tension is generational. Junior employees, eager for guidance and visibility, often want the office; senior staff, established and autonomous, prefer the spare room. Managers caught between the two face an unenviable scheduling puzzle."
+   },
+   {
+    "id": "p4",
+    "text": "The likeliest outcome is not a return to old norms but a persistent hybrid. The office will survive as a place for collaboration rather than routine. Flexibility, once a perk, is fast becoming the baseline expectation of talented workers everywhere."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "sticky",
+    "translation": "黏性的，难以逆转的"
+   },
+   {
+    "word": "mentorship",
+    "translation": "指导，师徒关系"
+   },
+   {
+    "word": "autonomous",
+    "translation": "自主的"
+   },
+   {
+    "word": "unenviable",
+    "translation": "令人不羡慕的，棘手的"
+   },
+   {
+    "word": "perk",
+    "translation": "额外待遇，福利"
+   }
+  ]
+ },
+ {
+  "id": "article-011",
+  "title": "The Hidden Cost of Convenience",
+  "source": "The Atlantic",
+  "date": "2025-05-14",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Convenience is the great unspoken promise of modern life. Meals arrive at the door, films begin on command, and a single tap summons a car. Each innovation saves minutes, and the minutes accumulate into what should, by any rational accounting, be a richer life."
+   },
+   {
+    "id": "p2",
+    "text": "Yet the promised leisure never quite materialises. Instead, the time saved is absorbed by more consumption, more scrolling, more doing. The economist's dream of a world of ease has produced, in many lives, a world of relentless busyness."
+   },
+   {
+    "id": "p3",
+    "text": "There is also a subtler cost. When everything is effortless, we lose the satisfactions that only friction provides. Cooking a meal, finding a route on a map, waiting for a letter — these small exertions once gave our days texture and meaning."
+   },
+   {
+    "id": "p4",
+    "text": "The answer is not to renounce convenience but to choose it deliberately. Save time where it is truly scarce, and spend it where it is truly rich. The goal is not a frictionless life, but a life whose frictions we have chosen."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "materialise",
+    "translation": "实现，成为现实"
+   },
+   {
+    "word": "relentless",
+    "translation": "无情的，不间断的"
+   },
+   {
+    "word": "friction",
+    "translation": "摩擦，阻力"
+   },
+   {
+    "word": "exertions",
+    "translation": "努力，费力"
+   },
+   {
+    "word": "renounce",
+    "translation": "放弃，摒弃"
+   }
+  ]
+ },
+ {
+  "id": "article-012",
+  "title": "Plastic: A Century of Convenience, A Millennia of Waste",
+  "source": "Nature",
+  "date": "2025-04-03",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Plastic was the wonder material of the twentieth century — cheap, light, and endlessly malleable. It transformed medicine, packaging, and transport. A century after its mass production began, however, its defining property has become a curse: it simply does not go away."
+   },
+   {
+    "id": "p2",
+    "text": "Every piece of plastic ever made still exists in some form, slowly fragmenting into ever-smaller particles. These microplastics have been found in the deepest ocean trenches, in Arctic snow, and — most alarmingly — in human blood and breast milk."
+   },
+   {
+    "id": "p3",
+    "text": "Recycling, long held up as the solution, has proved inadequate. Only a fraction of plastic is ever recycled, and much of what is collected is downcycled into products of lower value or simply exported. The gap between the recycling ideal and its reality is enormous."
+   },
+   {
+    "id": "p4",
+    "text": "The most effective response is to produce less in the first place. Bans on single-use items, taxes on virgin material, and a shift toward refillable systems all point in the same direction: a future in which plastic is used sparingly and only where nothing else will do."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "malleable",
+    "translation": "可塑的，易变形的"
+   },
+   {
+    "word": "fragmenting",
+    "translation": "碎裂，瓦解"
+   },
+   {
+    "word": "microplastics",
+    "translation": "微塑料"
+   },
+   {
+    "word": "downcycled",
+    "translation": "降级回收"
+   },
+   {
+    "word": "sparingly",
+    "translation": "节约地，少量地"
+   }
+  ]
+ },
+ {
+  "id": "article-013",
+  "title": "The Sharing Economy Grows Up",
+  "source": "The Economist",
+  "date": "2025-06-11",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "A decade ago, the sharing economy was hailed as a revolution. Instead of owning, we would borrow; instead of buying, we would rent. Cars, homes, tools, and even clothes would circulate endlessly, reducing waste and building community."
+   },
+   {
+    "id": "p2",
+    "text": "The reality has been messier. The platforms that dominate the space — ride-hailing, short-term rentals, food delivery — turned out to be less about sharing than about monetising idle assets. The community of equals gave way to professionalised gig work with all its familiar precarity."
+   },
+   {
+    "id": "p3",
+    "text": "Yet the underlying logic has not disappeared. For many goods that sit unused most of the time, access genuinely beats ownership. Car-sharing cuts traffic, tool libraries save money, and peer-to-peer rental reduces the mountains of stuff we buy and abandon."
+   },
+   {
+    "id": "p4",
+    "text": "The challenge is regulatory rather than technological. Cities must decide how to capture the benefits of sharing without eroding the rights of workers and the quality of public life. Done well, the sharing economy could still deliver on its early promise."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "hailed",
+    "translation": "被称赞为"
+   },
+   {
+    "word": "monetising",
+    "translation": "变现，货币化"
+   },
+   {
+    "word": "gig",
+    "translation": "零工，临时工作"
+   },
+   {
+    "word": "precarity",
+    "translation": "不稳定，朝不保夕"
+   },
+   {
+    "word": "eroding",
+    "translation": "侵蚀，削弱"
+   }
+  ]
+ },
+ {
+  "id": "article-014",
+  "title": "Mindfulness: Science Meets Ancient Practice",
+  "source": "Scientific American",
+  "date": "2025-03-27",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Mindfulness has travelled a remarkable path: from Buddhist monasteries to corporate boardrooms in a single generation. What was once a contemplative discipline is now prescribed by doctors, taught in schools, and packaged into apps downloaded by millions."
+   },
+   {
+    "id": "p2",
+    "text": "The scientific record, though younger than the hype, is increasingly solid. Randomised trials show that regular mindfulness practice reduces anxiety, improves attention, and even alters the structure of brain regions associated with emotional regulation."
+   },
+   {
+    "id": "p3",
+    "text": "Critics caution against overreach. Mindfulness, they note, is not a cure-all, and its commercialisation risks hollowing out the very qualities — patience, restraint, humility — that give the practice its power. An app cannot substitute for sustained, sincere effort."
+   },
+   {
+    "id": "p4",
+    "text": "Used judiciously, however, mindfulness offers something modern life sorely lacks: a technique for noticing the present moment without judgment. In a culture of perpetual distraction, that simple skill may be more radical than it appears."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "contemplative",
+    "translation": "沉思的，冥想的"
+   },
+   {
+    "word": "randomised",
+    "translation": "随机的"
+   },
+   {
+    "word": "overreach",
+    "translation": "过度扩张，越界"
+   },
+   {
+    "word": "hollowing out",
+    "translation": "掏空，使空洞"
+   },
+   {
+    "word": "judiciously",
+    "translation": "明智地，审慎地"
+   }
+  ]
+ },
+ {
+  "id": "article-015",
+  "title": "The Economics of Happiness",
+  "source": "Financial Times",
+  "date": "2025-05-30",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Economists have long treated income as a proxy for welfare. More money, the logic ran, means more choice, more security, and therefore more happiness. The data, however, has always been quietly awkward: beyond a certain point, rising incomes produce little additional satisfaction."
+   },
+   {
+    "id": "p2",
+    "text": "The relationship between money and happiness is real but sharply diminishing. For the poor, an extra dollar transforms life; for the comfortable, it barely registers. What predicts well-being far more reliably are relationships, health, and a sense of purpose — goods that money cannot simply buy."
+   },
+   {
+    "id": "p3",
+    "text": "This finding has profound implications. If growth does not reliably buy contentment, societies must look beyond GDP to measure progress. Several governments have begun to do so, tracking life satisfaction alongside output in their official statistics."
+   },
+   {
+    "id": "p4",
+    "text": "The lesson for individuals is not to abandon ambition but to weigh it. Time spent earning a marginal raise is time not spent with family or friends. The happiest people are often not the richest, but those who have learned what, for them, is enough."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "proxy",
+    "translation": "代替指标，代理"
+   },
+   {
+    "word": "diminishing",
+    "translation": "递减的"
+   },
+   {
+    "word": "well-being",
+    "translation": "幸福感，福祉"
+   },
+   {
+    "word": "profound",
+    "translation": "深刻的，深远的"
+   },
+   {
+    "word": "marginal",
+    "translation": "边际的，微小的"
+   }
+  ]
+ },
+ {
+  "id": "article-016",
+  "title": "Why We Procrastinate",
+  "source": "Psychology Today",
+  "date": "2025-02-16",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Procrastination is routinely dismissed as laziness or poor time management, but the diagnosis misses the point. Chronic procrastinators are not people who do nothing; they are people who, often exhaustingly, do everything except the task that matters."
+   },
+   {
+    "id": "p2",
+    "text": "Psychologists locate the root of the problem in emotion, not willpower. The task ahead triggers anxiety, boredom, or fear of failure, and the brain seeks relief in distraction. Procrastination, in this view, is less a time problem than a mood problem."
+   },
+   {
+    "id": "p3",
+    "text": "The irony is that avoidance compounds the very emotions it seeks to escape. The deadline looms closer, the anxiety swells, and the task grows in the imagination until it seems insurmountable. The escape hatch becomes a trap."
+   },
+   {
+    "id": "p4",
+    "text": "The most effective remedies are counterintuitive and small. Begin for just two minutes; the hardest part is the first sentence. Forgive yourself for past delays rather than piling on shame. Progress, however tiny, is the only genuine antidote to the fear of starting."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "chronic",
+    "translation": "长期的，慢性的"
+   },
+   {
+    "word": "compounds",
+    "translation": "加重，使恶化"
+   },
+   {
+    "word": "insurmountable",
+    "translation": "无法克服的"
+   },
+   {
+    "word": "counterintuitive",
+    "translation": "反直觉的"
+   },
+   {
+    "word": "antidote",
+    "translation": "解药，对策"
+   }
+  ]
+ },
+ {
+  "id": "article-017",
+  "title": "The Quiet Crisis of Soil",
+  "source": "National Geographic",
+  "date": "2025-04-17",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "We walk on it, plant in it, and take it utterly for granted, yet soil is among the planet's most complex and fragile living systems. A single teaspoon contains more micro-organisms than there are people on Earth, and most of them remain unknown to science."
+   },
+   {
+    "id": "p2",
+    "text": "That hidden community does the essential work of feeding us. It decomposes organic matter, cycles nutrients, and stores carbon on a scale that dwarfs the atmosphere. Without healthy soil, agriculture collapses, and with it, civilisation."
+   },
+   {
+    "id": "p3",
+    "text": "The warning signs are everywhere. Erosion, over-fertilisation, and intensive monoculture are degrading soil faster than it can regenerate. By some estimates, a third of the world's arable land is already moderately or severely degraded."
+   },
+   {
+    "id": "p4",
+    "text": "Restoration is possible but slow. Techniques such as cover cropping, reduced tillage, and the return of organic matter can rebuild what decades of neglect have undone. The first step is simply to see soil for what it is: not dirt, but a living inheritance."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "fragile",
+    "translation": "脆弱的"
+   },
+   {
+    "word": "decomposes",
+    "translation": "分解"
+   },
+   {
+    "word": "dwarfs",
+    "translation": "使相形见绌"
+   },
+   {
+    "word": "monoculture",
+    "translation": "单一作物种植"
+   },
+   {
+    "word": "tillage",
+    "translation": "耕作，翻耕"
+   }
+  ]
+ },
+ {
+  "id": "article-018",
+  "title": "The Slow Food Movement",
+  "source": "The Guardian",
+  "date": "2025-06-05",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The slow food movement began in 1986 as a protest against the opening of a fast-food restaurant in Rome. Its founders argued that something precious was being lost in the rush toward speed and uniformity: the culture, craft, and conviviality of eating."
+   },
+   {
+    "id": "p2",
+    "text": "Three decades later, the movement has evolved into a global campaign for food that is, in its own words, good, clean, and fair. Good because it is delicious; clean because it is produced sustainably; fair because the people who grow it are properly paid."
+   },
+   {
+    "id": "p3",
+    "text": "The movement's emphasis on local, seasonal ingredients has spread far beyond its activist origins. Farmers' markets have multiplied, chefs celebrate provenance, and consumers increasingly ask where their food comes from and who made it."
+   },
+   {
+    "id": "p4",
+    "text": "Sceptics dismiss slow food as an indulgence for the affluent. There is truth in the charge, but the movement's deeper point stands: how we eat shapes who we are. A society that eats thoughtfully is, in small but real ways, a more thoughtful society."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "uniformity",
+    "translation": "单一，千篇一律"
+   },
+   {
+    "word": "conviviality",
+    "translation": "欢乐，共乐"
+   },
+   {
+    "word": "sustainably",
+    "translation": "可持续地"
+   },
+   {
+    "word": "provenance",
+    "translation": "产地，来源"
+   },
+   {
+    "word": "indulgence",
+    "translation": "放纵，享受"
+   }
+  ]
+ },
+ {
+  "id": "article-019",
+  "title": "The Benefits of Bilingualism",
+  "source": "Scientific American",
+  "date": "2025-03-08",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "For much of the last century, bilingualism was regarded with suspicion. Educators warned that learning two languages would confuse children and stunt their development. The advice, it turns out, could scarcely have been more wrong."
+   },
+   {
+    "id": "p2",
+    "text": "Modern neuroscience reveals that juggling two languages is a remarkable mental workout. Bilinguals constantly suppress one language while using the other, strengthening the brain's executive control — the system responsible for attention, planning, and switching tasks."
+   },
+   {
+    "id": "p3",
+    "text": "The benefits extend across the lifespan. Bilingual children often outperform monolinguals on tests of cognitive flexibility, and some studies suggest that lifelong bilingualism delays the onset of dementia by several years, a cognitive reserve built up over decades."
+   },
+   {
+    "id": "p4",
+    "text": "Perhaps the most underrated benefit is cultural. To speak another language is to gain a second window on the world, a different way of framing thought itself. In an interconnected age, that is not a luxury but a quiet necessity."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "bilingualism",
+    "translation": "双语能力"
+   },
+   {
+    "word": "stunt",
+    "translation": "阻碍发展"
+   },
+   {
+    "word": "executive control",
+    "translation": "执行控制功能"
+   },
+   {
+    "word": "dementia",
+    "translation": "痴呆症"
+   },
+   {
+    "word": "underrated",
+    "translation": "被低估的"
+   }
+  ]
+ },
+ {
+  "id": "article-020",
+  "title": "Urban Green Space: A Public Health Investment",
+  "source": "The Lancet",
+  "date": "2025-05-21",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Parks are often treated as a luxury — pleasant additions to a city's budget rather than essential to its health. A growing body of research suggests this view is dangerously shortsighted. Access to green space is, it turns out, a powerful predictor of wellbeing."
+   },
+   {
+    "id": "p2",
+    "text": "The evidence is striking. People who live near parks exercise more, sleep better, and report lower levels of stress. Trees cool urban heat islands, filter pollution, and even appear to correlate with lower rates of anxiety and depression in surrounding neighbourhoods."
+   },
+   {
+    "id": "p3",
+    "text": "The benefits are not evenly distributed, however. In many cities, wealthy districts are thick with shade and greenery while poorer areas are barren concrete. Green space, in other words, has become another axis of inequality."
+   },
+   {
+    "id": "p4",
+    "text": "Fixing this is not a frill but a matter of public health. Planting trees, converting vacant lots, and designing parks into new housing all yield returns that far exceed their cost. A city that neglects its green space is, in the long run, paying for it in hospital bills."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "shortsighted",
+    "translation": "目光短浅的"
+   },
+   {
+    "word": "correlate",
+    "translation": "相关联"
+   },
+   {
+    "word": "barren",
+    "translation": "贫瘠的，荒芜的"
+   },
+   {
+    "word": "axis",
+    "translation": "轴线，维度"
+   },
+   {
+    "word": "frill",
+    "translation": "装饰，无用的点缀"
+   }
+  ]
+ },
+ {
+  "id": "article-021",
+  "title": "Critical Thinking in the Age of Information",
+  "source": "The Economist",
+  "date": "2025-06-25",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Never in history has so much information been available to so many, so cheaply. And never has it been so easy to be misled. The same technology that gives us a library in our pocket also floods it with rumour, distortion, and outright fabrication."
+   },
+   {
+    "id": "p2",
+    "text": "Critical thinking — the discipline of evaluating evidence and questioning assumptions — has therefore become an essential survival skill. Yet it is rarely taught systematically, and the consequences of its absence are visible in the viral spread of falsehoods that outrun corrections by a wide margin."
+   },
+   {
+    "id": "p3",
+    "text": "The core habits of a critical mind are teachable. Check the source before sharing; ask who benefits from a claim; distinguish correlation from causation; and above all, hold your own beliefs to the same scrutiny you apply to others'. These are not advanced skills but neglected ones."
+   },
+   {
+    "id": "p4",
+    "text": "The goal is not cynicism but discernment. A healthy scepticism opens the door to genuine understanding, whereas blanket distrust merely closes it. In a noisy world, the ability to tell signal from noise is not just intellectual — it is a form of citizenship."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "distortion",
+    "translation": "歪曲，曲解"
+   },
+   {
+    "word": "fabrication",
+    "translation": "捏造，伪造"
+   },
+   {
+    "word": "scrutiny",
+    "translation": "审视，细察"
+   },
+   {
+    "word": "cynicism",
+    "translation": "愤世嫉俗"
+   },
+   {
+    "word": "discernment",
+    "translation": "洞察力，辨别力"
+   }
+  ]
+ },
+ {
+  "id": "article-022",
+  "title": "The Rise of Digital Minimalism",
+  "source": "The Atlantic",
+  "date": "2025-04-28",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Digital minimalism is a philosophy born of exhaustion. Its adherents are not Luddites who reject technology, but users who have concluded that more connection, more apps, and more notifications have not made them happier — only busier and more distracted."
+   },
+   {
+    "id": "p2",
+    "text": "The approach is simple in principle and demanding in practice: keep only the technologies that genuinely serve your goals, and use them with intention. For most people, that means drastic cuts — fewer apps, scheduled rather than constant checking, and long stretches entirely offline."
+   },
+   {
+    "id": "p3",
+    "text": "Early adopters report the same benefits: deeper work, calmer evenings, and a recovered sense of agency over their own attention. The difficulty lies not in the initial purge but in resisting the pull back toward convenience and the fear of missing out."
+   },
+   {
+    "id": "p4",
+    "text": "Digital minimalism is not an argument against technology but against thoughtless use of it. The question is not whether a tool is powerful, but whether it helps you live the life you actually want. That question, asked honestly, is more radical than it sounds."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "Luddites",
+    "translation": "反对新技术的人"
+   },
+   {
+    "word": "adherents",
+    "translation": "拥护者，追随者"
+   },
+   {
+    "word": "drastic",
+    "translation": "极端的，猛烈的"
+   },
+   {
+    "word": "purge",
+    "translation": "清除，净化"
+   },
+   {
+    "word": "agency",
+    "translation": "主动权，能动性"
+   }
+  ]
+ },
+ {
+  "id": "article-023",
+  "title": "How Memory Actually Works",
+  "source": "Nature",
+  "date": "2025-03-14",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Most of us imagine memory as a kind of video recorder, faithfully capturing events to be replayed on demand. The reality is far stranger. Memory is not a recording but a reconstruction, rebuilt each time we recall it, and subtly altered in the process."
+   },
+   {
+    "id": "p2",
+    "text": "This malleability has profound consequences. It explains why eyewitness testimony can be so unreliable, why two people recall the same event so differently, and why repeated retelling gradually reshapes a story until it barely resembles the original."
+   },
+   {
+    "id": "p3",
+    "text": "For students, the science points to concrete strategies. Retrieval practice — actively testing yourself rather than passively rereading — strengthens memory far more effectively. Spacing study sessions over time, rather than cramming, exploits the brain's natural rhythms of consolidation."
+   },
+   {
+    "id": "p4",
+    "text": "Understanding memory's quirks is not cause for despair but for humility and smarter study. We cannot make our memories perfect, but we can learn to work with them as they actually are: powerful, impressionable, and always a little bit unreliable."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "reconstruction",
+    "translation": "重建，重构"
+   },
+   {
+    "word": "malleability",
+    "translation": "可塑性"
+   },
+   {
+    "word": "eyewitness",
+    "translation": "目击者"
+   },
+   {
+    "word": "retrieval",
+    "translation": "提取，检索"
+   },
+   {
+    "word": "consolidation",
+    "translation": "巩固"
+   }
+  ]
+ },
+ {
+  "id": "article-024",
+  "title": "The Decline of Handwriting",
+  "source": "The New York Times",
+  "date": "2025-05-09",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The pen, for centuries the primary tool of literate life, is quietly being retired. Children type before they can write fluently, adults sign documents with a tap, and the handwritten letter has become a quaint relic. Something is lost in this transition."
+   },
+   {
+    "id": "p2",
+    "text": "Research suggests the loss is neurological as much as cultural. The physical act of forming letters by hand activates brain regions involved in memory and learning in ways that typing does not. Students who take notes by hand consistently retain concepts better than those who type."
+   },
+   {
+    "id": "p3",
+    "text": "Handwriting also slows us down, and that slowness has value. It forces a selectivity and deliberation that the speed of typing encourages us to skip. A handwritten draft is not merely a slower draft; it is often a more thoughtful one."
+   },
+   {
+    "id": "p4",
+    "text": "The argument is not to abandon the keyboard, a tool of immense power, but to preserve the handwritten word alongside it. Some skills are worth keeping not because they are efficient, but because they shape the mind in ways we are only beginning to understand."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "quaint",
+    "translation": "古雅的，离奇有趣的"
+   },
+   {
+    "word": "neurological",
+    "translation": "神经系统的"
+   },
+   {
+    "word": "retain",
+    "translation": "保留，记住"
+   },
+   {
+    "word": "deliberation",
+    "translation": "深思熟虑"
+   }
+  ]
+ },
+ {
+  "id": "article-025",
+  "title": "The Psychology of Gratitude",
+  "source": "Psychology Today",
+  "date": "2025-02-22",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Gratitude has a reputation for being soft — a pleasant sentiment for greeting cards rather than a serious tool for living. Yet a substantial body of research now suggests that the simple practice of noticing what is good may be one of the most reliable routes to wellbeing."
+   },
+   {
+    "id": "p2",
+    "text": "In controlled experiments, people who regularly record things they are grateful for report higher life satisfaction, better sleep, and fewer symptoms of depression. The effects are modest but remarkably consistent, appearing across cultures and age groups."
+   },
+   {
+    "id": "p3",
+    "text": "The mechanism is deceptively simple. The mind has a natural negativity bias, dwelling on threats and losses because survival once depended on it. Gratitude is a deliberate counterweight, training attention to rest on what is present rather than what is missing."
+   },
+   {
+    "id": "p4",
+    "text": "Gratitude, crucially, is not denial. It does not require pretending that hardship does not exist, only a willingness to hold the good alongside the bad. That balanced vision, cultivated daily, quietly changes the texture of a life."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "sentiment",
+    "translation": "情感，情绪"
+   },
+   {
+    "word": "substantial",
+    "translation": "大量的，实质的"
+   },
+   {
+    "word": "mechanism",
+    "translation": "机制，原理"
+   },
+   {
+    "word": "counterweight",
+    "translation": "平衡力量，抵消"
+   },
+   {
+    "word": "cultivated",
+    "translation": "培养，养成"
+   }
+  ]
+ },
+ {
+  "id": "article-026",
+  "title": "The Future of Energy Storage",
+  "source": "The Economist",
+  "date": "2025-06-18",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Solar and wind power have become astonishingly cheap, but they share a fundamental weakness: the sun does not always shine and the wind does not always blow. The missing piece in the renewable revolution has long been storage — a way to save energy for when it is needed."
+   },
+   {
+    "id": "p2",
+    "text": "Battery technology is now closing that gap. Lithium-ion cells, driven by the electric-vehicle boom, have fallen in price by roughly ninety per cent in a decade. Grid-scale batteries are being installed at a pace that few predicted even five years ago."
+   },
+   {
+    "id": "p3",
+    "text": "The implications are far-reaching. Affordable storage means renewable energy can provide reliable, around-the-clock power, displacing the fossil-fuel plants that currently fill the gaps. It also democratises energy, allowing households to store their own rooftop power."
+   },
+   {
+    "id": "p4",
+    "text": "Challenges remain — raw materials, recycling, and the sheer scale of what must be built — but the trajectory is clear. The combination of cheap renewables and cheap storage may prove to be the most important energy transition since the dawn of the industrial age."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "renewable",
+    "translation": "可再生的"
+   },
+   {
+    "word": "grid-scale",
+    "translation": "电网级规模的"
+   },
+   {
+    "word": "displacing",
+    "translation": "取代，替代"
+   },
+   {
+    "word": "democratises",
+    "translation": "使普及，使大众化"
+   },
+   {
+    "word": "trajectory",
+    "translation": "轨迹，趋势"
+   }
+  ]
+ },
+ {
+  "id": "article-027",
+  "title": "Why We Love Stories",
+  "source": "The Atlantic",
+  "date": "2025-03-02",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Human beings are storytelling animals. From the fireside tales of our ancestors to the streaming serials of today, narrative is woven through every known culture. We do not merely enjoy stories; we seem to need them."
+   },
+   {
+    "id": "p2",
+    "text": "Psychologists propose that stories are a form of simulation. By inhabiting the minds of characters, we rehearse emotions and dilemmas without bearing their real-world costs. Fiction, in this view, is a kind of flight simulator for social life."
+   },
+   {
+    "id": "p3",
+    "text": "The evidence is intriguing. Readers of literary fiction score higher on tests of empathy, and narrative persuasion often moves people more than statistics alone. A single well-told story can change minds that a torrent of data leaves untouched."
+   },
+   {
+    "id": "p4",
+    "text": "In an era of information overload, story remains our native mode of understanding. Facts inform, but stories transform. The enduring power of narrative is not an accident of culture but a deep feature of the human mind."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "narrative",
+    "translation": "叙事，故事"
+   },
+   {
+    "word": "simulation",
+    "translation": "模拟，仿真"
+   },
+   {
+    "word": "rehearse",
+    "translation": "排练，演练"
+   },
+   {
+    "word": "empathy",
+    "translation": "同理心，共情"
+   },
+   {
+    "word": "torrent",
+    "translation": "洪流，大量"
+   }
+  ]
+ },
+ {
+  "id": "article-028",
+  "title": "The Circular Economy",
+  "source": "Harvard Business Review",
+  "date": "2025-05-16",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The modern economy runs on a linear model: take, make, use, and throw away. It has produced abundance and waste in equal measure. A growing movement argues for a different logic — a circular economy in which materials flow in closed loops, endlessly reused."
+   },
+   {
+    "id": "p2",
+    "text": "The principles are elegant. Products are designed to be repaired rather than replaced, remanufactured rather than discarded. Materials are kept at their highest value for as long as possible, and biological nutrients are returned safely to the soil."
+   },
+   {
+    "id": "p3",
+    "text": "Pioneering companies are already demonstrating the economics. Leasing instead of selling, designing for disassembly, and recovering valuable materials from used goods all turn what was once waste into a competitive asset."
+   },
+   {
+    "id": "p4",
+    "text": "The transition is daunting, requiring new infrastructure, new design skills, and new habits of consumption. But the linear model, built on cheap materials and infinite space for waste, is quietly becoming untenable. Circularity is less a choice than a direction."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "linear",
+    "translation": "线性的"
+   },
+   {
+    "word": "remanufactured",
+    "translation": "再制造"
+   },
+   {
+    "word": "disassembly",
+    "translation": "拆卸，分解"
+   },
+   {
+    "word": "daunting",
+    "translation": "令人生畏的"
+   },
+   {
+    "word": "untenable",
+    "translation": "站不住脚的，难以为继的"
+   }
+  ]
+ },
+ {
+  "id": "article-029",
+  "title": "The Science of Willpower",
+  "source": "Scientific American",
+  "date": "2025-04-07",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Willpower is often imagined as a fixed trait — some people simply have more of it. The science tells a more encouraging story: self-control behaves less like a character flaw or virtue than like a skill and a resource, both of which can be strengthened with practice."
+   },
+   {
+    "id": "p2",
+    "text": "Research suggests that self-control is partly depletable, like a muscle that tires with use. Decisions made early in the day are typically wiser than those made late, a phenomenon known as ego depletion. The finding has been debated, but the practical advice holds: do the hard things first."
+   },
+   {
+    "id": "p3",
+    "text": "The strongest predictor of success, however, is not raw willpower but its strategic deployment. The best self-controllers avoid temptation rather than resist it. They build habits, shape their environments, and remove the need for constant acts of heroism."
+   },
+   {
+    "id": "p4",
+    "text": "The goal, then, is not to become a person of iron resolve but a person of wise design. Structure your day so that the right choice is the easy choice, and the need for willpower steadily diminishes. Self-control, mastered, becomes self-forgetting."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "depletable",
+    "translation": "可耗尽的"
+   },
+   {
+    "word": "ego depletion",
+    "translation": "自我损耗"
+   },
+   {
+    "word": "strategic",
+    "translation": "策略性的"
+   },
+   {
+    "word": "deployment",
+    "translation": "运用，部署"
+   },
+   {
+    "word": "resolve",
+    "translation": "决心，决意"
+   }
+  ]
+ },
+ {
+  "id": "article-030",
+  "title": "The Loneliness Epidemic",
+  "source": "The Guardian",
+  "date": "2025-06-08",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Loneliness has been described as a public-health emergency. It is not simply the absence of people but the painful gap between the connections we have and the connections we crave. And in societies richer and more connected than ever, that gap is widening."
+   },
+   {
+    "id": "p2",
+    "text": "The health consequences are startling. Chronic loneliness is associated with elevated risks of heart disease, dementia, and early death, comparable in magnitude to smoking or obesity. It is, in a very real sense, a matter of life and death."
+   },
+   {
+    "id": "p3",
+    "text": "Technology is both culprit and potential remedy. Social media can deepen isolation by substituting shallow online contact for deep offline relationships, yet it can also connect the elderly, the housebound, and the isolated to communities they would otherwise never reach."
+   },
+   {
+    "id": "p4",
+    "text": "The solutions are less technological than social. Rebuilding neighbourhood ties, investing in public spaces, and simply reaching out — these unglamorous acts are the real medicine. Loneliness is a collective problem, and it admits of collective solutions."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "epidemic",
+    "translation": "流行病"
+   },
+   {
+    "word": "crave",
+    "translation": "渴望"
+   },
+   {
+    "word": "elevated",
+    "translation": "升高的"
+   },
+   {
+    "word": "culprit",
+    "translation": "元凶，罪魁祸首"
+   },
+   {
+    "word": "unglamorous",
+    "translation": "平淡无奇的"
+   }
+  ]
+ },
+ {
+  "id": "article-031",
+  "title": "The Value of a Gap Year",
+  "source": "The Guardian",
+  "date": "2025-05-03",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "In some countries, taking a year off between school and university is a rite of passage; in others, it is regarded with suspicion as a costly delay. The truth, as with most such questions, lies somewhere between the two caricatures."
+   },
+   {
+    "id": "p2",
+    "text": "The benefits of a well-planned gap year are real and measurable. Students return with greater maturity, clearer goals, and a broader perspective that universities consistently report improves both academic performance and graduation rates."
+   },
+   {
+    "id": "p3",
+    "text": "The critics' warnings are not without merit. An unstructured year can drift into expensive idleness, and for students from less wealthy backgrounds, the very idea of a gap year is often financially out of reach."
+   },
+   {
+    "id": "p4",
+    "text": "The lesson is not to avoid gap years but to design them. A year spent working, volunteering, or learning a language pays dividends that no classroom can match — provided it is entered with intention rather than drift."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "rite of passage",
+    "translation": "成人礼，人生仪式"
+   },
+   {
+    "word": "caricatures",
+    "translation": "夸张的描绘"
+   },
+   {
+    "word": "maturity",
+    "translation": "成熟"
+   },
+   {
+    "word": "merit",
+    "translation": "价值，优点"
+   },
+   {
+    "word": "dividends",
+    "translation": "回报，红利"
+   }
+  ]
+ },
+ {
+  "id": "article-032",
+  "title": "The Enduring Appeal of Paper Books",
+  "source": "The New York Times",
+  "date": "2025-04-15",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "When e-readers arrived, commentators confidently predicted the death of the paper book. A decade and a half later, the obituary looks premature. Print books have not merely survived the digital onslaught; they have staged a quiet comeback."
+   },
+   {
+    "id": "p2",
+    "text": "Part of the explanation is sensory. Readers describe a pleasure in the weight, texture, and smell of paper that no screen replicates. The physical book offers a completeness — a beginning, middle, and end you can literally feel — that the infinite scroll does not."
+   },
+   {
+    "id": "p3",
+    "text": "There is also evidence of comprehension benefits. Several studies suggest that readers of print retain and understand material better than those reading the same text on screen, particularly for longer, more complex works."
+   },
+   {
+    "id": "p4",
+    "text": "None of this is an argument against digital reading, which has democratised access to books on an unprecedented scale. It is simply a reminder that technologies do not always replace one another; sometimes they coexist, each serving a different need."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "obituary",
+    "translation": "讣告，死亡宣告"
+   },
+   {
+    "word": "onslaught",
+    "translation": "猛攻，冲击"
+   },
+   {
+    "word": "sensory",
+    "translation": "感官的"
+   },
+   {
+    "word": "replicates",
+    "translation": "复制，再现"
+   },
+   {
+    "word": "democratised",
+    "translation": "使大众化"
+   }
+  ]
+ },
+ {
+  "id": "article-033",
+  "title": "The Growth Mindset Reconsidered",
+  "source": "Psychology Today",
+  "date": "2025-03-11",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Few ideas in education have spread as quickly as the growth mindset — the belief that abilities can be developed through effort. Its simplicity is seductive: praise effort, not talent, and students will flourish. The reality, predictably, is more complicated."
+   },
+   {
+    "id": "p2",
+    "text": "Early studies showed impressive effects, with students who adopted a growth mindset outperforming peers. But large-scale replications have found weaker results, and the debate over how much mindset alone can achieve remains unsettled."
+   },
+   {
+    "id": "p3",
+    "text": "The core insight survives the criticism. Students who believe improvement is possible are more likely to persist through difficulty — a disposition with obvious value. The error lies in treating mindset as a magic bullet rather than one ingredient among many."
+   },
+   {
+    "id": "p4",
+    "text": "The practical lesson is humility. Effort matters, but so do instruction, feedback, and practice. The growth mindset is best understood not as a cure-all but as a necessary precondition: the belief that makes everything else worth doing."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "seductive",
+    "translation": "诱人的，有吸引力的"
+   },
+   {
+    "word": "replications",
+    "translation": "重复实验"
+   },
+   {
+    "word": "disposition",
+    "translation": "性情，倾向"
+   },
+   {
+    "word": "magic bullet",
+    "translation": "灵丹妙药"
+   },
+   {
+    "word": "precondition",
+    "translation": "前提条件"
+   }
+  ]
+ },
+ {
+  "id": "article-034",
+  "title": "Food Waste: A Scandal of Abundance",
+  "source": "National Geographic",
+  "date": "2025-06-02",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Roughly a third of all food produced for human consumption is never eaten. It rots in fields, is rejected in warehouses for cosmetic flaws, spoils in refrigerators, and is scraped from plates. The scale of the waste is almost impossible to grasp."
+   },
+   {
+    "id": "p2",
+    "text": "The consequences are moral and environmental. While nearly a billion people go hungry, the food we discard consumes land, water, and energy, and its decomposition releases methane, a greenhouse gas far more potent than carbon dioxide."
+   },
+   {
+    "id": "p3",
+    "text": "The problem has no single cause and therefore no single solution. In rich countries, waste is concentrated in homes and restaurants; in poor ones, it occurs mainly between farm and market, where refrigeration and roads are lacking."
+   },
+   {
+    "id": "p4",
+    "text": "Progress is possible at every link in the chain. Better storage, smarter shopping, and a cultural shift away from aesthetic perfection could together recover a staggering amount of food — enough, by some estimates, to feed the world's hungry several times over."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "cosmetic",
+    "translation": "外观的，表面的"
+   },
+   {
+    "word": "decomposition",
+    "translation": "分解，腐烂"
+   },
+   {
+    "word": "methane",
+    "translation": "甲烷"
+   },
+   {
+    "word": "potent",
+    "translation": "强有力的"
+   },
+   {
+    "word": "staggering",
+    "translation": "惊人的"
+   }
+  ]
+ },
+ {
+  "id": "article-035",
+  "title": "The Art of Deep Work",
+  "source": "The Wall Street Journal",
+  "date": "2025-04-25",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Deep work is the ability to focus without distraction on a cognitively demanding task. It is, by its nature, rare in an economy built on interruption, which is precisely what makes it valuable. Those who cultivate it produce more, and better, in less time."
+   },
+   {
+    "id": "p2",
+    "text": "The barrier to deep work is rarely a lack of time but a lack of structure. The open inbox, the pinging phone, and the culture of instant response fragment attention into a thousand shallow pieces, each individually harmless and collectively ruinous."
+   },
+   {
+    "id": "p3",
+    "text": "The remedy is deliberate and unglamorous. Schedule blocks of uninterrupted time, treat them as appointments with yourself, and defend them ruthlessly. The first twenty minutes of a deep session are the hardest; the mind, like a vehicle, resists changing gears."
+   },
+   {
+    "id": "p4",
+    "text": "Mastery of deep work compounds. Skills built in focused hours accumulate into genuine expertise, while shallow busyness leaves little behind. In a distracted age, the capacity to concentrate may be the ultimate competitive advantage."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "cognitively",
+    "translation": "认知上地"
+   },
+   {
+    "word": "fragment",
+    "translation": "使碎裂，割裂"
+   },
+   {
+    "word": "ruinous",
+    "translation": "毁灭性的"
+   },
+   {
+    "word": "ruthlessly",
+    "translation": "毫不留情地"
+   },
+   {
+    "word": "compounds",
+    "translation": "复合，累积"
+   }
+  ]
+ },
+ {
+  "id": "article-036",
+  "title": "Why Museums Matter",
+  "source": "The Economist",
+  "date": "2025-05-18",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Museums are among the most visited institutions in the world, yet their purpose is surprisingly contested. Are they temples of scholarship, entertainment venues, or simply warehouses for objects a society no longer knows what to do with? They are, in truth, all three."
+   },
+   {
+    "id": "p2",
+    "text": "At their best, museums do what no textbook can: place us in the physical presence of the past. A painted portrait, a stone tool, a handwritten letter — these objects carry an authority that reproductions cannot match. They are evidence, made tangible."
+   },
+   {
+    "id": "p3",
+    "text": "The institution is also evolving. The traditional model of quiet rooms and authoritative labels is giving way to interactive exhibits, community partnerships, and a long-overdue reckoning with how objects were acquired in the first place."
+   },
+   {
+    "id": "p4",
+    "text": "The digital age, rather than making museums obsolete, has made them more relevant. In a world of endless images, the experience of standing before a real object — irreplaceable, unreproducible — becomes not less precious but more."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "contested",
+    "translation": "有争议的"
+   },
+   {
+    "word": "tangible",
+    "translation": "有形的，可触摸的"
+   },
+   {
+    "word": "reckoning",
+    "translation": "清算，反思"
+   },
+   {
+    "word": "acquired",
+    "translation": "获得，取得"
+   },
+   {
+    "word": "obsolete",
+    "translation": "过时的"
+   }
+  ]
+ },
+ {
+  "id": "article-037",
+  "title": "The Hidden Life of Trees",
+  "source": "Nature",
+  "date": "2025-03-23",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "A forest looks like a collection of separate trees, each standing alone. Beneath the soil, however, lies a hidden network that connects them. Through fungi that entwine their roots, trees exchange nutrients, send warning signals, and even share resources with the struggling."
+   },
+   {
+    "id": "p2",
+    "text": "This underground web has been compared, fancifully but suggestively, to a neural network. When a tree is attacked by pests, it releases chemical signals that its neighbours detect, prompting them to produce defensive compounds before the threat arrives."
+   },
+   {
+    "id": "p3",
+    "text": "The findings have reshaped how scientists understand forests — not as arenas of pure competition but as communities bound by cooperation. Old trees, in particular, act as hubs, nourishing seedlings and sustaining the forest's collective health."
+   },
+   {
+    "id": "p4",
+    "text": "There is a quiet lesson here for a species that prides itself on self-sufficiency. The visible world, it turns out, is only part of the story. Beneath the surface, in forests and elsewhere, connection is the rule rather than the exception."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "fungi",
+    "translation": "真菌"
+   },
+   {
+    "word": "entwine",
+    "translation": "缠绕"
+   },
+   {
+    "word": "fancifully",
+    "translation": "天马行空地"
+   },
+   {
+    "word": "neural",
+    "translation": "神经的"
+   },
+   {
+    "word": "seedlings",
+    "translation": "幼苗"
+   }
+  ]
+ },
+ {
+  "id": "article-038",
+  "title": "The Case Against Perfectionism",
+  "source": "The Atlantic",
+  "date": "2025-06-20",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Perfectionism wears a disguise. In job interviews and personal statements, it is offered as a humble strength — a sign of high standards and diligence. Psychologists, however, have long recognised it as something closer to a trap."
+   },
+   {
+    "id": "p2",
+    "text": "The perfectionist's standards are not merely high but impossible, and the failure to meet them produces a distinctive misery. Work is never finished, achievements never satisfying, and the fear of falling short becomes a permanent undercurrent of daily life."
+   },
+   {
+    "id": "p3",
+    "text": "The costs extend beyond the personal. Perfectionists procrastinate, because beginning a task risks producing something imperfect. They avoid feedback, because criticism threatens an identity built on being flawless. In seeking to avoid failure, they often court it."
+   },
+   {
+    "id": "p4",
+    "text": "The healthier goal is not mediocrity but what psychologists call optimalism: accepting that imperfection is not the enemy of excellence but its price. Done is better than perfect, and the person who finishes imperfectly has learned what the perfectionist never will."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "diligence",
+    "translation": "勤勉"
+   },
+   {
+    "word": "distinctive",
+    "translation": "独特的"
+   },
+   {
+    "word": "undercurrent",
+    "translation": "暗流，潜在倾向"
+   },
+   {
+    "word": "mediocrity",
+    "translation": "平庸"
+   },
+   {
+    "word": "optimalism",
+    "translation": "最优主义"
+   }
+  ]
+ },
+ {
+  "id": "article-039",
+  "title": "The Power of Napping",
+  "source": "Scientific American",
+  "date": "2025-02-11",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The afternoon nap occupies an uncertain place in modern life. In some cultures it is an institution; in others, a guilty pleasure or a sign of laziness. The science, however, is unambiguous: a well-timed nap is among the cheapest and most effective cognitive enhancers known."
+   },
+   {
+    "id": "p2",
+    "text": "A short nap of ten to twenty minutes improves alertness, mood, and performance without the grogginess that follows longer sleep. Slightly longer naps, entering deeper stages, also enhance memory consolidation — helping the brain file away what has been learned."
+   },
+   {
+    "id": "p3",
+    "text": "The key is timing. Naps too late in the day interfere with night-time sleep, and naps too long leave the sleeper sluggish. The sweet spot, for most people, is early to mid-afternoon, matching the natural dip in alertness that follows lunch."
+   },
+   {
+    "id": "p4",
+    "text": "For students and workers alike, the nap is a neglected tool. A twenty-minute rest can restore more focus than an extra hour of half-hearted work. The body's plea for a pause is not weakness but wisdom."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "unambiguous",
+    "translation": "明确的，毫不含糊的"
+   },
+   {
+    "word": "cognitive",
+    "translation": "认知的"
+   },
+   {
+    "word": "grogginess",
+    "translation": "昏昏沉沉"
+   },
+   {
+    "word": "sluggish",
+    "translation": "迟缓的，无力的"
+   },
+   {
+    "word": "half-hearted",
+    "translation": "敷衍的，半心半意的"
+   }
+  ]
+ },
+ {
+  "id": "article-040",
+  "title": "Reading Fiction Makes Better Doctors",
+  "source": "The Lancet",
+  "date": "2025-05-27",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Medical schools are increasingly adding something unexpected to their curricula: novels. The reasoning is that the practice of medicine demands not only technical skill but the capacity to understand another person's experience — a capacity that fiction uniquely cultivates."
+   },
+   {
+    "id": "p2",
+    "text": "Research on literary reading supports the intuition. Readers of fiction score higher on measures of empathy and theory of mind — the ability to infer what others are thinking and feeling. A doctor who has inhabited a character's suffering listens differently."
+   },
+   {
+    "id": "p3",
+    "text": "The humanities, long sidelined in the rush toward specialisation, are staging a quiet return. Narrative medicine, as the field is known, trains clinicians to read stories as carefully as they read charts, attending to what patients mean as much as what they say."
+   },
+   {
+    "id": "p4",
+    "text": "The implication reaches beyond medicine. Every profession that deals in people — teaching, law, management — benefits from the imagination that fiction exercises. Stories are not an escape from the real world but a training ground for it."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "curricula",
+    "translation": "课程设置"
+   },
+   {
+    "word": "cultivates",
+    "translation": "培养，培育"
+   },
+   {
+    "word": "theory of mind",
+    "translation": "心理理论，心智解读"
+   },
+   {
+    "word": "sidelined",
+    "translation": "被边缘化"
+   },
+   {
+    "word": "clinicians",
+    "translation": "临床医生"
+   }
+  ]
+ },
+ {
+  "id": "article-041",
+  "title": "The Tyranny of the To-Do List",
+  "source": "The Guardian",
+  "date": "2025-03-30",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The to-do list is the productivity tool of our age, a humble document that promises order amid chaos. Yet for many, it has become less a servant than a master — a running inventory of unfinished business that generates more anxiety than action."
+   },
+   {
+    "id": "p2",
+    "text": "The problem is structural. A list that grows faster than it shrinks becomes a monument to shortfall, every unchecked box a small reproach. Psychologists note that unfinished tasks linger in the mind, a phenomenon they call the Zeigarnik effect, consuming attention long after we have walked away."
+   },
+   {
+    "id": "p3",
+    "text": "The remedy is not to abandon lists but to tame them. Choose a handful of meaningful tasks rather than a sprawling catalogue. Distinguish between the urgent and the important, and accept that some items belong not on a list but in a bin."
+   },
+   {
+    "id": "p4",
+    "text": "A well-kept list should feel like a plan, not an indictment. The goal of any system of organisation is not to complete everything — an impossibility — but to spend your finite attention on what matters, and to let the rest go without guilt."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "inventory",
+    "translation": "清单，存货"
+   },
+   {
+    "word": "monument",
+    "translation": "纪念碑，见证"
+   },
+   {
+    "word": "reproach",
+    "translation": "责备，指责"
+   },
+   {
+    "word": "sprawling",
+    "translation": "杂乱扩张的"
+   },
+   {
+    "word": "indictment",
+    "translation": "控诉，指责"
+   }
+  ]
+ },
+ {
+  "id": "article-042",
+  "title": "Learning a Language After Forty",
+  "source": "The Economist",
+  "date": "2025-04-30",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Conventional wisdom holds that language learning is a young person's game, that after a certain age the mind simply loses its plasticity. Like much conventional wisdom, it is misleading. Adults learn languages all the time, and often with remarkable success."
+   },
+   {
+    "id": "p2",
+    "text": "What changes with age is not the capacity to learn but the manner of learning. Children acquire language effortlessly through immersion; adults learn more deliberately, drawing on the very skills — analysis, memory strategies, self-discipline — that children lack."
+   },
+   {
+    "id": "p3",
+    "text": "The adult advantage is real. Mature learners bring richer vocabulary in their first language, better study habits, and a clearer sense of why they are learning. The disadvantages — time pressure, self-consciousness, a certain stiffness of ear — are obstacles, not barriers."
+   },
+   {
+    "id": "p4",
+    "text": "The research on neuroplasticity offers encouragement: the brain remains capable of forging new connections throughout life. The forty-year-old who begins a language today is not fighting biology but neglecting it. It is never too late to start."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "plasticity",
+    "translation": "可塑性"
+   },
+   {
+    "word": "immersion",
+    "translation": "沉浸"
+   },
+   {
+    "word": "deliberately",
+    "translation": "刻意地，审慎地"
+   },
+   {
+    "word": "self-consciousness",
+    "translation": "自我意识，难为情"
+   },
+   {
+    "word": "neuroplasticity",
+    "translation": "神经可塑性"
+   }
+  ]
+ },
+ {
+  "id": "article-043",
+  "title": "The Price of Fast Fashion",
+  "source": "The Guardian",
+  "date": "2025-06-14",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Fast fashion has democratised style. Garments that once took months to reach shops now appear within weeks of the catwalk, at prices so low that clothing has become almost disposable. The bargain, however, is paid elsewhere."
+   },
+   {
+    "id": "p2",
+    "text": "The industry is among the most polluting on Earth. Vast quantities of water, chemicals, and fossil fuel go into producing clothes that are worn a handful of times and discarded. Mountains of textile waste accumulate in countries that never see the benefit of the fashion they receive."
+   },
+   {
+    "id": "p3",
+    "text": "The human cost is equally stark. Garment workers, many of them women in low-income countries, labour long hours for wages that barely sustain them, a reality exposed with grim regularity by factory disasters that make headlines and then fade."
+   },
+   {
+    "id": "p4",
+    "text": "Consumers are not powerless. Buying less, buying better, and keeping clothes longer shifts the incentives that drive the industry. Fashion need not disappear; it simply needs to slow down enough to be counted."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "catwalk",
+    "translation": "T台，时装秀"
+   },
+   {
+    "word": "disposable",
+    "translation": "一次性的，可丢弃的"
+   },
+   {
+    "word": "textile",
+    "translation": "纺织的"
+   },
+   {
+    "word": "stark",
+    "translation": "严酷的，鲜明的"
+   },
+   {
+    "word": "grim",
+    "translation": "严峻的，冷酷的"
+   }
+  ]
+ },
+ {
+  "id": "article-044",
+  "title": "The Benefits of Boredom in Children",
+  "source": "The New York Times",
+  "date": "2025-05-12",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The complaint is a familiar one in every household: 'I'm bored.' For parents, it has become a signal to act — to produce a screen, an activity, a remedy. Yet child-development experts suggest the instinct is worth resisting."
+   },
+   {
+    "id": "p2",
+    "text": "Boredom, they argue, is not a void to be filled but a threshold to be crossed. When the scheduled entertainments stop, the imagination has nowhere to hide and is forced to work. It is in these unstructured intervals that children invent games, ask questions, and discover interests."
+   },
+   {
+    "id": "p3",
+    "text": "The alternative — a childhood of constant stimulation — produces a different kind of deficit. Children who are never bored learn to depend on external novelty, struggling to entertain themselves when the screens are removed."
+   },
+   {
+    "id": "p4",
+    "text": "The prescription is simple and, for many parents, uncomfortable: let them be bored. Provide time, materials, and a little benign neglect, and the imagination, given room, will do the rest."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "threshold",
+    "translation": "门槛，起点"
+   },
+   {
+    "word": "void",
+    "translation": "空白，空虚"
+   },
+   {
+    "word": "deficit",
+    "translation": "缺陷，不足"
+   },
+   {
+    "word": "novelty",
+    "translation": "新奇事物"
+   },
+   {
+    "word": "benign",
+    "translation": "温和的，良性的"
+   }
+  ]
+ },
+ {
+  "id": "article-045",
+  "title": "The End of Cash?",
+  "source": "Financial Times",
+  "date": "2025-03-05",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "In a growing number of countries, cash is becoming an anachronism. Payments once made with notes and coins are now settled with a tap of a phone, and some shops refuse physical money altogether. The era of the cashless society appears to be arriving ahead of schedule."
+   },
+   {
+    "id": "p2",
+    "text": "The benefits are considerable. Digital payments are faster, more traceable, and harder to counterfeit, and they leave a record that complicates tax evasion and money laundering. For businesses, they eliminate the cost and risk of handling cash."
+   },
+   {
+    "id": "p3",
+    "text": "But the transition carries real costs. The elderly, the poor, and those without bank accounts are disproportionately excluded from a cashless economy. Privacy is another casualty: every digital transaction leaves a trail that cash never did."
+   },
+   {
+    "id": "p4",
+    "text": "The sensible path is neither to cling to cash nor to abolish it, but to preserve choice. A society that serves all its members will ensure that no one is locked out of daily commerce simply for lacking the latest technology."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "anachronism",
+    "translation": "过时之物"
+   },
+   {
+    "word": "counterfeit",
+    "translation": "伪造"
+   },
+   {
+    "word": "money laundering",
+    "translation": "洗钱"
+   },
+   {
+    "word": "disproportionately",
+    "translation": "不成比例地"
+   },
+   {
+    "word": "casualty",
+    "translation": "牺牲品，受害者"
+   }
+  ]
+ },
+ {
+  "id": "article-046",
+  "title": "Why We Should All Learn to Fail",
+  "source": "Harvard Business Review",
+  "date": "2025-06-28",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Failure is something most of us are trained to avoid, yet every meaningful achievement is built on a foundation of it. The scientist's breakthrough rests on a thousand failed experiments; the athlete's medal on years of losing. Failure is not the opposite of success but its raw material."
+   },
+   {
+    "id": "p2",
+    "text": "The distinction between productive and destructive failure lies in the response. Failure that is examined, understood, and corrected becomes learning; failure that is hidden, denied, or feared becomes a permanent ceiling on what we attempt."
+   },
+   {
+    "id": "p3",
+    "text": "Organisations that punish failure unwittingly punish innovation, since the surest way to avoid failure is to attempt nothing new. The most creative cultures are those that distinguish between the failure of effort and the failure of carelessness, treating the first as tuition and the second as negligence."
+   },
+   {
+    "id": "p4",
+    "text": "The personal application is straightforward: fail small, fail early, and fail forward. Each setback, honestly examined, is a form of instruction no success could provide. The people who ultimately succeed are rarely the most talented — they are the most resilient."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "breakthrough",
+    "translation": "突破"
+   },
+   {
+    "word": "unwittingly",
+    "translation": "不知不觉地"
+   },
+   {
+    "word": "tuition",
+    "translation": "学费"
+   },
+   {
+    "word": "negligence",
+    "translation": "疏忽，玩忽职守"
+   },
+   {
+    "word": "resilient",
+    "translation": "有韧性的"
+   }
+  ]
+ },
+ {
+  "id": "article-047",
+  "title": "The Science of a Good Conversation",
+  "source": "The Atlantic",
+  "date": "2025-02-27",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Conversation is the most universal of human activities, yet few of us have ever been taught how to do it well. We learn to read, to write, to calculate — but the art of talking and listening, on which so much of life depends, is left to chance."
+   },
+   {
+    "id": "p2",
+    "text": "Research into what makes conversations satisfying points to a surprising conclusion: the best listeners are not those who offer clever responses but those who ask questions and make others feel heard. Attention, it turns out, is the scarcest and most valued conversational gift."
+   },
+   {
+    "id": "p3",
+    "text": "The obstacles to good conversation are mostly internal. We listen to reply rather than to understand, rehearsing our next point while the other person speaks. We fear silence and rush to fill it. We mistake talking about ourselves for connection."
+   },
+   {
+    "id": "p4",
+    "text": "The fix is simpler than it seems: be genuinely curious, ask follow-up questions, and resist the urge to turn every story back toward yourself. Conversation, done well, is not a performance but a collaboration — and the rewards of that collaboration are profound."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "universal",
+    "translation": "普遍的"
+   },
+   {
+    "word": "scarcest",
+    "translation": "最稀缺的"
+   },
+   {
+    "word": "rehearsing",
+    "translation": "预演，排练"
+   },
+   {
+    "word": "collaboration",
+    "translation": "协作"
+   },
+   {
+    "word": "profound",
+    "translation": "深刻的"
+   }
+  ]
+ },
+ {
+  "id": "article-048",
+  "title": "The Slow Decline of the Automobile",
+  "source": "The Economist",
+  "date": "2025-05-06",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "For a century, the private automobile has shaped the modern city, dictating the width of streets, the placement of homes, and the rhythm of daily life. That era may be drawing to a close, not with a bang but with a gradual retreat."
+   },
+   {
+    "id": "p2",
+    "text": "Cities around the world are reclaiming space from cars. Congestion charges, pedestrian zones, and expanded cycling networks reflect a growing consensus that streets belong to people, not just vehicles. The pandemic, by emptying roads, accelerated a rethink long underway."
+   },
+   {
+    "id": "p3",
+    "text": "The car is unlikely to disappear entirely. In rural areas and for certain journeys, it remains indispensable. But its dominance of the urban landscape — the seas of parking, the roaring arterials — is being steadily dismantled."
+   },
+   {
+    "id": "p4",
+    "text": "The transition is as much cultural as infrastructural. A generation is emerging that sees the car less as a symbol of freedom and more as a costly, congesting burden. In the cities that thrive, the future of transport looks less like more cars and more like better choices."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "dictating",
+    "translation": "支配，决定"
+   },
+   {
+    "word": "congestion",
+    "translation": "拥堵"
+   },
+   {
+    "word": "pedestrian",
+    "translation": "行人的"
+   },
+   {
+    "word": "indispensable",
+    "translation": "不可或缺的"
+   },
+   {
+    "word": "dismantled",
+    "translation": "拆除，瓦解"
+   }
+  ]
+ },
+ {
+  "id": "article-049",
+  "title": "The Wisdom of the Crowd",
+  "source": "Nature",
+  "date": "2025-04-19",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "Ask a large group of people to estimate the weight of a bull, and the average of their guesses will be startlingly accurate — often closer than any single expert. This phenomenon, known as the wisdom of the crowd, is one of the most robust findings in social science."
+   },
+   {
+    "id": "p2",
+    "text": "The effect depends on conditions that are easy to state and hard to maintain. Individual guesses must be independent, diverse, and made without influence from one another. When people start copying each other, the crowd's wisdom collapses into herd behaviour."
+   },
+   {
+    "id": "p3",
+    "text": "The implications extend far beyond carnival guessing games. Markets, elections, and scientific peer review all draw, in their fashion, on the same logic: that a diverse collection of imperfect judgments, properly aggregated, can outperform any single judgment."
+   },
+   {
+    "id": "p4",
+    "text": "The cautionary corollary is equally important. The crowd is wise only when its members think for themselves. In the age of social media, where conformity spreads at the speed of a click, protecting the independence of thought has never mattered more."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "startlingly",
+    "translation": "惊人地"
+   },
+   {
+    "word": "robust",
+    "translation": "稳健的"
+   },
+   {
+    "word": "herd behaviour",
+    "translation": "从众行为"
+   },
+   {
+    "word": "aggregated",
+    "translation": "聚合，汇总"
+   },
+   {
+    "word": "corollary",
+    "translation": "推论，必然结果"
+   }
+  ]
+ },
+ {
+  "id": "article-050",
+  "title": "In Praise of Small Towns",
+  "source": "The Guardian",
+  "date": "2025-03-16",
+  "difficulty": "CET-6",
+  "paragraphs": [
+   {
+    "id": "p1",
+    "text": "The story of the modern world is, in large part, a story of migration to cities. Drawn by jobs, education, and the promise of anonymity, millions have left small towns behind. Yet a quiet countercurrent is now stirring."
+   },
+   {
+    "id": "p2",
+    "text": "Remote work has loosened the tether between employment and location, and for a growing number of people, the small town is no longer a place to escape but a place to choose. Lower costs, cleaner air, and a pace of life that leaves room for reflection exert a growing appeal."
+   },
+   {
+    "id": "p3",
+    "text": "The appeal is not merely nostalgic. Small communities offer forms of connection — the shopkeeper who knows your name, the neighbour who notices your absence — that cities, for all their density, often struggle to provide."
+   },
+   {
+    "id": "p4",
+    "text": "The future is unlikely to be a simple reversal, but a rebalancing. The city will keep its magnetism, yet the small town, rediscovered, may once again become a place where a good life is not merely imagined but lived."
+   }
+  ],
+  "glossary": [
+   {
+    "word": "anonymity",
+    "translation": "匿名，无名"
+   },
+   {
+    "word": "countercurrent",
+    "translation": "逆流"
+   },
+   {
+    "word": "tether",
+    "translation": "束缚，绳索"
+   },
+   {
+    "word": "nostalgic",
+    "translation": "怀旧的"
+   },
+   {
+    "word": "magnetism",
+    "translation": "吸引力"
+   }
+  ]
+ }
+]

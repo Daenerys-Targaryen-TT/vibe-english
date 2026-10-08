@@ -47,6 +47,7 @@ export default function DashboardPage() {
   const [streak, setStreak] = React.useState({ current: 0, longest: 0 });
   const [masteredCount, setMasteredCount] = React.useState(0);
   const [totalWords, setTotalWords] = React.useState(0);
+  const [listeningAvg, setListeningAvg] = React.useState<number | null>(null);
 
   React.useEffect(() => {
     if (!mounted) return;
@@ -126,6 +127,13 @@ export default function DashboardPage() {
       setWrongWords(wrong);
 
       setStreak(await computeStreak());
+
+      const listening = await db.listeningRecords.toArray();
+      if (listening.length > 0) {
+        setListeningAvg(
+          Math.round(listening.reduce((s, r) => s + r.accuracy, 0) / listening.length)
+        );
+      }
     })();
   }, [mounted]);
 
@@ -168,7 +176,7 @@ export default function DashboardPage() {
         <h1 className="mb-1 text-2xl font-bold">学习数据面板</h1>
         <p className="mb-6 text-sm text-muted-foreground">所有数据保存在本地浏览器。</p>
 
-        <div className="mb-6 grid grid-cols-2 gap-4 sm:grid-cols-4">
+        <div className="mb-6 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5">
           <Card>
             <CardContent className="p-4 text-center">
               <div className="flex items-center justify-center gap-1 text-2xl font-bold">
@@ -194,6 +202,14 @@ export default function DashboardPage() {
             <CardContent className="p-4 text-center">
               <div className="text-2xl font-bold">{wrongWords.length}</div>
               <div className="text-xs text-muted-foreground">错词数量</div>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent className="p-4 text-center">
+              <div className="text-2xl font-bold">
+                {listeningAvg === null ? "-" : `${listeningAvg}%`}
+              </div>
+              <div className="text-xs text-muted-foreground">听力平均正确率</div>
             </CardContent>
           </Card>
         </div>

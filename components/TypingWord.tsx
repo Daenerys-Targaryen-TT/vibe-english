@@ -20,8 +20,8 @@ interface SessionResult {
 
 const MODE_LABEL: Record<TypingMode, string> = {
   en2en: "看英文打英文",
-  zh2en: "看中文打英文",
-  listen2en: "听发音打英文",
+  zh2en: "看中文默写",
+  listen2en: "听音默写",
 };
 
 const JUDGE_LABEL: Record<JudgeMode, string> = {

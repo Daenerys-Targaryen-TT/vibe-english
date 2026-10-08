@@ -1,74 +1,1024 @@
 [
-  {
-    "id": "trans-001",
-    "title": "背影（节选）",
-    "author": "朱自清",
-    "source": "张培基《英译中国现代散文选》",
-    "difficulty": "advanced",
-    "sentences": [
-      {
-        "id": "s1",
-        "chinese": "我与父亲不相见已二年余了，我最不能忘记的是他的背影。",
-        "reference": "It is more than two years since I last saw father, and what I can never forget is the sight of his back."
-      },
-      {
-        "id": "s2",
-        "chinese": "那年冬天，祖母死了，父亲的差使也交卸了，正是祸不单行的日子。",
-        "reference": "In the winter of that year, grandmother died, and father lost his job. Misfortunes never come singly."
-      },
-      {
-        "id": "s3",
-        "chinese": "我从北京到徐州，打算跟着父亲奔丧回家。",
-        "reference": "I left Beijing for Xuzhou to join father in hastening home to attend grandmother's funeral."
-      }
-    ]
-  },
-  {
-    "id": "trans-002",
-    "title": "匆匆（节选）",
-    "author": "朱自清",
-    "source": "张培基《英译中国现代散文选》",
-    "difficulty": "intermediate",
-    "sentences": [
-      {
-        "id": "s1",
-        "chinese": "燕子去了，有再来的时候；杨柳枯了，有再青的时候；桃花谢了，有再开的时候。",
-        "reference": "Swallows may have gone, but there is a time of return; willow trees may have died back, but there is a time of regreening; peach blossoms may have fallen, but they will bloom again."
-      },
-      {
-        "id": "s2",
-        "chinese": "但是，聪明的，你告诉我，我们的日子为什么一去不复返呢？",
-        "reference": "But, tell me, you the wise, why should our days leave us, never to return?"
-      },
-      {
-        "id": "s3",
-        "chinese": "在逃去如飞的日子里，在千门万户的世界里的我能做些什么呢？",
-        "reference": "What can I do, in this bustling world, with my days flying in their escape?"
-      }
-    ]
-  },
-  {
-    "id": "trans-003",
-    "title": "荷塘月色（节选）",
-    "author": "朱自清",
-    "source": "张培基《英译中国现代散文选》",
-    "difficulty": "advanced",
-    "sentences": [
-      {
-        "id": "s1",
-        "chinese": "这几天心里颇不宁静。",
-        "reference": "The last few days have found me very restless."
-      },
-      {
-        "id": "s2",
-        "chinese": "今晚在院子里坐着乘凉，忽然想起日日走过的荷塘。",
-        "reference": "Tonight, as I sat in the yard enjoying the cool, it occurred to me to visit the lotus pond, which I pass by every day."
-      },
-      {
-        "id": "s3",
-        "chinese": "月光如流水一般，静静地泻在这一片叶子和花上。",
-        "reference": "The moonlight was streaming down like water, quietly pouring over the leaves and flowers."
-      }
-    ]
-  }
+ {
+  "id": "trans-001",
+  "title": "背影（节选）",
+  "author": "朱自清",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我与父亲不相见已二年余了，我最不能忘记的是他的背影。",
+    "reference": "It is more than two years since I last saw father, and what I can never forget is the sight of his back."
+   },
+   {
+    "id": "s2",
+    "chinese": "那年冬天，祖母死了，父亲的差使也交卸了，正是祸不单行的日子。",
+    "reference": "In the winter of that year, grandmother died, and father lost his job. Misfortunes never come singly."
+   },
+   {
+    "id": "s3",
+    "chinese": "我从北京到徐州，打算跟着父亲奔丧回家。",
+    "reference": "I left Beijing for Xuzhou to join father in hastening home to attend grandmother's funeral."
+   }
+  ]
+ },
+ {
+  "id": "trans-002",
+  "title": "匆匆（节选）",
+  "author": "朱自清",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "燕子去了，有再来的时候；杨柳枯了，有再青的时候；桃花谢了，有再开的时候。",
+    "reference": "Swallows may have gone, but there is a time of return; willow trees may have died back, but there is a time of regreening; peach blossoms may have fallen, but they will bloom again."
+   },
+   {
+    "id": "s2",
+    "chinese": "但是，聪明的，你告诉我，我们的日子为什么一去不复返呢？",
+    "reference": "But, tell me, you the wise, why should our days leave us, never to return?"
+   },
+   {
+    "id": "s3",
+    "chinese": "在逃去如飞的日子里，在千门万户的世界里的我能做些什么呢？",
+    "reference": "What can I do, in this bustling world, with my days flying in their escape?"
+   }
+  ]
+ },
+ {
+  "id": "trans-003",
+  "title": "荷塘月色（节选）",
+  "author": "朱自清",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "这几天心里颇不宁静。",
+    "reference": "The last few days have found me very restless."
+   },
+   {
+    "id": "s2",
+    "chinese": "今晚在院子里坐着乘凉，忽然想起日日走过的荷塘。",
+    "reference": "Tonight, as I sat in the yard enjoying the cool, it occurred to me to visit the lotus pond, which I pass by every day."
+   },
+   {
+    "id": "s3",
+    "chinese": "月光如流水一般，静静地泻在这一片叶子和花上。",
+    "reference": "The moonlight was streaming down like water, quietly pouring over the leaves and flowers."
+   }
+  ]
+ },
+ {
+  "id": "trans-004",
+  "title": "春（节选）",
+  "author": "朱自清",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "盼望着，盼望着，东风来了，春天的脚步近了。",
+    "reference": "Oh, the waiting, the waiting! At long last the east wind has come, and the footsteps of spring are drawing near."
+   },
+   {
+    "id": "s2",
+    "chinese": "一切都像刚睡醒的样子，欣欣然张开了眼。",
+    "reference": "All things look as if they had just woken from sleep, and opened their eyes with joy."
+   },
+   {
+    "id": "s3",
+    "chinese": "山朗润起来了，水涨起来了，太阳的脸红起来了。",
+    "reference": "The hills are brightening, the water is rising, and the sun is blushing."
+   }
+  ]
+ },
+ {
+  "id": "trans-005",
+  "title": "绿（节选）",
+  "author": "朱自清",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我第二次到仙岩的时候，我惊诧于梅雨潭的绿了。",
+    "reference": "The second time I visited the Xianyan Mountains, I was amazed by the green of the Meiyu Pool."
+   },
+   {
+    "id": "s2",
+    "chinese": "那醉人的绿呀，仿佛一张极大极大的荷叶铺着，满是奇异的绿呀。",
+    "reference": "That intoxicating green! It is like a gigantic lotus leaf spread out before me, full of a wonderful green."
+   },
+   {
+    "id": "s3",
+    "chinese": "这平铺着、厚积着的绿，着实可爱。",
+    "reference": "This green, spread out flat and accumulated thick, is truly lovely."
+   }
+  ]
+ },
+ {
+  "id": "trans-006",
+  "title": "冬天（节选）",
+  "author": "朱自清",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "说起冬天，忽然想到豆腐。",
+    "reference": "Speaking of winter, I am suddenly reminded of bean curd."
+   },
+   {
+    "id": "s2",
+    "chinese": "水滚着，像好些鱼眼睛，一小块一小块豆腐养在里面，嫩而滑。",
+    "reference": "The water was boiling, like a number of fish eyes, with small pieces of bean curd simmering in it, tender and smooth."
+   },
+   {
+    "id": "s3",
+    "chinese": "一上桌就眼巴巴望着那锅，等着那热气，等着热气里从父亲筷子上掉下来的豆腐。",
+    "reference": "Once seated at the table, we would eagerly watch the pot, waiting for the steam and for the bean curd that would slip off Father's chopsticks through the steam."
+   }
+  ]
+ },
+ {
+  "id": "trans-007",
+  "title": "故都的秋（节选）",
+  "author": "郁达夫",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "秋天，无论在什么地方的秋天，总是好的；可是啊，北国的秋，却特别地来得清，来得静，来得悲凉。",
+    "reference": "Autumn, wherever it is, is always fine; but the autumn in the North is especially clear, especially calm, and especially melancholy."
+   },
+   {
+    "id": "s2",
+    "chinese": "我的不远千里，要从杭州赶上青岛，更要从青岛赶上北平来的理由，也不过想饱尝一尝这秋，这故都的秋味。",
+    "reference": "The reason why I travelled a thousand li from Hangzhou to Qingdao, and then from Qingdao to Beiping, was simply to savour to the full this autumn, the flavour of autumn in the old capital."
+   },
+   {
+    "id": "s3",
+    "chinese": "北国的槐树，也是一种能使人联想起秋来的点缀。",
+    "reference": "The locust trees of the North are another touch that brings autumn to mind."
+   }
+  ]
+ },
+ {
+  "id": "trans-008",
+  "title": "白杨礼赞（节选）",
+  "author": "茅盾",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "白杨树实在不是平凡的，我赞美白杨树！",
+    "reference": "The white poplar is no ordinary tree; I sing its praises!"
+   },
+   {
+    "id": "s2",
+    "chinese": "那是力争上游的一种树，笔直的干，笔直的枝。",
+    "reference": "It is a tree that strives to excel, with a straight trunk and straight branches."
+   },
+   {
+    "id": "s3",
+    "chinese": "它的干通常是丈把高，像加过人工似的，一丈以内绝无旁枝。",
+    "reference": "Its trunk is usually about a zhang high, as if it had been artificially shaped, without a single side branch within the first zhang."
+   }
+  ]
+ },
+ {
+  "id": "trans-009",
+  "title": "落花生（节选）",
+  "author": "许地山",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我们屋后有半亩隙地。母亲说：'让它荒芜着怪可惜，既然你们那么爱吃花生，就辟来做花生园罢。'",
+    "reference": "Behind our house there lay half a mu of vacant land. Mother said, 'It's a pity to let it lie waste. Since you all like peanuts so much, let us turn it into a peanut garden.'"
+   },
+   {
+    "id": "s2",
+    "chinese": "这小小的豆不像那好看的苹果、桃子、石榴，把它们底果实悬在枝上，鲜红嫩绿的颜色，令人一望而发生羡慕的心。",
+    "reference": "The little nut, unlike the pretty apple, peach and pomegranate, which hang their fruits on branches to attract admiration with their bright red and tender green colours, buries its fruit in the ground."
+   },
+   {
+    "id": "s3",
+    "chinese": "所以你们要像花生，因为它是有用的，不是伟大、好看的东西。",
+    "reference": "So you should be like the peanut — useful, not great or good-looking."
+   }
+  ]
+ },
+ {
+  "id": "trans-010",
+  "title": "差不多先生传（节选）",
+  "author": "胡适",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "差不多先生的相貌和你和我都差不多。",
+    "reference": "Mr. Almost-Right looks almost the same as you and me."
+   },
+   {
+    "id": "s2",
+    "chinese": "他常常说：'凡事只要差不多，就好了。何必太精明呢？'",
+    "reference": "He would often say: 'Whatever we do, almost right is good enough. Why be so precise?'"
+   },
+   {
+    "id": "s3",
+    "chinese": "他的名誉越传越远，越久越大。无数无数的人都学他的榜样。",
+    "reference": "His fame spread far and wide, growing greater with the passage of time. Countless people took him as their model."
+   }
+  ]
+ },
+ {
+  "id": "trans-011",
+  "title": "我的母亲（节选）",
+  "author": "胡适",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我小时身体弱，不能跟着野蛮的孩子们一块儿玩。",
+    "reference": "As a child I was weak and could not play with the rough boys."
+   },
+   {
+    "id": "s2",
+    "chinese": "我母亲管束我最严，她是慈母兼任严父。",
+    "reference": "My mother kept the strictest watch over me, acting the part of both a loving mother and a stern father."
+   },
+   {
+    "id": "s3",
+    "chinese": "每天天刚亮时，我母亲就把我喊醒，叫我披衣坐起。",
+    "reference": "At dawn each day, my mother would wake me and make me sit up with my clothes thrown over my shoulders."
+   }
+  ]
+ },
+ {
+  "id": "trans-012",
+  "title": "学问与趣味（节选）",
+  "author": "梁实秋",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "常听人说趣味，学问与趣味应该是统一的。",
+    "reference": "I have often heard people speak of interest; learning and interest should go hand in hand."
+   },
+   {
+    "id": "s2",
+    "chinese": "学问没有趣味，则学不长，也不能深入。",
+    "reference": "Without interest, learning cannot last long, nor can it go deep."
+   },
+   {
+    "id": "s3",
+    "chinese": "人生最快乐的事，莫过于满足自己求知欲。",
+    "reference": "The greatest pleasure in life is nothing but the satisfaction of one's thirst for knowledge."
+   }
+  ]
+ },
+ {
+  "id": "trans-013",
+  "title": "时间即生命（节选）",
+  "author": "梁实秋",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "最令人怵目惊心的一件事，是看着钟表上的秒针一下一下地移动。",
+    "reference": "The most startling thing is to watch the second hand of a clock tick away."
+   },
+   {
+    "id": "s2",
+    "chinese": "没有人不爱惜他的生命，但很少人珍视他的时间。",
+    "reference": "No one fails to cherish his life, but few value their time."
+   },
+   {
+    "id": "s3",
+    "chinese": "这道理人人都懂，可是很少人真能积极不懈地善为利用他的时间。",
+    "reference": "This is a truth understood by all, yet very few can really make good, unremitting use of their time."
+   }
+  ]
+ },
+ {
+  "id": "trans-014",
+  "title": "想北平（节选）",
+  "author": "老舍",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我所爱的北平不是枝枝节节的一些什么，而是整个儿与我的心灵相黏合的一段历史。",
+    "reference": "What I love about Beiping is not some particular trifles, but a whole period of history so closely bound up with my heart."
+   },
+   {
+    "id": "s2",
+    "chinese": "我不能爱上海与天津，因为我心中有个北平。",
+    "reference": "I cannot love Shanghai or Tianjin, because there is a Beiping in my heart."
+   },
+   {
+    "id": "s3",
+    "chinese": "可是，我真爱北平。这个爱几乎是要说而说不出的。",
+    "reference": "And yet, I do love Beiping. It is a love that almost cannot be put into words."
+   }
+  ]
+ },
+ {
+  "id": "trans-015",
+  "title": "济南的冬天（节选）",
+  "author": "老舍",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "对于一个在北平住惯的人，像我，冬天要是不刮大风，便觉得是奇迹。",
+    "reference": "To a person accustomed to living in Beiping like me, it would seem a miracle if no strong wind blew in winter."
+   },
+   {
+    "id": "s2",
+    "chinese": "济南的冬天是没有风声的。",
+    "reference": "In Jinan, winter is without the sound of wind."
+   },
+   {
+    "id": "s3",
+    "chinese": "这一圈小山在冬天特别可爱，好像是把济南放在一个小摇篮里。",
+    "reference": "This circle of hills is especially lovely in winter, as if holding Jinan in a little cradle."
+   }
+  ]
+ },
+ {
+  "id": "trans-016",
+  "title": "养花（节选）",
+  "author": "老舍",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我爱花，所以也爱养花。",
+    "reference": "I love flowers, and therefore I love growing flowers."
+   },
+   {
+    "id": "s2",
+    "chinese": "我得天天照管它们，像好朋友似的关切它们。",
+    "reference": "I have to attend to them every day, caring for them like good friends."
+   },
+   {
+    "id": "s3",
+    "chinese": "有喜有忧，有笑有泪，有花有实，有香有色，既须劳动，又长见识，这就是养花的乐趣。",
+    "reference": "Joy and sorrow, laughter and tears, flowers and fruit, fragrance and colour — requiring both labour and wisdom: this is the pleasure of growing flowers."
+   }
+  ]
+ },
+ {
+  "id": "trans-017",
+  "title": "笑（节选）",
+  "author": "冰心",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "雨声渐渐地住了，窗帘后隐隐地透进清光来。",
+    "reference": "The rain gradually stopped, and a pale light stole faintly through the curtain."
+   },
+   {
+    "id": "s2",
+    "chinese": "我转过身来，忽然看见一幅很清美的图画。",
+    "reference": "Turning round, I suddenly caught sight of a picture of great clarity and beauty."
+   },
+   {
+    "id": "s3",
+    "chinese": "墙上的花影，满院里弥漫着淡淡的花香。",
+    "reference": "The shadows of flowers on the wall, and a faint fragrance of flowers filling the whole courtyard."
+   }
+  ]
+ },
+ {
+  "id": "trans-018",
+  "title": "小桔灯（节选）",
+  "author": "冰心",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我提着这灵巧的小桔灯，慢慢地在黑暗潮湿的山路上走着。",
+    "reference": "Carrying the clever little orange lamp, I walked slowly along the dark, damp mountain path."
+   },
+   {
+    "id": "s2",
+    "chinese": "这朦胧的桔红的光，实在照不了多远。",
+    "reference": "The dim orange glow, to be sure, could not reach very far."
+   },
+   {
+    "id": "s3",
+    "chinese": "但这小姑娘的镇定、勇敢、乐观的精神鼓舞了我。",
+    "reference": "But the little girl's composure, courage and optimism gave me encouragement."
+   }
+  ]
+ },
+ {
+  "id": "trans-019",
+  "title": "爱（节选）",
+  "author": "张爱玲",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "于千万人之中遇见你所遇见的人，于千万年之中，时间的无涯的荒野里，没有早一步，也没有晚一步，刚巧赶上了。",
+    "reference": "Among thousands of people, you meet those you've met; through thousands of years, in the boundless wilderness of time, not a step earlier, not a step later — you happen to catch the moment."
+   },
+   {
+    "id": "s2",
+    "chinese": "那也没有别的话可说，惟有轻轻地问一声：'噢，你也在这里吗？'",
+    "reference": "There is nothing else to say, only a gentle question: 'Oh, so you are here too?'"
+   }
+  ]
+ },
+ {
+  "id": "trans-020",
+  "title": "秋天的怀念（节选）",
+  "author": "史铁生",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "双腿瘫痪以后，我的脾气变得暴躁无常。",
+    "reference": "After my legs were paralysed, my temper became bad and changeable."
+   },
+   {
+    "id": "s2",
+    "chinese": "望着望着天上北归的雁阵，我会突然把面前的玻璃砸碎。",
+    "reference": "Watching the wild geese flying north in the sky, I would suddenly smash the glass in front of me."
+   },
+   {
+    "id": "s3",
+    "chinese": "母亲就悄悄地躲出去，在我看不见的地方偷偷地听着我的动静。",
+    "reference": "Mother would slip out quietly, and from where I could not see her, listen secretly for my movements."
+   }
+  ]
+ },
+ {
+  "id": "trans-021",
+  "title": "我与地坛（节选）",
+  "author": "史铁生",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我常觉得这中间有着宿命的味道：仿佛这古园就是为了等我，而历经沧桑在那儿等待了四百多年。",
+    "reference": "I often feel there is a touch of fate in this: as if the ancient park had been waiting for me, and had waited there, through all its vicissitudes, for more than four hundred years."
+   },
+   {
+    "id": "s2",
+    "chinese": "地坛离我家很近。或者说我家离地坛很近。",
+    "reference": "The Temple of Earth is very close to my home. Or rather, my home is very close to the Temple of Earth."
+   },
+   {
+    "id": "s3",
+    "chinese": "总之，只好认为这是缘分。",
+    "reference": "In short, one can only call it fate."
+   }
+  ]
+ },
+ {
+  "id": "trans-022",
+  "title": "端午的鸭蛋（节选）",
+  "author": "汪曾祺",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我的家乡是水乡。出鸭。",
+    "reference": "My hometown is a land of rivers and lakes, and it produces ducks."
+   },
+   {
+    "id": "s2",
+    "chinese": "高邮咸蛋的特点是质细而油多。",
+    "reference": "The salted eggs of Gaoyou are noted for their fine texture and rich oil."
+   },
+   {
+    "id": "s3",
+    "chinese": "筷子头一扎下去，吱——红油就冒出来了。",
+    "reference": "When the tip of a chopstick is stuck in, the red oil oozes out with a sizzle."
+   }
+  ]
+ },
+ {
+  "id": "trans-023",
+  "title": "昆明的雨（节选）",
+  "author": "汪曾祺",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我想念昆明的雨。",
+    "reference": "I miss the rain of Kunming."
+   },
+   {
+    "id": "s2",
+    "chinese": "昆明的雨季是明亮的、丰满的，使人动情的。",
+    "reference": "The rainy season in Kunming is bright, abundant and moving."
+   },
+   {
+    "id": "s3",
+    "chinese": "昆明的雨季并不使人气闷。",
+    "reference": "The rainy season of Kunming never makes one feel oppressed."
+   }
+  ]
+ },
+ {
+  "id": "trans-024",
+  "title": "秋夜（节选）",
+  "author": "鲁迅",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "在我的后园，可以看见墙外有两株树，一株是枣树，还有一株也是枣树。",
+    "reference": "Beyond the wall of my back garden, I could see two trees, one a date tree, and the other also a date tree."
+   },
+   {
+    "id": "s2",
+    "chinese": "这上面的夜的天空，奇怪而高，我生平没有见过这样的奇怪而高的天空。",
+    "reference": "The night sky above them was strange and high, a sky such as I had never seen in my life, so strange and so high."
+   },
+   {
+    "id": "s3",
+    "chinese": "他仿佛要离开人间而去，使人们仰面不再看见。",
+    "reference": "It seemed as if the sky meant to leave this world of men, so that men looking up could no longer see it."
+   }
+  ]
+ },
+ {
+  "id": "trans-025",
+  "title": "从百草园到三味书屋（节选）",
+  "author": "鲁迅",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我家的后面有一个很大的园，相传叫作百草园。",
+    "reference": "Behind our house there was a large garden, called in common parlance the Hundred-Plant Garden."
+   },
+   {
+    "id": "s2",
+    "chinese": "不必说碧绿的菜畦，光滑的石井栏，高大的皂荚树，紫红的桑椹。",
+    "reference": "To say nothing of the green vegetable plots, the smooth stone well-curb, the tall honey locust tree, and the purple mulberries."
+   },
+   {
+    "id": "s3",
+    "chinese": "单是周围的短短的泥墙根一带，就有无限趣味。",
+    "reference": "The foot of the low mud wall alone had boundless interest for me."
+   }
+  ]
+ },
+ {
+  "id": "trans-026",
+  "title": "藤野先生（节选）",
+  "author": "鲁迅",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "东京也无非是这样。上野的樱花烂熳的时节，望去确也像绯红的轻云。",
+    "reference": "Tokyo is after all nothing more than this. When the cherry blossoms in Ueno are in full bloom, they do look like crimson clouds."
+   },
+   {
+    "id": "s2",
+    "chinese": "从此就看见许多陌生的先生，听到许多新鲜的讲义。",
+    "reference": "From then on I saw many unfamiliar teachers and heard many new lectures."
+   },
+   {
+    "id": "s3",
+    "chinese": "但不知怎地，我总还时时记起他，在我所认为我师的之中，他是最使我感激，给我鼓励的一个。",
+    "reference": "Somehow I always keep remembering him. Of all the teachers I have known, he is the one to whom I am most grateful and who has encouraged me most."
+   }
+  ]
+ },
+ {
+  "id": "trans-027",
+  "title": "渐（节选）",
+  "author": "丰子恺",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "使人生圆滑进行的微妙的要素，莫如'渐'。",
+    "reference": "Of all the subtle elements that make life run smoothly, none is greater than 'gradualness'."
+   },
+   {
+    "id": "s2",
+    "chinese": "由萌芽的春'渐渐'变成绿荫的夏，由凋零的秋'渐渐'变成枯寂的冬。",
+    "reference": "The budding spring gradually changes into the summer of green shade, and the withered autumn gradually changes into the winter of bleakness."
+   },
+   {
+    "id": "s3",
+    "chinese": "'渐'的作用，就是用每步相差极微极缓的方法来隐蔽时间的过去与事物的变迁的痕迹，使人误认其为恒久不变。",
+    "reference": "The function of 'gradualness' is to conceal the passage of time and the traces of change by means of extremely tiny and slow steps, making us mistake them for permanence."
+   }
+  ]
+ },
+ {
+  "id": "trans-028",
+  "title": "给我的孩子们（节选）",
+  "author": "丰子恺",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我的孩子们！我憧憬于你们的生活，每天不止一次！",
+    "reference": "My dear children! I yearn for your life, not once but many times a day!"
+   },
+   {
+    "id": "s2",
+    "chinese": "你们每天做火车，做汽车，办酒，请菩萨，堆六面画，唱歌，全是自动的，创造的生活。",
+    "reference": "Every day you play at trains and cars, give feasts, worship gods, build blocks, and sing — all of your own accord, a life of creation."
+   },
+   {
+    "id": "s3",
+    "chinese": "我眼看见儿时的伴侣中的英雄、好汉，一个个退缩，顺从，妥协。",
+    "reference": "I have watched the heroes and gallants of my childhood companions, one by one, shrink back, submit, and compromise."
+   }
+  ]
+ },
+ {
+  "id": "trans-029",
+  "title": "秋天的况味（节选）",
+  "author": "林语堂",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "秋天的黄昏，一人独坐在沙发上抽烟，看烟头白灰之下露出红光。",
+    "reference": "In the dusk of an autumn evening, sitting alone on a sofa smoking, I watch the red glow showing through the white ash of the cigarette."
+   },
+   {
+    "id": "s2",
+    "chinese": "这时才忆起，向来诗文上秋的含义，并不是这样的。",
+    "reference": "Only then do I remember that the meaning of autumn in poetry and prose has never been like this."
+   },
+   {
+    "id": "s3",
+    "chinese": "我所爱的是秋林古气磅礴气象。",
+    "reference": "What I love is the grandeur of ancient atmosphere in the autumn woods."
+   }
+  ]
+ },
+ {
+  "id": "trans-030",
+  "title": "生活的艺术（节选）",
+  "author": "林语堂",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "人生在世，所为何事？",
+    "reference": "What is life for?"
+   },
+   {
+    "id": "s2",
+    "chinese": "凡人的梦，无非求温饱，求安逸，求快乐而已。",
+    "reference": "The dreams of ordinary men are nothing more than food and clothing, comfort and happiness."
+   },
+   {
+    "id": "s3",
+    "chinese": "中国的哲学家是睁着一只眼做梦的人。",
+    "reference": "The Chinese philosopher is a man who dreams with one eye open."
+   }
+  ]
+ },
+ {
+  "id": "trans-031",
+  "title": "桨声灯影里的秦淮河（节选）",
+  "author": "朱自清",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我们这时模模糊糊的谈着明末的秦淮河的艳迹。",
+    "reference": "We were then vaguely talking of the romantic traces of the Qinhuai River in the late Ming dynasty."
+   },
+   {
+    "id": "s2",
+    "chinese": "秦淮河的水是碧阴阴的，看起来厚而不腻。",
+    "reference": "The water of the Qinhuai is a dark green, looking thick but not greasy."
+   },
+   {
+    "id": "s3",
+    "chinese": "等到灯火明时，阴阴的变为沉沉了。",
+    "reference": "When the lights come on, the dark green deepens into a heavy gloom."
+   }
+  ]
+ },
+ {
+  "id": "trans-032",
+  "title": "白马湖之冬（节选）",
+  "author": "夏丏尊",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "在我过去四十余年的生涯中，冬的情味尝得最深刻的，要算十年前初移居白马湖的时候了。",
+    "reference": "In my life of more than forty years, the winter I savoured most deeply was the one ten years ago, when I first moved to the White Horse Lake."
+   },
+   {
+    "id": "s2",
+    "chinese": "那里的风，差不多日日有的。",
+    "reference": "There, wind blew almost every day."
+   },
+   {
+    "id": "s3",
+    "chinese": "风从门窗缝里钻进来，因而特别尖利。",
+    "reference": "The wind found its way in through the cracks of the doors and windows, and was therefore especially sharp."
+   }
+  ]
+ },
+ {
+  "id": "trans-033",
+  "title": "谈吃（节选）",
+  "author": "夏丏尊",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "民以食为天。",
+    "reference": "Food is the first necessity of the people."
+   },
+   {
+    "id": "s2",
+    "chinese": "我们中国人对于吃，是很讲究的。",
+    "reference": "We Chinese are very particular about food."
+   },
+   {
+    "id": "s3",
+    "chinese": "中国人见面，第一句问的就是：'吃了没有？'",
+    "reference": "When Chinese meet, the first thing they ask is: 'Have you eaten?'"
+   }
+  ]
+ },
+ {
+  "id": "trans-034",
+  "title": "归途（节选）",
+  "author": "巴金",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我一个人慢慢地向前走，不知不觉已经出了城。",
+    "reference": "Walking slowly all by myself, I found myself out of the city before I knew it."
+   },
+   {
+    "id": "s2",
+    "chinese": "月亮升起来了，周围是一片静寂。",
+    "reference": "The moon rose, and all around was quiet."
+   },
+   {
+    "id": "s3",
+    "chinese": "我的心境也渐渐地平静下来。",
+    "reference": "My mind gradually became calm as well."
+   }
+  ]
+ },
+ {
+  "id": "trans-035",
+  "title": "海上日出（节选）",
+  "author": "巴金",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "为了看日出，我常常早起。那时天还没有大亮，周围非常清静。",
+    "reference": "To watch the sunrise I would often get up early, when it was not yet broad daylight and all was very quiet around."
+   },
+   {
+    "id": "s2",
+    "chinese": "那时天还没有大亮，周围非常清静，船上只有机器的响声。",
+    "reference": "At that time it was not yet broad daylight, all was quiet around, and the only sound was the throbbing of the ship's engine."
+   },
+   {
+    "id": "s3",
+    "chinese": "太阳像负着什么重担似的，慢慢地，一步一步地，努力向上面升起来。",
+    "reference": "The sun, as if carrying a heavy burden, rose slowly, step by step, straining to climb upward."
+   }
+  ]
+ },
+ {
+  "id": "trans-036",
+  "title": "故乡的野菜（节选）",
+  "author": "周作人",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我的故乡不止一个，凡我住过的地方都是故乡。",
+    "reference": "I have more than one hometown; every place I have lived is my hometown."
+   },
+   {
+    "id": "s2",
+    "chinese": "故乡对于我并没有什么特别的情分。",
+    "reference": "My hometowns do not call up any special affection in me."
+   },
+   {
+    "id": "s3",
+    "chinese": "但说起野菜，便又想到故乡了。",
+    "reference": "But the mention of wild vegetables brings my hometowns back to mind."
+   }
+  ]
+ },
+ {
+  "id": "trans-037",
+  "title": "苦雨（节选）",
+  "author": "周作人",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "伏园兄：北京近日多雨，你在长安道上不知也遇到否。",
+    "reference": "Dear Brother Fuyuan: It has been rainy in Beijing these days; I wonder whether you have also met rain on the road to Chang'an."
+   },
+   {
+    "id": "s2",
+    "chinese": "苦雨斋的门前，积水成河。",
+    "reference": "In front of the Bitter Rain Studio, the accumulated water has become a river."
+   },
+   {
+    "id": "s3",
+    "chinese": "雨虽然细得望去都看不见，天色却非常阴沉。",
+    "reference": "Although the rain is so fine as to be invisible, the sky is very overcast."
+   }
+  ]
+ },
+ {
+  "id": "trans-038",
+  "title": "萤火虫（节选）",
+  "author": "周作人",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "intermediate",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "夏夜，萤火虫在草地上飞，好像满天的星斗落到了地上。",
+    "reference": "On summer nights, fireflies fly over the grass, as if the stars of the whole sky had fallen to the ground."
+   },
+   {
+    "id": "s2",
+    "chinese": "萤火虫的光，是冷冷的，绿绿的。",
+    "reference": "The light of the firefly is cold and green."
+   },
+   {
+    "id": "s3",
+    "chinese": "这是一种很有诗意的小虫。",
+    "reference": "It is a little insect full of poetry."
+   }
+  ]
+ },
+ {
+  "id": "trans-039",
+  "title": "天才梦（节选）",
+  "author": "张爱玲",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我是一个古怪的女孩，从小被目为天才，除了发展我的天才外别无生存的目标。",
+    "reference": "I was a peculiar girl, regarded as a genius from childhood, with no goal in life but to develop my genius."
+   },
+   {
+    "id": "s2",
+    "chinese": "生命是一袭华美的袍，爬满了蚤子。",
+    "reference": "Life is a gorgeous gown, crawling with fleas."
+   }
+  ]
+ },
+ {
+  "id": "trans-040",
+  "title": "父亲（节选）",
+  "author": "朱自清",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我看见他戴着黑布小帽，穿着黑布大马褂，深青布棉袍，蹒跚地走到铁道边。",
+    "reference": "I watched him, in his black cloth cap, black cloth mandarin jacket and dark blue cotton-padded gown, hobble toward the railway track."
+   },
+   {
+    "id": "s2",
+    "chinese": "他用两手攀着上面，两脚再向上缩；他肥胖的身子向左微倾，显出努力的样子。",
+    "reference": "He grasped the upper side with both hands and drew his legs up; his stout body inclined slightly to the left, showing an effort."
+   },
+   {
+    "id": "s3",
+    "chinese": "这时我看见他的背影，我的眼泪很快地流下来了。",
+    "reference": "At that moment, seeing his back, my tears quickly streamed down."
+   }
+  ]
+ },
+ {
+  "id": "trans-041",
+  "title": "故园之恋（节选）",
+  "author": "苏雪林",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "我爱我的故乡，正如我爱我的母亲。",
+    "reference": "I love my hometown, even as I love my mother."
+   },
+   {
+    "id": "s2",
+    "chinese": "故乡的山水，是我永远不能忘记的。",
+    "reference": "The hills and waters of my hometown I can never forget."
+   },
+   {
+    "id": "s3",
+    "chinese": "每当我想起故乡，心里便涌起一种说不出的温暖。",
+    "reference": "Whenever I think of my hometown, an indescribable warmth wells up in my heart."
+   }
+  ]
+ },
+ {
+  "id": "trans-042",
+  "title": "北平的四季（节选）",
+  "author": "郁达夫",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "一年四季，我总觉得北方的冬天才是真正名实相符的冬天。",
+    "reference": "Of the four seasons, I always feel that only the winter in the North is a winter worthy of the name."
+   },
+   {
+    "id": "s2",
+    "chinese": "北方的冬天，尤其是北平的冬天，是刮大风的。",
+    "reference": "The winter in the North, especially in Beiping, is windy."
+   },
+   {
+    "id": "s3",
+    "chinese": "可是这风，也刮出了北方人的爽快。",
+    "reference": "Yet this wind also blows out the forthrightness of the northerners."
+   }
+  ]
+ },
+ {
+  "id": "trans-043",
+  "title": "钓台的春昼（节选）",
+  "author": "郁达夫",
+  "source": "张培基《英译中国现代散文选》",
+  "difficulty": "advanced",
+  "sentences": [
+   {
+    "id": "s1",
+    "chinese": "因为近在咫尺，以为什么时候要去就可以去，我们对于本乡本土的名区胜景，反而往往没有机会去玩。",
+    "reference": "Because they are close at hand, we think we can visit them whenever we wish, and so we often miss the chance to see the famous sights of our own region."
+   },
+   {
+    "id": "s2",
+    "chinese": "我的不远千里，要从杭州赶上青岛，更要从青岛赶上北平来的理由，也不过想饱尝一尝这秋。",
+    "reference": "The reason why I travelled a thousand li from Hangzhou to Qingdao, and then from Qingdao to Beiping, was simply to savour this autumn to the full."
+   },
+   {
+    "id": "s3",
+    "chinese": "这是一个秋高气爽的晴天。",
+    "reference": "It was a fine autumn day, clear and crisp."
+   }
+  ]
+ }
 ]

@@ -11,11 +11,6 @@ import { assetPath } from "@/lib/paths";
 import { useMounted } from "@/lib/hooks";
 import type { Article } from "@/lib/types";
 
-interface ArticleMeta {
-  id: string;
-  file: string;
-}
-
 export default function ReadingPage() {
   const mounted = useMounted();
   const [articles, setArticles] = React.useState<Article[]>([]);
@@ -23,16 +18,10 @@ export default function ReadingPage() {
   const [loading, setLoading] = React.useState(true);
 
   React.useEffect(() => {
-    fetch(assetPath("/articles/index.json"))
+    fetch(assetPath("/data/articles.json"))
       .then((r) => r.json())
-      .then(async (list: ArticleMeta[]) => {
-        const loaded = await Promise.all(
-          list.map((m) =>
-            fetch(assetPath(`/articles/${m.file}`)).then((r) => r.json())
-          )
-        );
-        setArticles(loaded);
-      })
+      .then((list: Article[]) => setArticles(list))
+      .catch(() => setArticles([]))
       .finally(() => setLoading(false));
   }, []);
 
@@ -67,14 +56,14 @@ export default function ReadingPage() {
       <div className="mx-auto max-w-3xl">
         <h1 className="mb-1 text-2xl font-bold">外刊精读</h1>
         <p className="mb-6 text-sm text-muted-foreground">
-          划词查词、一键加入生词本，文内自动高亮你积累的生词。
+          划词查词、一键加入生词本，文内自动高亮你积累的生词。共 {articles.length} 篇。
         </p>
 
         {loading ? (
           <div className="py-10 text-center text-muted-foreground">加载中…</div>
         ) : articles.length === 0 ? (
           <div className="py-10 text-center text-muted-foreground">
-            暂无文章，请将 JSON 文件放入 public/articles/。
+            暂无文章，请检查 public/data/articles.json。
           </div>
         ) : (
           <div className="grid gap-4">

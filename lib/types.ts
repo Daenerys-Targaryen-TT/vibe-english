@@ -52,6 +52,7 @@ export interface WritingPrompt {
   wordLimit: number;
   timeLimit: number;
   category: string;
+  sample?: string;
 }
 
 export interface TranslationSentence {

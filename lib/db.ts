@@ -79,6 +79,15 @@ export interface LanguageToolResult {
   matches: LanguageToolMatch[];
 }
 
+export interface ListeningRecord {
+  id?: number;
+  sentenceId: string;
+  correct: boolean;
+  accuracy: number;
+  timestamp: number;
+  duration: number;
+}
+
 class VibeEnglishDB extends Dexie {
   typingRecords!: Table<TypingRecord, number>;
   vocabulary!: Table<VocabularyWord, number>;
@@ -86,6 +95,7 @@ class VibeEnglishDB extends Dexie {
   writingDrafts!: Table<WritingDraft, number>;
   translationRecords!: Table<TranslationRecord, number>;
   dailyStats!: Table<DailyStat, string>;
+  listeningRecords!: Table<ListeningRecord, number>;
 
   constructor() {
     super("vibe-english");
@@ -96,6 +106,9 @@ class VibeEnglishDB extends Dexie {
       writingDrafts: "++id, promptId, savedAt",
       translationRecords: "++id, materialId, sentenceId, timestamp",
       dailyStats: "date",
+    });
+    this.version(2).stores({
+      listeningRecords: "++id, sentenceId, timestamp",
     });
   }
 }

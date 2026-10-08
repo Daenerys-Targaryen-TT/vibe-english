@@ -1,12 +1,13 @@
 "use client";
 
 import * as React from "react";
-import { Clock, CheckCircle2, Loader2 } from "lucide-react";
+import { Clock, CheckCircle2, Loader2, BookOpen, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Textarea } from "@/components/ui/textarea";
 import { checkGrammar } from "@/lib/languagetool";
 import { db, addMinutes, type LanguageToolResult } from "@/lib/db";
+import { analyzeEssay, type WritingAnalysis } from "@/lib/writingAnalysis";
 import type { WritingPrompt } from "@/lib/types";
 
 const CHECKLIST = [
@@ -28,6 +29,8 @@ export function WritingEditor({
   const [status, setStatus] = React.useState<"writing" | "submitted">("writing");
   const [checking, setChecking] = React.useState(false);
   const [checkResult, setCheckResult] = React.useState<LanguageToolResult | null>(null);
+  const [analysis, setAnalysis] = React.useState<WritingAnalysis | null>(null);
+  const [showSample, setShowSample] = React.useState(false);
 
   const wordCount = React.useMemo(
     () => (content.trim() ? content.trim().split(/\s+/).length : 0),
@@ -84,6 +87,7 @@ export function WritingEditor({
 
   const handleSubmit = async () => {
     setStatus("submitted");
+    setAnalysis(analyzeEssay(content, prompt.wordLimit));
     addMinutes("writing", Math.max(0.1, (prompt.timeLimit * 60 - remaining) / 60), {
       writingCount: 1,
     });
@@ -167,10 +171,60 @@ export function WritingEditor({
           )}
         </div>
 
+        <div>
+          <h3 className="mb-3 flex items-center gap-2 font-semibold">
+            <Sparkles className="h-4 w-4" /> 写作分析
+          </h3>
+          {analysis && (
+            <div className="rounded-lg border p-4">
+              <div className="mb-3 grid grid-cols-4 gap-2 text-center">
+                <div className="rounded-md bg-muted p-2">
+                  <div className="text-lg font-bold">{analysis.wordCount}</div>
+                  <div className="text-xs text-muted-foreground">字数</div>
+                </div>
+                <div className="rounded-md bg-muted p-2">
+                  <div className="text-lg font-bold">{analysis.paragraphCount}</div>
+                  <div className="text-xs text-muted-foreground">段落</div>
+                </div>
+                <div className="rounded-md bg-muted p-2">
+                  <div className="text-lg font-bold">{analysis.sentenceCount}</div>
+                  <div className="text-xs text-muted-foreground">句子</div>
+                </div>
+                <div className="rounded-md bg-muted p-2">
+                  <div className="text-lg font-bold">{analysis.avgSentenceLength}</div>
+                  <div className="text-xs text-muted-foreground">平均句长</div>
+                </div>
+              </div>
+              <ul className="space-y-2">
+                {analysis.advice.map((a, i) => (
+                  <li key={i} className="flex gap-2 text-sm">
+                    <span className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full bg-primary" />
+                    <span>{a}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+
         <div className="rounded-lg border p-4">
           <h3 className="mb-2 font-semibold">你的作文</h3>
           <p className="whitespace-pre-wrap text-sm leading-relaxed">{content}</p>
         </div>
+
+        {prompt.sample && (
+          <div>
+            <Button variant="outline" size="sm" onClick={() => setShowSample((s) => !s)}>
+              <BookOpen className="h-4 w-4" />
+              {showSample ? "隐藏范文" : "查看参考范文"}
+            </Button>
+            {showSample && (
+              <div className="mt-3 rounded-lg border bg-muted/40 p-4">
+                <p className="whitespace-pre-wrap text-sm leading-relaxed">{prompt.sample}</p>
+              </div>
+            )}
+          </div>
+        )}
 
         <Button variant="outline" onClick={onBack}>
           返回题目列表

@@ -9,6 +9,7 @@ import {
   PenLine,
   Languages,
   BarChart3,
+  Headphones,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { ThemeToggle } from "@/components/ThemeToggle";
@@ -16,6 +17,7 @@ import { ThemeToggle } from "@/components/ThemeToggle";
 const navItems = [
   { href: "/", label: "首页", icon: Home },
   { href: "/typing", label: "单词打字", icon: Keyboard },
+  { href: "/listening", label: "听力听写", icon: Headphones },
   { href: "/reading", label: "外刊精读", icon: BookOpen },
   { href: "/writing", label: "写作训练", icon: PenLine },
   { href: "/translation", label: "翻译训练", icon: Languages },
