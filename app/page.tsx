@@ -11,6 +11,10 @@ import {
   Clock,
   AlertCircle,
   Headphones,
+  Sparkles,
+  TrendingUp,
+  TrendingDown,
+  Lightbulb,
 } from "lucide-react";
 import { AppShell } from "@/components/Layout/AppShell";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -19,6 +23,7 @@ import { Badge } from "@/components/ui/badge";
 import { useMounted } from "@/lib/hooks";
 import { db, todayKey } from "@/lib/db";
 import { computeStreak } from "@/lib/stats";
+import { generateDailyReport, type DailyReport } from "@/lib/report";
 
 const MODULES = [
   { href: "/typing", label: "单词打字", desc: "拼写 + 默写 + 发音强化", icon: Keyboard, color: "text-blue-500" },
@@ -34,10 +39,12 @@ export default function HomePage() {
   const [dueWords, setDueWords] = React.useState(0);
   const [weeklyMinutes, setWeeklyMinutes] = React.useState(0);
   const [todayMinutes, setTodayMinutes] = React.useState(0);
+  const [report, setReport] = React.useState<DailyReport | null>(null);
 
   React.useEffect(() => {
     if (!mounted) return;
     (async () => {
+      generateDailyReport().then(setReport);
       setStreak(await computeStreak());
       const now = Date.now();
       const due = await db.vocabulary
@@ -115,6 +122,98 @@ export default function HomePage() {
             </CardContent>
           </Card>
         </div>
+
+        {report && !report.hasActivity && (
+          <Card className="mb-6">
+            <CardContent className="p-4 text-sm text-muted-foreground">
+              <span className="font-medium text-foreground">今日报告：</span>
+              今天还没有开始学习。完成任意一个模块后，这里会自动生成你的个人分析报告。
+            </CardContent>
+          </Card>
+        )}
+
+        {report && report.hasActivity && (
+          <Card className="mb-6 border-primary/30">
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <Sparkles className="h-5 w-5 text-primary" /> 今日学习报告
+                <span className="text-sm font-normal text-muted-foreground">
+                  （{report.date} · 共 {report.totalMinutes} 分钟）
+                </span>
+              </CardTitle>
+            </CardHeader>
+            <CardContent className="space-y-4">
+              <div className="grid grid-cols-2 gap-2 sm:grid-cols-5">
+                <div className="rounded-md bg-muted p-2 text-center">
+                  <div className="text-sm font-bold">{report.typing.count} 词</div>
+                  <div className="text-xs text-muted-foreground">打字 {report.typing.count > 0 ? `${report.typing.accuracy}%` : "—"}</div>
+                </div>
+                <div className="rounded-md bg-muted p-2 text-center">
+                  <div className="text-sm font-bold">{report.listening.passages} 篇</div>
+                  <div className="text-xs text-muted-foreground">听力 {report.listening.passages > 0 ? `${report.listening.accuracy}%` : "—"}</div>
+                </div>
+                <div className="rounded-md bg-muted p-2 text-center">
+                  <div className="text-sm font-bold">{report.reading.articles} 篇</div>
+                  <div className="text-xs text-muted-foreground">精读</div>
+                </div>
+                <div className="rounded-md bg-muted p-2 text-center">
+                  <div className="text-sm font-bold">{report.writing.essays} 篇</div>
+                  <div className="text-xs text-muted-foreground">写作</div>
+                </div>
+                <div className="rounded-md bg-muted p-2 text-center">
+                  <div className="text-sm font-bold">{report.translation.materials} 篇</div>
+                  <div className="text-xs text-muted-foreground">翻译</div>
+                </div>
+              </div>
+
+              {report.highlights.length > 0 && (
+                <div>
+                  <div className="mb-1.5 flex items-center gap-1 text-sm font-semibold text-emerald-600">
+                    <TrendingUp className="h-4 w-4" /> 今日亮点
+                  </div>
+                  <ul className="space-y-1 text-sm">
+                    {report.highlights.map((h, i) => (
+                      <li key={i} className="flex gap-2">
+                        <span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-emerald-500" />
+                        {h}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {report.improvements.length > 0 && (
+                <div>
+                  <div className="mb-1.5 flex items-center gap-1 text-sm font-semibold text-amber-600">
+                    <TrendingDown className="h-4 w-4" /> 待改进
+                  </div>
+                  <ul className="space-y-1 text-sm">
+                    {report.improvements.map((h, i) => (
+                      <li key={i} className="flex gap-2">
+                        <span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-amber-500" />
+                        {h}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              <div>
+                <div className="mb-1.5 flex items-center gap-1 text-sm font-semibold text-blue-600">
+                  <Lightbulb className="h-4 w-4" /> 建议
+                </div>
+                <ul className="space-y-1 text-sm">
+                  {report.suggestions.map((h, i) => (
+                    <li key={i} className="flex gap-2">
+                      <span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-blue-500" />
+                      {h}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </CardContent>
+          </Card>
+        )}
 
         {dueWords > 0 && (
           <Card className="mb-6 border-blue-500/30">
