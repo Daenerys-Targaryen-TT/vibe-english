@@ -35,7 +35,7 @@ interface ListeningPassage {
   questions: ListeningQuestion[];
 }
 
-const DIFFICULTIES = ["CET-4", "CET-6", "考研"];
+const DIFFICULTIES = ["CET-6", "考研"];
 const OPTION_LABELS = ["A", "B", "C", "D"];
 
 function shuffle<T>(arr: T[]): T[] {

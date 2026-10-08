@@ -1,292 +1,5 @@
 [
  {
-  "id": "listen-001",
-  "title": "Choosing a University",
-  "difficulty": "CET-4",
-  "passage": "Choosing a university is one of the most important decisions a young person makes. Many students focus only on academic rankings, but experts suggest considering other factors as well. The location of the campus, the cost of living, and the availability of internships can all shape a student's experience. One graduate said that the city where she studied offered her more opportunities than the university's reputation ever did.",
-  "questions": [
-   {
-    "question": "What is the main idea of the passage?",
-    "options": [
-     "Academic ranking is the only important factor",
-     "Students should consider many factors when choosing a university",
-     "Internships are more important than studying",
-     "University reputation guarantees success"
-    ],
-    "answer": 1,
-    "explanation": "文章强调选择大学不应只看排名，还要考虑位置、生活费、实习机会等因素。"
-   },
-   {
-    "question": "What factor does the graduate mention as most valuable?",
-    "options": [
-     "The university's reputation",
-     "The city where she studied",
-     "The cost of tuition",
-     "The size of the campus"
-    ],
-    "answer": 1,
-    "explanation": "毕业生说，她学习的城市带给她的机会比学校名声更多。"
-   },
-   {
-    "question": "Which factor is NOT mentioned in the passage?",
-    "options": [
-     "Campus location",
-     "Cost of living",
-     "Internship opportunities",
-     "Sports facilities"
-    ],
-    "answer": 3,
-    "explanation": "文中提到位置、生活费和实习机会，未提及体育设施。"
-   }
-  ]
- },
- {
-  "id": "listen-002",
-  "title": "The Benefits of Walking",
-  "difficulty": "CET-4",
-  "passage": "Walking is often overlooked as a form of exercise, yet it is one of the healthiest activities available. Doctors say that thirty minutes of brisk walking each day can reduce the risk of heart disease and improve mood. Unlike running, walking puts little pressure on the joints, making it suitable for people of all ages. Best of all, it requires no special equipment and can be done almost anywhere.",
-  "questions": [
-   {
-    "question": "How long should people walk each day according to the passage?",
-    "options": [
-     "Ten minutes",
-     "Twenty minutes",
-     "Thirty minutes",
-     "One hour"
-    ],
-    "answer": 2,
-    "explanation": "医生说每天快走三十分钟即可降低心脏病风险。"
-   },
-   {
-    "question": "Why is walking suitable for people of all ages?",
-    "options": [
-     "It is very cheap",
-     "It puts little pressure on the joints",
-     "It burns more calories than running",
-     "It requires special equipment"
-    ],
-    "answer": 1,
-    "explanation": "走路对关节压力小，因此适合各年龄段的人。"
-   },
-   {
-    "question": "What is one advantage of walking mentioned in the passage?",
-    "options": [
-     "It needs special equipment",
-     "It can be done almost anywhere",
-     "It is only for young people",
-     "It requires a gym membership"
-    ],
-    "answer": 1,
-    "explanation": "文中提到走路不需要特殊装备，几乎在任何地方都能进行。"
-   }
-  ]
- },
- {
-  "id": "listen-003",
-  "title": "The History of Tea",
-  "difficulty": "CET-4",
-  "passage": "Tea has been enjoyed for thousands of years and is now the second most popular drink in the world after water. According to legend, tea was discovered in China when leaves blew into a pot of boiling water. From China, the habit of drinking tea spread to Japan and then, through traders, to Europe. Today, tea is grown in dozens of countries and prepared in countless different ways.",
-  "questions": [
-   {
-    "question": "What is the second most popular drink in the world?",
-    "options": [
-     "Coffee",
-     "Milk",
-     "Tea",
-     "Juice"
-    ],
-    "answer": 2,
-    "explanation": "茶是世界上仅次于水的第二大饮品。"
-   },
-   {
-    "question": "How was tea discovered according to the legend?",
-    "options": [
-     "A farmer planted tea seeds",
-     "Leaves blew into boiling water",
-     "A trader brought it from Europe",
-     "Scientists created it in a lab"
-    ],
-    "answer": 1,
-    "explanation": "传说中，茶叶被风吹进煮沸的水里，从而发现了茶。"
-   },
-   {
-    "question": "Which country did tea spread to first after China?",
-    "options": [
-     "Europe",
-     "America",
-     "India",
-     "Japan"
-    ],
-    "answer": 3,
-    "explanation": "茶先从中国传到日本，再经商人传到欧洲。"
-   }
-  ]
- },
- {
-  "id": "listen-004",
-  "title": "Why We Dream",
-  "difficulty": "CET-4",
-  "passage": "Scientists still do not fully understand why we dream, but they have several theories. One theory suggests that dreams help us process emotions and memories from the day. Another proposes that dreaming is simply the brain's way of staying active during sleep. What is certain is that everyone dreams, even people who claim they never remember their dreams. On average, a person dreams for about two hours every night.",
-  "questions": [
-   {
-    "question": "What is one theory about why we dream?",
-    "options": [
-     "Dreams help process emotions and memories",
-     "Dreams predict the future",
-     "Dreams are caused by hunger",
-     "Dreams only happen to some people"
-    ],
-    "answer": 0,
-    "explanation": "一种理论认为梦帮助我们处理白天的情绪和记忆。"
-   },
-   {
-    "question": "How long does a person dream each night on average?",
-    "options": [
-     "Thirty minutes",
-     "One hour",
-     "Two hours",
-     "Five hours"
-    ],
-    "answer": 2,
-    "explanation": "人们平均每晚做梦约两小时。"
-   },
-   {
-    "question": "What is certain about dreaming?",
-    "options": [
-     "Only adults dream",
-     "Everyone dreams",
-     "Dreams are always remembered",
-     "Dreaming is harmful"
-    ],
-    "answer": 1,
-    "explanation": "可以确定的是每个人都会做梦，即使有些人声称从不记得。"
-   }
-  ]
- },
- {
-  "id": "listen-005",
-  "title": "The Rise of Online Shopping",
-  "difficulty": "CET-4",
-  "passage": "Online shopping has grown rapidly over the past two decades, transforming the way people buy goods. Consumers now enjoy the convenience of ordering almost anything from home and having it delivered to their door. However, this convenience has come at a cost for traditional stores, many of which have closed. Economists note that while prices online are often lower, shoppers should still compare products carefully and be aware of delivery fees.",
-  "questions": [
-   {
-    "question": "What has online shopping transformed?",
-    "options": [
-     "The weather",
-     "The way people buy goods",
-     "The education system",
-     "The airline industry"
-    ],
-    "answer": 1,
-    "explanation": "网上购物改变了人们购买商品的方式。"
-   },
-   {
-    "question": "What happened to many traditional stores?",
-    "options": [
-     "They became more popular",
-     "They moved online successfully",
-     "Many of them closed",
-     "They lowered their prices"
-    ],
-    "answer": 2,
-    "explanation": "网购的便利让许多传统商店关门了。"
-   },
-   {
-    "question": "What do economists advise shoppers to do?",
-    "options": [
-     "Always buy online",
-     "Compare products and watch for delivery fees",
-     "Avoid online shopping",
-     "Only shop at malls"
-    ],
-    "answer": 1,
-    "explanation": "经济学家提醒消费者要仔细比较商品，并注意运费。"
-   }
-  ]
- },
- {
-  "id": "listen-006",
-  "title": "The Importance of Breakfast",
-  "difficulty": "CET-4",
-  "passage": "Breakfast is often called the most important meal of the day, and research appears to support this. Studies show that people who eat breakfast tend to concentrate better at work and school. Skipping breakfast, on the other hand, can lead to low energy and overeating later in the day. Nutritionists recommend a breakfast that includes protein, whole grains, and fruit for a balanced start to the morning.",
-  "questions": [
-   {
-    "question": "What do studies show about people who eat breakfast?",
-    "options": [
-     "They concentrate better",
-     "They gain more weight",
-     "They sleep longer",
-     "They eat less fruit"
-    ],
-    "answer": 0,
-    "explanation": "研究表明吃早餐的人在工作学习中注意力更集中。"
-   },
-   {
-    "question": "What can skipping breakfast lead to?",
-    "options": [
-     "Better concentration",
-     "Low energy and overeating",
-     "Weight loss only",
-     "Improved memory"
-    ],
-    "answer": 1,
-    "explanation": "不吃早餐可能导致精力不足和之后暴饮暴食。"
-   },
-   {
-    "question": "What do nutritionists recommend for breakfast?",
-    "options": [
-     "Only coffee",
-     "Protein, whole grains and fruit",
-     "A large dinner",
-     "Sweets and pastries"
-    ],
-    "answer": 1,
-    "explanation": "营养师建议早餐包含蛋白质、全谷物和水果。"
-   }
-  ]
- },
- {
-  "id": "listen-007",
-  "title": "Learning a Musical Instrument",
-  "difficulty": "CET-4",
-  "passage": "Learning to play a musical instrument offers benefits that go far beyond the ability to perform. Children who study music often develop better memory and discipline. Playing an instrument also teaches patience, because progress comes slowly and through regular practice. Even adults who begin late in life report that music brings them joy and relaxation. Many schools, however, have cut music programmes due to budget pressures, which experts describe as shortsighted.",
-  "questions": [
-   {
-    "question": "What is one benefit of learning music mentioned in the passage?",
-    "options": [
-     "Better memory",
-     "Higher income",
-     "Faster running",
-     "Better eyesight"
-    ],
-    "answer": 0,
-    "explanation": "学习音乐的孩子往往记忆力更好、更有纪律。"
-   },
-   {
-    "question": "What does playing an instrument teach?",
-    "options": [
-     "Speed and competition",
-     "Patience",
-     "How to save money",
-     "Public speaking"
-    ],
-    "answer": 1,
-    "explanation": "演奏乐器教会人耐心，因为进步是缓慢的。"
-   },
-   {
-    "question": "Why have many schools cut music programmes?",
-    "options": [
-     "Students do not like music",
-     "Budget pressures",
-     "Teachers are unavailable",
-     "Instruments are too loud"
-    ],
-    "answer": 1,
-    "explanation": "由于预算压力，许多学校削减了音乐课程。"
-   }
-  ]
- },
- {
   "id": "listen-008",
   "title": "The Sharing Economy",
   "difficulty": "CET-6",
@@ -492,88 +205,6 @@
   ]
  },
  {
-  "id": "listen-013",
-  "title": "The Decline of Handwriting",
-  "difficulty": "考研",
-  "passage": "As keyboards and touchscreens replace pens, handwriting is quietly disappearing from daily life. This change carries unexpected consequences. Research shows that writing by hand activates areas of the brain involved in memory and learning in ways that typing does not. Students who take notes by hand tend to understand and retain material better than those who type. Some educators therefore argue that handwriting should remain part of the curriculum, not out of nostalgia, but for its genuine cognitive benefits.",
-  "questions": [
-   {
-    "question": "What is quietly disappearing from daily life?",
-    "options": [
-     "Keyboards",
-     "Handwriting",
-     "Computers",
-     "Books"
-    ],
-    "answer": 1,
-    "explanation": "随着键盘和触屏取代笔，手写正从日常生活中消失。"
-   },
-   {
-    "question": "What does writing by hand activate?",
-    "options": [
-     "Areas of the brain involved in memory",
-     "The muscles only",
-     "The eyes",
-     "Nothing special"
-    ],
-    "answer": 0,
-    "explanation": "手写能激活大脑中与记忆和学习相关的区域。"
-   },
-   {
-    "question": "Why do some educators want to keep handwriting in the curriculum?",
-    "options": [
-     "Out of nostalgia",
-     "For its cognitive benefits",
-     "Because it is cheap",
-     "Because parents demand it"
-    ],
-    "answer": 1,
-    "explanation": "教育者认为应保留手写，是因为它真正的认知益处而非怀旧。"
-   }
-  ]
- },
- {
-  "id": "listen-014",
-  "title": "The Economics of Happiness",
-  "difficulty": "考研",
-  "passage": "The relationship between money and happiness is more complicated than most people assume. Research shows that rising income does improve well-being, but only up to a point. Once basic needs are met, additional wealth produces smaller and smaller gains in satisfaction. What predicts happiness far more reliably are relationships, health, and a sense of purpose. This finding has led some governments to look beyond economic growth and to measure the well-being of their citizens directly.",
-  "questions": [
-   {
-    "question": "According to the passage, rising income improves well-being only until what point?",
-    "options": [
-     "Forever",
-     "Until basic needs are met",
-     "Until retirement",
-     "Never"
-    ],
-    "answer": 1,
-    "explanation": "收入增长只在基本需求满足之前显著提升幸福感。"
-   },
-   {
-    "question": "What predicts happiness more reliably than money?",
-    "options": [
-     "Relationships, health and purpose",
-     "A large house",
-     "Luxury cars",
-     "Frequent travel"
-    ],
-    "answer": 0,
-    "explanation": "关系、健康和目标感比金钱更能预测幸福。"
-   },
-   {
-    "question": "What have some governments begun to measure?",
-    "options": [
-     "Only GDP",
-     "The well-being of citizens",
-     "The stock market",
-     "Population only"
-    ],
-    "answer": 1,
-    "explanation": "一些政府开始直接衡量公民的幸福感。"
-   }
-  ]
- },
- {
   "id": "listen-015",
   "title": "The Rise of Remote Work",
   "difficulty": "CET-6",
@@ -656,47 +287,6 @@
   ]
  },
  {
-  "id": "listen-017",
-  "title": "The Benefits of Bilingualism",
-  "difficulty": "考研",
-  "passage": "Bilingualism was once viewed with suspicion, but research has turned that view on its head. Far from confusing the mind, speaking two languages appears to strengthen it. Bilingual individuals constantly manage two linguistic systems, which exercises the brain's executive control and improves attention. Some studies even suggest that lifelong bilingualism may delay the onset of dementia by several years, building a cognitive reserve that protects the ageing brain.",
-  "questions": [
-   {
-    "question": "How was bilingualism once viewed?",
-    "options": [
-     "With admiration",
-     "With suspicion",
-     "With indifference",
-     "As essential"
-    ],
-    "answer": 1,
-    "explanation": "双语能力曾被怀疑地看待。"
-   },
-   {
-    "question": "What does speaking two languages strengthen?",
-    "options": [
-     "The body's muscles",
-     "The brain's executive control",
-     "The immune system",
-     "Nothing"
-    ],
-    "answer": 1,
-    "explanation": "双语者不断管理两套语言系统，锻炼了大脑的执行控制能力。"
-   },
-   {
-    "question": "What may lifelong bilingualism delay?",
-    "options": [
-     "Retirement",
-     "The onset of dementia",
-     "Graduation",
-     "Marriage"
-    ],
-    "answer": 1,
-    "explanation": "研究表明终身双语可能将痴呆症发病推迟数年。"
-   }
-  ]
- },
- {
   "id": "listen-018",
   "title": "Food Waste",
   "difficulty": "CET-6",
@@ -738,47 +328,6 @@
   ]
  },
  {
-  "id": "listen-019",
-  "title": "The Growth Mindset",
-  "difficulty": "考研",
-  "passage": "The growth mindset is the belief that abilities can be developed through effort and learning. People with this mindset tend to see challenges as opportunities rather than threats, and they persist longer when facing difficulty. In contrast, those with a fixed mindset believe that intelligence is innate and unchangeable, which can lead them to avoid challenges for fear of failure. The key insight, educators say, is that praising effort rather than talent encourages the kind of persistence that leads to genuine improvement.",
-  "questions": [
-   {
-    "question": "What is the growth mindset?",
-    "options": [
-     "The belief that abilities can be developed",
-     "The belief that intelligence is fixed",
-     "A type of exercise",
-     "A teaching method only"
-    ],
-    "answer": 0,
-    "explanation": "成长型思维是相信能力可以通过努力和学习发展。"
-   },
-   {
-    "question": "What do people with a fixed mindset tend to do?",
-    "options": [
-     "Embrace challenges",
-     "Avoid challenges for fear of failure",
-     "Learn faster",
-     "Ask for help"
-    ],
-    "answer": 1,
-    "explanation": "固定型思维的人认为智力天生不变，可能因害怕失败而回避挑战。"
-   },
-   {
-    "question": "What should educators praise to encourage persistence?",
-    "options": [
-     "Talent",
-     "Effort",
-     "Appearance",
-     "Wealth"
-    ],
-    "answer": 1,
-    "explanation": "教育者应表扬努力而非天赋，以鼓励坚持。"
-   }
-  ]
- },
- {
   "id": "listen-020",
   "title": "The History of the Internet",
   "difficulty": "CET-6",
@@ -816,47 +365,6 @@
     ],
     "answer": 1,
     "explanation": "20 世纪 90 年代初万维网的出现让普通人也能使用互联网。"
-   }
-  ]
- },
- {
-  "id": "listen-021",
-  "title": "The Power of Reading Aloud",
-  "difficulty": "CET-4",
-  "passage": "Reading aloud is often considered an activity for children, but it benefits people of all ages. When we read aloud, we engage both the visual and auditory parts of the brain, which deepens comprehension and memory. Language learners, in particular, benefit from hearing the rhythm and pronunciation of words. Teachers recommend reading aloud for just a few minutes each day, noting that the practice improves fluency and builds confidence over time.",
-  "questions": [
-   {
-    "question": "Who benefits from reading aloud?",
-    "options": [
-     "Only children",
-     "People of all ages",
-     "Only teachers",
-     "Only the elderly"
-    ],
-    "answer": 1,
-    "explanation": "朗读对所有年龄段的人都有益。"
-   },
-   {
-    "question": "Why does reading aloud deepen comprehension?",
-    "options": [
-     "It engages visual and auditory parts of the brain",
-     "It is faster",
-     "It is quieter",
-     "It uses less energy"
-    ],
-    "answer": 0,
-    "explanation": "朗读同时调动大脑的视觉和听觉部分，加深理解和记忆。"
-   },
-   {
-    "question": "How long do teachers recommend reading aloud?",
-    "options": [
-     "One hour",
-     "A few minutes each day",
-     "Once a week",
-     "Never"
-    ],
-    "answer": 1,
-    "explanation": "教师建议每天朗读几分钟即可。"
    }
   ]
  },
@@ -943,6 +451,457 @@
   ]
  },
  {
+  "id": "listen-026",
+  "title": "Preparing for a Job Interview",
+  "difficulty": "CET-6",
+  "passage": "A job interview is as much about preparation as it is about first impressions. Experts advise candidates to research the company thoroughly, practise answering common questions, and prepare a few thoughtful questions of their own. During the interview, body language matters as much as words: eye contact, a firm handshake, and a confident posture all signal genuine interest. After the interview, sending a brief thank-you note can leave a lasting, positive impression.",
+  "questions": [
+   {
+    "question": "What should candidates do before an interview?",
+    "options": [
+     "Arrive late",
+     "Research the company thoroughly",
+     "Avoid preparing questions",
+     "Wear casual clothes"
+    ],
+    "answer": 1,
+    "explanation": "专家建议候选人充分研究公司，练习回答问题并准备自己的问题。"
+   },
+   {
+    "question": "What signals genuine interest during the interview?",
+    "options": [
+     "Looking away",
+     "Eye contact and confident posture",
+     "Speaking softly",
+     "Checking a phone"
+    ],
+    "answer": 1,
+    "explanation": "眼神接触、有力的握手和自信的姿态都显示出真正的兴趣。"
+   },
+   {
+    "question": "What can leave a lasting impression after the interview?",
+    "options": [
+     "A thank-you note",
+     "Complaining about the wait",
+     "Asking for a higher salary immediately",
+     "Staying silent"
+    ],
+    "answer": 0,
+    "explanation": "面试后发送简短的感谢信能留下持久的正面印象。"
+   }
+  ]
+ },
+ {
+  "id": "listen-027",
+  "title": "Reducing Plastic Pollution",
+  "difficulty": "CET-6",
+  "passage": "Plastic pollution has become one of the most pressing environmental problems of our time. Millions of tons of plastic enter the oceans every year, harming marine life and entering the food chain. Governments around the world have begun to respond, with many countries banning single-use plastic bags and straws. Individuals can also help by carrying reusable bags, refusing unnecessary packaging, and properly recycling the plastic they do use.",
+  "questions": [
+   {
+    "question": "What is one of the most pressing environmental problems?",
+    "options": [
+     "Plastic pollution",
+     "Noise pollution",
+     "Soil erosion only",
+     "Deforestation only"
+    ],
+    "answer": 0,
+    "explanation": "塑料污染已成为当今最紧迫的环境问题之一。"
+   },
+   {
+    "question": "How do plastics harm the environment?",
+    "options": [
+     "They enter the oceans and food chain",
+     "They improve marine life",
+     "They clean the water",
+     "They have no effect"
+    ],
+    "answer": 0,
+    "explanation": "塑料进入海洋，危害海洋生物并进入食物链。"
+   },
+   {
+    "question": "What have many countries done?",
+    "options": [
+     "Banned single-use plastic items",
+     "Increased plastic production",
+     "Ignored the problem",
+     "Banned recycling"
+    ],
+    "answer": 0,
+    "explanation": "许多国家禁止了一次性塑料袋和吸管。"
+   }
+  ]
+ },
+ {
+  "id": "listen-028",
+  "title": "Artificial Intelligence in Medicine",
+  "difficulty": "CET-6",
+  "passage": "Artificial intelligence is transforming the field of medicine in ways that were once the stuff of science fiction. AI systems can now analyse medical images, such as X-rays and scans, with remarkable accuracy, often spotting signs of disease that human eyes might miss. In some hospitals, AI assists doctors by suggesting diagnoses and treatment plans. While AI will not replace doctors, it is becoming an increasingly valuable tool that allows medical professionals to work faster and more accurately.",
+  "questions": [
+   {
+    "question": "What can AI systems do with medical images?",
+    "options": [
+     "Analyse them with high accuracy",
+     "Replace them entirely",
+     "Ignore them",
+     "Sell them"
+    ],
+    "answer": 0,
+    "explanation": "AI 系统能以惊人的准确度分析 X 光片和扫描图像。"
+   },
+   {
+    "question": "How does AI assist doctors?",
+    "options": [
+     "By suggesting diagnoses and treatments",
+     "By replacing all doctors",
+     "By raising costs only",
+     "By limiting access to care"
+    ],
+    "answer": 0,
+    "explanation": "AI 通过建议诊断和治疗方案来协助医生。"
+   },
+   {
+    "question": "What is the role of AI according to the passage?",
+    "options": [
+     "To replace doctors",
+     "To be a valuable tool",
+     "To make medicine slower",
+     "To have no role"
+    ],
+    "answer": 1,
+    "explanation": "AI 不会取代医生，而是成为越来越有价值的工具。"
+   }
+  ]
+ },
+ {
+  "id": "listen-029",
+  "title": "The Benefits of Regular Exercise",
+  "difficulty": "CET-6",
+  "passage": "The benefits of regular exercise extend far beyond physical fitness. Exercise has been shown to reduce stress, improve mood, and even enhance cognitive function. When we exercise, the brain releases chemicals that create feelings of well-being, which is why many people describe exercise as a natural antidepressant. Experts recommend at least 150 minutes of moderate activity per week, but they stress that even small amounts of movement, such as a daily walk, can make a meaningful difference.",
+  "questions": [
+   {
+    "question": "What is one benefit of exercise beyond fitness?",
+    "options": [
+     "It reduces stress and improves mood",
+     "It only builds muscle",
+     "It increases stress",
+     "It has no mental benefit"
+    ],
+    "answer": 0,
+    "explanation": "运动能减轻压力、改善情绪甚至增强认知功能。"
+   },
+   {
+    "question": "What does the brain release during exercise?",
+    "options": [
+     "Chemicals that create well-being",
+     "Harmful toxins",
+     "Nothing",
+     "Only adrenaline"
+    ],
+    "answer": 0,
+    "explanation": "运动时大脑释放让人产生幸福感的化学物质。"
+   },
+   {
+    "question": "How much exercise do experts recommend weekly?",
+    "options": [
+     "At least 150 minutes",
+     "30 minutes",
+     "10 minutes",
+     "No exercise"
+    ],
+    "answer": 0,
+    "explanation": "专家建议每周至少 150 分钟的中等强度活动。"
+   }
+  ]
+ },
+ {
+  "id": "listen-030",
+  "title": "Studying Abroad",
+  "difficulty": "CET-6",
+  "passage": "Studying abroad is a life-changing experience for many students, but it comes with both rewards and challenges. On the positive side, students gain independence, improve their language skills, and develop a global perspective that employers value. However, living in a foreign country can also be difficult, as students face homesickness, culture shock, and financial pressure. Experts advise students to prepare carefully, set realistic expectations, and stay open to new experiences.",
+  "questions": [
+   {
+    "question": "What is a benefit of studying abroad?",
+    "options": [
+     "Developing a global perspective",
+     "Avoiding challenges",
+     "Staying dependent",
+     "Learning nothing new"
+    ],
+    "answer": 0,
+    "explanation": "留学能让学生获得独立、提高语言能力并培养全球视野。"
+   },
+   {
+    "question": "What challenge do students face abroad?",
+    "options": [
+     "Culture shock and homesickness",
+     "Too much free time",
+     "Lower costs",
+     "No language barriers"
+    ],
+    "answer": 0,
+    "explanation": "学生在国外会面临想家、文化冲击和经济压力。"
+   },
+   {
+    "question": "What do experts advise students to do?",
+    "options": [
+     "Prepare carefully and stay open",
+     "Avoid all challenges",
+     "Isolate themselves",
+     "Give up quickly"
+    ],
+    "answer": 0,
+    "explanation": "专家建议学生认真准备、设合理预期并对新体验保持开放。"
+   }
+  ]
+ },
+ {
+  "id": "listen-031",
+  "title": "The Ageing Population",
+  "difficulty": "CET-6",
+  "passage": "Many countries are experiencing a rapid ageing of their populations as birth rates fall and life expectancy rises. This demographic shift brings significant challenges, including increased demand for healthcare and pressure on pension systems. At the same time, an ageing population can be seen as an opportunity: older people bring experience, wisdom, and often a willingness to volunteer. Societies that adapt well will find ways to keep older citizens active and engaged.",
+  "questions": [
+   {
+    "question": "What causes the ageing of populations?",
+    "options": [
+     "Falling birth rates and longer lives",
+     "Rising birth rates",
+     "Shorter life expectancy",
+     "Increased immigration"
+    ],
+    "answer": 0,
+    "explanation": "出生率下降和预期寿命延长导致人口老龄化。"
+   },
+   {
+    "question": "What challenge does ageing bring?",
+    "options": [
+     "Pressure on healthcare and pensions",
+     "Fewer hospitals needed",
+     "Lower demand for services",
+     "A larger workforce"
+    ],
+    "answer": 0,
+    "explanation": "老龄化增加了医疗需求和养老金体系的压力。"
+   },
+   {
+    "question": "What opportunity does ageing present?",
+    "options": [
+     "Older people bring experience and wisdom",
+     "Nothing positive",
+     "Fewer volunteers",
+     "Lower productivity only"
+    ],
+    "answer": 0,
+    "explanation": "老年人带来经验、智慧，并常常愿意做志愿工作。"
+   }
+  ]
+ },
+ {
+  "id": "listen-032",
+  "title": "The Psychology of Consumer Choice",
+  "difficulty": "CET-6",
+  "passage": "Marketers have long understood that consumer decisions are rarely purely rational. Shoppers are influenced by a wide range of psychological factors, from the colour of packaging to the way prices are displayed. For example, an item priced at 9.99 appears significantly cheaper than one priced at 10, even though the difference is trivial. Understanding these influences can help consumers make more deliberate choices rather than being guided entirely by emotion or clever marketing.",
+  "questions": [
+   {
+    "question": "What have marketers long understood?",
+    "options": [
+     "Consumer decisions are rarely purely rational",
+     "Consumers only care about price",
+     "Consumers ignore packaging",
+     "Marketing has no effect"
+    ],
+    "answer": 0,
+    "explanation": "营销人员早就明白消费者的决定很少是纯理性的。"
+   },
+   {
+    "question": "Why does 9.99 seem much cheaper than 10?",
+    "options": [
+     "Because of psychological pricing effects",
+     "Because it is a bigger discount",
+     "Because of taxes",
+     "It is not cheaper"
+    ],
+    "answer": 0,
+    "explanation": "价格显示方式带来的心理效应让 9.99 显得便宜得多。"
+   },
+   {
+    "question": "What can understanding these influences help consumers do?",
+    "options": [
+     "Make more deliberate choices",
+     "Spend more money",
+     "Avoid all shopping",
+     "Trust marketers more"
+    ],
+    "answer": 0,
+    "explanation": "理解这些影响能帮助消费者做出更审慎的选择。"
+   }
+  ]
+ },
+ {
+  "id": "listen-013",
+  "title": "The Decline of Handwriting",
+  "difficulty": "考研",
+  "passage": "As keyboards and touchscreens replace pens, handwriting is quietly disappearing from daily life. This change carries unexpected consequences. Research shows that writing by hand activates areas of the brain involved in memory and learning in ways that typing does not. Students who take notes by hand tend to understand and retain material better than those who type. Some educators therefore argue that handwriting should remain part of the curriculum, not out of nostalgia, but for its genuine cognitive benefits.",
+  "questions": [
+   {
+    "question": "What is quietly disappearing from daily life?",
+    "options": [
+     "Keyboards",
+     "Handwriting",
+     "Computers",
+     "Books"
+    ],
+    "answer": 1,
+    "explanation": "随着键盘和触屏取代笔，手写正从日常生活中消失。"
+   },
+   {
+    "question": "What does writing by hand activate?",
+    "options": [
+     "Areas of the brain involved in memory",
+     "The muscles only",
+     "The eyes",
+     "Nothing special"
+    ],
+    "answer": 0,
+    "explanation": "手写能激活大脑中与记忆和学习相关的区域。"
+   },
+   {
+    "question": "Why do some educators want to keep handwriting in the curriculum?",
+    "options": [
+     "Out of nostalgia",
+     "For its cognitive benefits",
+     "Because it is cheap",
+     "Because parents demand it"
+    ],
+    "answer": 1,
+    "explanation": "教育者认为应保留手写，是因为它真正的认知益处而非怀旧。"
+   }
+  ]
+ },
+ {
+  "id": "listen-014",
+  "title": "The Economics of Happiness",
+  "difficulty": "考研",
+  "passage": "The relationship between money and happiness is more complicated than most people assume. Research shows that rising income does improve well-being, but only up to a point. Once basic needs are met, additional wealth produces smaller and smaller gains in satisfaction. What predicts happiness far more reliably are relationships, health, and a sense of purpose. This finding has led some governments to look beyond economic growth and to measure the well-being of their citizens directly.",
+  "questions": [
+   {
+    "question": "According to the passage, rising income improves well-being only until what point?",
+    "options": [
+     "Forever",
+     "Until basic needs are met",
+     "Until retirement",
+     "Never"
+    ],
+    "answer": 1,
+    "explanation": "收入增长只在基本需求满足之前显著提升幸福感。"
+   },
+   {
+    "question": "What predicts happiness more reliably than money?",
+    "options": [
+     "Relationships, health and purpose",
+     "A large house",
+     "Luxury cars",
+     "Frequent travel"
+    ],
+    "answer": 0,
+    "explanation": "关系、健康和目标感比金钱更能预测幸福。"
+   },
+   {
+    "question": "What have some governments begun to measure?",
+    "options": [
+     "Only GDP",
+     "The well-being of citizens",
+     "The stock market",
+     "Population only"
+    ],
+    "answer": 1,
+    "explanation": "一些政府开始直接衡量公民的幸福感。"
+   }
+  ]
+ },
+ {
+  "id": "listen-017",
+  "title": "The Benefits of Bilingualism",
+  "difficulty": "考研",
+  "passage": "Bilingualism was once viewed with suspicion, but research has turned that view on its head. Far from confusing the mind, speaking two languages appears to strengthen it. Bilingual individuals constantly manage two linguistic systems, which exercises the brain's executive control and improves attention. Some studies even suggest that lifelong bilingualism may delay the onset of dementia by several years, building a cognitive reserve that protects the ageing brain.",
+  "questions": [
+   {
+    "question": "How was bilingualism once viewed?",
+    "options": [
+     "With admiration",
+     "With suspicion",
+     "With indifference",
+     "As essential"
+    ],
+    "answer": 1,
+    "explanation": "双语能力曾被怀疑地看待。"
+   },
+   {
+    "question": "What does speaking two languages strengthen?",
+    "options": [
+     "The body's muscles",
+     "The brain's executive control",
+     "The immune system",
+     "Nothing"
+    ],
+    "answer": 1,
+    "explanation": "双语者不断管理两套语言系统，锻炼了大脑的执行控制能力。"
+   },
+   {
+    "question": "What may lifelong bilingualism delay?",
+    "options": [
+     "Retirement",
+     "The onset of dementia",
+     "Graduation",
+     "Marriage"
+    ],
+    "answer": 1,
+    "explanation": "研究表明终身双语可能将痴呆症发病推迟数年。"
+   }
+  ]
+ },
+ {
+  "id": "listen-019",
+  "title": "The Growth Mindset",
+  "difficulty": "考研",
+  "passage": "The growth mindset is the belief that abilities can be developed through effort and learning. People with this mindset tend to see challenges as opportunities rather than threats, and they persist longer when facing difficulty. In contrast, those with a fixed mindset believe that intelligence is innate and unchangeable, which can lead them to avoid challenges for fear of failure. The key insight, educators say, is that praising effort rather than talent encourages the kind of persistence that leads to genuine improvement.",
+  "questions": [
+   {
+    "question": "What is the growth mindset?",
+    "options": [
+     "The belief that abilities can be developed",
+     "The belief that intelligence is fixed",
+     "A type of exercise",
+     "A teaching method only"
+    ],
+    "answer": 0,
+    "explanation": "成长型思维是相信能力可以通过努力和学习发展。"
+   },
+   {
+    "question": "What do people with a fixed mindset tend to do?",
+    "options": [
+     "Embrace challenges",
+     "Avoid challenges for fear of failure",
+     "Learn faster",
+     "Ask for help"
+    ],
+    "answer": 1,
+    "explanation": "固定型思维的人认为智力天生不变，可能因害怕失败而回避挑战。"
+   },
+   {
+    "question": "What should educators praise to encourage persistence?",
+    "options": [
+     "Talent",
+     "Effort",
+     "Appearance",
+     "Wealth"
+    ],
+    "answer": 1,
+    "explanation": "教育者应表扬努力而非天赋，以鼓励坚持。"
+   }
+  ]
+ },
+ {
   "id": "listen-024",
   "title": "The Importance of Critical Thinking",
   "difficulty": "考研",
@@ -1021,6 +980,498 @@
     ],
     "answer": 1,
     "explanation": "从失败中学习的人会培养出最终通向成功的韧性。"
+   }
+  ]
+ },
+ {
+  "id": "listen-033",
+  "title": "The Nature of Metaphor",
+  "difficulty": "考研",
+  "passage": "Metaphor is often thought of as a decorative device used by poets, but linguists argue that it is far more fundamental. In their view, metaphor shapes the way we think, not just the way we speak. We speak of time as money, of arguments as buildings, and of life as a journey, and these metaphors quietly structure our understanding. Once we recognise how deeply metaphorical thinking runs, we begin to see that language is never merely literal.",
+  "questions": [
+   {
+    "question": "How is metaphor often thought of?",
+    "options": [
+     "As a decorative device for poets",
+     "As the foundation of logic",
+     "As a mathematical tool",
+     "As irrelevant to thought"
+    ],
+    "answer": 0,
+    "explanation": "隐喻常被视为诗人使用的装饰手法。"
+   },
+   {
+    "question": "What do linguists argue about metaphor?",
+    "options": [
+     "It shapes the way we think",
+     "It has no importance",
+     "It only affects poetry",
+     "It is purely literal"
+    ],
+    "answer": 0,
+    "explanation": "语言学家认为隐喻塑造了我们的思维方式。"
+   },
+   {
+    "question": "What do we speak of time as?",
+    "options": [
+     "Money",
+     "A building",
+     "A machine",
+     "A river"
+    ],
+    "answer": 0,
+    "explanation": "我们把时间说成金钱（如节省时间、花费时间）。"
+   }
+  ]
+ },
+ {
+  "id": "listen-034",
+  "title": "Translation and Cultural Equivalence",
+  "difficulty": "考研",
+  "passage": "One of the central problems in translation theory is the question of equivalence. A translator must decide whether to remain faithful to the literal meaning of the original or to reproduce its effect in the target culture. A phrase that is perfectly natural in one language may sound awkward or even meaningless in another. Skilled translators therefore navigate between languages and cultures, often sacrificing literal accuracy to preserve the spirit, tone, and function of the original text.",
+  "questions": [
+   {
+    "question": "What is a central problem in translation theory?",
+    "options": [
+     "The question of equivalence",
+     "Finding translators",
+     "Pricing translations",
+     "Copyright law"
+    ],
+    "answer": 0,
+    "explanation": "翻译理论的核心问题之一是对等问题。"
+   },
+   {
+    "question": "What must a translator decide between?",
+    "options": [
+     "Literal meaning and cultural effect",
+     "Speed and quality only",
+     "Two different fees",
+     "Paper and digital"
+    ],
+    "answer": 0,
+    "explanation": "译者要在忠实原文字面和再现其文化效果之间抉择。"
+   },
+   {
+    "question": "What may skilled translators sacrifice?",
+    "options": [
+     "Literal accuracy to preserve spirit",
+     "The entire text",
+     "Cultural nuance",
+     "Nothing at all"
+    ],
+    "answer": 0,
+    "explanation": "熟练的译者可能牺牲字面准确以保留原文精神、语气和功能。"
+   }
+  ]
+ },
+ {
+  "id": "listen-035",
+  "title": "The Stream of Consciousness",
+  "difficulty": "考研",
+  "passage": "The stream of consciousness is a narrative technique that attempts to capture the flow of thoughts and feelings as they pass through a character's mind. Unlike traditional narration, which presents events in an orderly way, this technique mirrors the chaotic, associative nature of thought itself. Writers such as Virginia Woolf and James Joyce used it to explore the inner lives of their characters with unprecedented depth, though their prose can be demanding for readers.",
+  "questions": [
+   {
+    "question": "What does the stream of consciousness attempt to capture?",
+    "options": [
+     "The flow of thoughts and feelings",
+     "Only external events",
+     "Historical facts",
+     "Scientific data"
+    ],
+    "answer": 0,
+    "explanation": "意识流试图捕捉人物脑海中思绪和情感的流动。"
+   },
+   {
+    "question": "How does this technique differ from traditional narration?",
+    "options": [
+     "It mirrors the chaotic nature of thought",
+     "It is more orderly",
+     "It avoids emotions",
+     "It has no characters"
+    ],
+    "answer": 0,
+    "explanation": "它模仿思想本身混乱、联想式的特征。"
+   },
+   {
+    "question": "Which writers are mentioned?",
+    "options": [
+     "Virginia Woolf and James Joyce",
+     "Shakespeare and Dickens",
+     "Hemingway and Twain",
+     "Austen and Eliot"
+    ],
+    "answer": 0,
+    "explanation": "文中提到弗吉尼亚·伍尔夫和詹姆斯·乔伊斯。"
+   }
+  ]
+ },
+ {
+  "id": "listen-036",
+  "title": "Language and Thought",
+  "difficulty": "考研",
+  "passage": "Does the language we speak shape the way we think? This question, known as the Sapir-Whorf hypothesis, has fascinated linguists for decades. In its strong form, the hypothesis claims that language determines thought, while its weaker version suggests that language merely influences it. Most scholars today accept a moderate position: language does not imprison the mind, but the words and categories a language offers can highlight some distinctions and obscure others.",
+  "questions": [
+   {
+    "question": "What is the Sapir-Whorf hypothesis about?",
+    "options": [
+     "Whether language shapes thought",
+     "The history of words",
+     "Grammar rules",
+     "Pronunciation"
+    ],
+    "answer": 0,
+    "explanation": "萨丕尔-沃尔夫假说探讨语言是否塑造思维。"
+   },
+   {
+    "question": "What does the strong form of the hypothesis claim?",
+    "options": [
+     "Language determines thought",
+     "Language has no effect",
+     "Thought determines language",
+     "Language is unrelated"
+    ],
+    "answer": 0,
+    "explanation": "强式假说认为语言决定思维。"
+   },
+   {
+    "question": "What position do most scholars accept today?",
+    "options": [
+     "A moderate position",
+     "The strong form",
+     "That language is irrelevant",
+     "The weak form only"
+    ],
+    "answer": 0,
+    "explanation": "大多数学者接受温和立场：语言不囚禁思维，但会凸显或模糊某些区别。"
+   }
+  ]
+ },
+ {
+  "id": "listen-037",
+  "title": "The Role of Symbolism in Literature",
+  "difficulty": "考研",
+  "passage": "Symbolism is a literary device in which an object, person, or event represents a deeper meaning beyond its literal sense. In F. Scott Fitzgerald's The Great Gatsby, the green light across the bay symbolises Gatsby's dreams and the broader American Dream. Symbols gain their power from context and repetition, and their interpretation often requires careful reading. A symbol is not merely a hidden code but a way of layering additional meaning onto a text.",
+  "questions": [
+   {
+    "question": "What is symbolism?",
+    "options": [
+     "A device where something represents a deeper meaning",
+     "A type of rhyme",
+     "A historical event",
+     "A grammatical rule"
+    ],
+    "answer": 0,
+    "explanation": "象征是物体、人物或事件代表字面之外更深含义的文学手法。"
+   },
+   {
+    "question": "What does the green light symbolise in The Great Gatsby?",
+    "options": [
+     "Gatsby's dreams and the American Dream",
+     "Wealth only",
+     "A traffic signal",
+     "Nature"
+    ],
+    "answer": 0,
+    "explanation": "绿灯象征盖茨比的梦想和更广泛的美国梦。"
+   },
+   {
+    "question": "How do symbols gain their power?",
+    "options": [
+     "From context and repetition",
+     "From being obvious",
+     "From length only",
+     "From randomness"
+    ],
+    "answer": 0,
+    "explanation": "象征的力量来自语境和重复，其解读需要仔细阅读。"
+   }
+  ]
+ },
+ {
+  "id": "listen-038",
+  "title": "The Concept of the Canon",
+  "difficulty": "考研",
+  "passage": "The literary canon refers to the body of works traditionally regarded as the most important and worthy of study. For much of history, this canon was dominated by a narrow group of writers, and critics have long debated who gets included and who is left out. In recent decades, scholars have worked to broaden the canon, bringing in voices that were previously marginalised. The debate over the canon is ultimately a debate about what a culture chooses to remember and value.",
+  "questions": [
+   {
+    "question": "What is the literary canon?",
+    "options": [
+     "Works traditionally regarded as most important",
+     "A type of poem",
+     "A publishing company",
+     "A historical period"
+    ],
+    "answer": 0,
+    "explanation": "文学经典是传统上被认为最重要、最值得研究的作品整体。"
+   },
+   {
+    "question": "What have critics debated?",
+    "options": [
+     "Who gets included and left out",
+     "The price of books",
+     "The length of novels",
+     "Paper quality"
+    ],
+    "answer": 0,
+    "explanation": "批评家长期争论谁被收录、谁被排除。"
+   },
+   {
+    "question": "What is the debate over the canon ultimately about?",
+    "options": [
+     "What a culture chooses to remember and value",
+     "Grammar",
+     "Spelling rules",
+     "Book sales"
+    ],
+    "answer": 0,
+    "explanation": "关于经典的争论本质上是关于一个文化选择记住和珍视什么。"
+   }
+  ]
+ },
+ {
+  "id": "listen-039",
+  "title": "First and Second Language Acquisition",
+  "difficulty": "考研",
+  "passage": "Linguists distinguish between first language acquisition, the natural process by which children learn their mother tongue, and second language acquisition, which occurs when a person learns another language later in life. Children acquire their first language largely through immersion and without formal instruction, while adults often learn a second language more consciously, relying on rules and memorisation. Understanding the differences helps explain why adults rarely achieve native-like pronunciation, even when they achieve fluency.",
+  "questions": [
+   {
+    "question": "How do children acquire their first language?",
+    "options": [
+     "Naturally through immersion",
+     "Through formal grammar lessons",
+     "By reading textbooks",
+     "Through translation"
+    ],
+    "answer": 0,
+    "explanation": "儿童主要通过沉浸、无需正式教学来习得母语。"
+   },
+   {
+    "question": "How do adults often learn a second language?",
+    "options": [
+     "More consciously, relying on rules",
+     "Exactly like children",
+     "Without any effort",
+     "Only through travel"
+    ],
+    "answer": 0,
+    "explanation": "成年人学习第二语言更靠自觉，依赖规则和记忆。"
+   },
+   {
+    "question": "What do adults rarely achieve even when fluent?",
+    "options": [
+     "Native-like pronunciation",
+     "Fluency",
+     "Vocabulary",
+     "Grammar accuracy"
+    ],
+    "answer": 0,
+    "explanation": "即使达到流利，成年人也很少能达到母语者的发音。"
+   }
+  ]
+ },
+ {
+  "id": "listen-040",
+  "title": "The Essay as a Literary Form",
+  "difficulty": "考研",
+  "passage": "The essay is a remarkably flexible literary form, sitting somewhere between literature and journalism, between the personal and the philosophical. It was popularised by the French writer Montaigne, who used it to explore his own thoughts in a tentative, questioning manner. Unlike a formal treatise, which aims to prove a point, the essay often proceeds by exploration, circling around an idea rather than marching toward a conclusion. This openness is precisely what gives the essay its enduring appeal.",
+  "questions": [
+   {
+    "question": "Where does the essay sit?",
+    "options": [
+     "Between literature and journalism",
+     "Only in philosophy",
+     "Only in science",
+     "Outside all genres"
+    ],
+    "answer": 0,
+    "explanation": "散文是介于文学与新闻、个人与哲思之间的灵活文体。"
+   },
+   {
+    "question": "Who popularised the essay?",
+    "options": [
+     "Montaigne",
+     "Shakespeare",
+     "Homer",
+     "Dickens"
+    ],
+    "answer": 0,
+    "explanation": "法国作家蒙田使散文这一文体流行起来。"
+   },
+   {
+    "question": "How does the essay often proceed?",
+    "options": [
+     "By exploration, circling an idea",
+     "By strict proof",
+     "By listing facts only",
+     "By avoiding ideas"
+    ],
+    "answer": 0,
+    "explanation": "散文常以探索方式推进，围绕一个想法盘旋而非直奔结论。"
+   }
+  ]
+ },
+ {
+  "id": "listen-041",
+  "title": "Ambiguity in Poetry",
+  "difficulty": "考研",
+  "passage": "Ambiguity in poetry is not a flaw but often a source of richness. When a line of verse can be read in more than one way, it invites the reader to participate in creating meaning. The critic William Empson identified several types of ambiguity, showing how multiple interpretations can coexist within a single phrase. This openness, however, places demands on the reader, who must weigh competing readings rather than settle for a single, fixed interpretation.",
+  "questions": [
+   {
+    "question": "What is ambiguity in poetry often a source of?",
+    "options": [
+     "Richness",
+     "Confusion only",
+     "Weakness",
+     "Error"
+    ],
+    "answer": 0,
+    "explanation": "诗歌中的歧义不是缺陷，而往往是丰富的来源。"
+   },
+   {
+    "question": "What does ambiguous verse invite the reader to do?",
+    "options": [
+     "Participate in creating meaning",
+     "Ignore the poem",
+     "Read only once",
+     "Avoid interpretation"
+    ],
+    "answer": 0,
+    "explanation": "歧义的诗句邀请读者参与意义的创造。"
+   },
+   {
+    "question": "Who identified types of ambiguity?",
+    "options": [
+     "William Empson",
+     "T.S. Eliot",
+     "Robert Frost",
+     "W.B. Yeats"
+    ],
+    "answer": 0,
+    "explanation": "批评家威廉·燕卜荪识别出多种歧义类型。"
+   }
+  ]
+ },
+ {
+  "id": "listen-042",
+  "title": "Irony and Its Functions",
+  "difficulty": "考研",
+  "passage": "Irony is one of the most powerful and frequently misunderstood devices in literature. In its simplest form, it occurs when what is said differs from what is meant. Dramatic irony arises when the audience knows something that a character does not, creating tension and often pathos. Because irony depends on a gap between appearance and reality, it rewards readers who pay close attention, and it can serve purposes ranging from gentle humour to sharp social criticism.",
+  "questions": [
+   {
+    "question": "What is irony in its simplest form?",
+    "options": [
+     "When what is said differs from what is meant",
+     "When everything is literal",
+     "A type of rhyme",
+     "A historical event"
+    ],
+    "answer": 0,
+    "explanation": "反讽最简形式是所说与所表达的意思不同。"
+   },
+   {
+    "question": "What is dramatic irony?",
+    "options": [
+     "When the audience knows something a character does not",
+     "A type of play",
+     "When a character lies",
+     "A happy ending"
+    ],
+    "answer": 0,
+    "explanation": "戏剧性反讽指观众知道角色所不知之事。"
+   },
+   {
+    "question": "What can irony serve?",
+    "options": [
+     "From gentle humour to sharp criticism",
+     "Only comedy",
+     "Only tragedy",
+     "Nothing"
+    ],
+    "answer": 0,
+    "explanation": "反讽可用于温和幽默到尖锐社会批判等多种目的。"
+   }
+  ]
+ },
+ {
+  "id": "listen-043",
+  "title": "The Translator as Mediator",
+  "difficulty": "考研",
+  "passage": "The traditional view of the translator as an invisible servant has been challenged by modern translation studies. Scholars now see the translator as a mediator who actively negotiates between two languages and two cultures. Far from being a mechanical converter of words, the translator makes countless interpretive choices that shape how readers understand a foreign text. This recognition has raised the status of translation from a mere craft to a creative and intellectual activity in its own right.",
+  "questions": [
+   {
+    "question": "How was the translator traditionally viewed?",
+    "options": [
+     "As an invisible servant",
+     "As a creative artist",
+     "As an equal to the author",
+     "As unnecessary"
+    ],
+    "answer": 0,
+    "explanation": "传统观点把译者视为隐形的仆人。"
+   },
+   {
+    "question": "How do modern scholars see the translator?",
+    "options": [
+     "As a mediator between languages and cultures",
+     "As a machine",
+     "As invisible",
+     "As unimportant"
+    ],
+    "answer": 0,
+    "explanation": "现代学者把译者视为两种语言和两种文化之间的协调者。"
+   },
+   {
+    "question": "What has the recognition of the translator raised translation to?",
+    "options": [
+     "A creative and intellectual activity",
+     "A mere craft only",
+     "An obsolete skill",
+     "A mechanical task"
+    ],
+    "answer": 0,
+    "explanation": "这种认识把翻译从单纯技艺提升为创造性和智识活动。"
+   }
+  ]
+ },
+ {
+  "id": "listen-044",
+  "title": "Narrative Point of View",
+  "difficulty": "考研",
+  "passage": "The choice of narrative point of view fundamentally shapes a story. A first-person narrator offers intimacy but limits the reader to a single perspective, while a third-person omniscient narrator can move freely among characters but sacrifices some immediacy. Between these poles lie many variations, such as the limited third person, which follows one character closely while remaining outside them. Authors choose their point of view with care, knowing that it determines what readers can see and, crucially, what they cannot.",
+  "questions": [
+   {
+    "question": "What does a first-person narrator offer?",
+    "options": [
+     "Intimacy but a limited perspective",
+     "Total omniscience",
+     "No perspective",
+     "Only external events"
+    ],
+    "answer": 0,
+    "explanation": "第一人称叙述提供亲密感，但把读者限制在单一视角。"
+   },
+   {
+    "question": "What does an omniscient narrator sacrifice?",
+    "options": [
+     "Some immediacy",
+     "All knowledge",
+     "Nothing",
+     "Only the ending"
+    ],
+    "answer": 0,
+    "explanation": "全知叙述者能自由移动于人物之间，但牺牲了一些即时感。"
+   },
+   {
+    "question": "What does narrative point of view determine?",
+    "options": [
+     "What readers can see and cannot see",
+     "Only the length",
+     "Only the genre",
+     "Nothing"
+    ],
+    "answer": 0,
+    "explanation": "叙述视角决定了读者能看到什么、看不到什么。"
    }
   ]
  }
